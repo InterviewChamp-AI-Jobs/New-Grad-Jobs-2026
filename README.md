@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **1,264 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **1,266 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,264, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 1,266, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Entry-level roles for new grads and early-career job seekers. **1,264 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Formlabs](https://formlabs.com)** | **[Associate, Performance Marketing](https://interviewchamp.ai/jobs/formlabs-associate-performance-marketing-8248490?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Somerville, MA | On-site | $70k–$100k | Oct 2 |
+| **[Cortica - Neurodevelopmental](https://job-boards.greenhouse.io/allcareers)** | **[Behavior Technician (Entry-Level)](https://interviewchamp.ai/jobs/allcareers-behavior-technician-entry-level-8862141002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Mesa, Arizona | On-site |  | Oct 2 |
 | **[iCapital](https://job-boards.greenhouse.io/icapitalnetwork)** | **[Client Success Manager - Associate](https://interviewchamp.ai/jobs/icapitalnetwork-client-success-manager-associate-8861975002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Salt Lake City, Utah, United States | On-site | $70k–$85k | Oct 2 |
 | **[Welo Global](https://jobs.lever.co/weloglobal)** | **[Associate Manager, Robotics Lab](https://interviewchamp.ai/jobs/weloglobal-associate-manager-robotics-lab-0a11c80e-45dc-4cb4-87cb-e1cb113da297?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Santa Clara, CA | On-site |  | Oct 1 |
 | **[Celonis](https://celonis.com)** | **[Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program](https://interviewchamp.ai/jobs/celonis-associate-value-engineer-ai-driven-data-science-analytics-orbit-program-7885816003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York, US, New York | On-site | $90k–$95k | Oct 1 |
@@ -180,9 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **1,264 are live r
 | **[Defense Security Cooperation Agency](https://www.usajobs.gov)** | **[ASSOCIATE PROFESSOR/ PROFESSOR](https://interviewchamp.ai/jobs/defense-security-cooperation-agency-usajobs-associate-professor-professor-886736600?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Honolulu, Hawaii | On-site | $111,119–$195,644 | Sep 30 |
 | **[Department of State Headquarters](https://www.usajobs.gov)** | **[Student Trainee (Budget)](https://interviewchamp.ai/jobs/department-of-state-headquarters-usajobs-student-trainee-budget-886558700?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Washington, District of Columbia | On-site | $46,610–$60,593 | Sep 30 |
 | **[Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab)** | **[Spacecraft Thermal Engineer I](https://interviewchamp.ai/jobs/rocketlab-spacecraft-thermal-engineer-i-8008852003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Long Beach, CA | On-site | $90.2k–$126.4k | Sep 29 |
-| **[Olsson](https://job-boards.greenhouse.io/olsson)** | **[Associate Technician – Substation Design](https://interviewchamp.ai/jobs/olsson-associate-technician-substation-design-5439253008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Fayetteville, AR | On-site |  | Sep 29 |
-| **[Bolt Farm Treehouse](https://jobs.ashbyhq.com/bolt-farm)** | **[Entry-Level Licensed Massage Therapist (LMT)](https://interviewchamp.ai/jobs/bolt-farm-entry-level-licensed-massage-therapist-lmt-0d974096-897d-4ded-bb5f-207443bf343d?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Bolt Farm - Whitwell, TN | On-site | $103k–$109k | Sep 29 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-02 00:42 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-02 03:36 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
