@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **1,266 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **1,268 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,266, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 1,268, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,9 +32,11 @@ Entry-level roles for new grads and early-career job seekers. **1,266 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Ridealso](https://jobs.ashbyhq.com/Ridealso)** | **[Sales Associate (Part-Time), Denver](https://interviewchamp.ai/jobs/ridealso-sales-associate-part-time-denver-df51c5fb-8502-4451-9768-f0d66a083407?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Denver | On-site |  | Oct 2 |
 | **[Formlabs](https://formlabs.com)** | **[Associate, Performance Marketing](https://interviewchamp.ai/jobs/formlabs-associate-performance-marketing-8248490?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Somerville, MA | On-site | $70k–$100k | Oct 2 |
 | **[Cortica - Neurodevelopmental](https://job-boards.greenhouse.io/allcareers)** | **[Behavior Technician (Entry-Level)](https://interviewchamp.ai/jobs/allcareers-behavior-technician-entry-level-8862141002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Mesa, Arizona | On-site |  | Oct 2 |
 | **[iCapital](https://job-boards.greenhouse.io/icapitalnetwork)** | **[Client Success Manager - Associate](https://interviewchamp.ai/jobs/icapitalnetwork-client-success-manager-associate-8861975002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Salt Lake City, Utah, United States | On-site | $70k–$85k | Oct 2 |
+| **[Farm Service Agency](https://www.usajobs.gov)** | **[County Program Analyst/Trainee](https://interviewchamp.ai/jobs/farm-service-agency-usajobs-county-program-analyst-trainee-886956300?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Onaway, Michigan | On-site | $36,464–$80,243 | Oct 2 |
 | **[Welo Global](https://jobs.lever.co/weloglobal)** | **[Associate Manager, Robotics Lab](https://interviewchamp.ai/jobs/weloglobal-associate-manager-robotics-lab-0a11c80e-45dc-4cb4-87cb-e1cb113da297?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Santa Clara, CA | On-site |  | Oct 1 |
 | **[Celonis](https://celonis.com)** | **[Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program](https://interviewchamp.ai/jobs/celonis-associate-value-engineer-ai-driven-data-science-analytics-orbit-program-7885816003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York, US, New York | On-site | $90k–$95k | Oct 1 |
 | **[Campus](https://jobs.ashbyhq.com/campus)** | **[Performance Marketing Associate](https://interviewchamp.ai/jobs/campus-performance-marketing-associate-467bd9c5-0e63-4619-889b-2d21a751f371?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Campus NYC (Remote) | Remote | $100k–$110k | Oct 1 |
@@ -177,12 +179,10 @@ Entry-level roles for new grads and early-career job seekers. **1,266 are live r
 | **[Securities and Exchange Commission](https://www.usajobs.gov)** | **[Junior Accountant - EXAMS](https://interviewchamp.ai/jobs/securities-and-exchange-commission-usajobs-junior-accountant-exams-886938800?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Los Angeles, California; San Francisco, California; Denver, Colorado (+8 more) | On-site | $71,465–$173,182 | Sep 30 |
 | **[U.S. Coast Guard](https://www.usajobs.gov)** | **[Electrical Helper Trainee](https://interviewchamp.ai/jobs/u-s-coast-guard-usajobs-electrical-helper-trainee-886925200?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Glen Burnie, Maryland | On-site |  | Sep 30 |
 | **[Goodstack](https://jobs.ashbyhq.com/goodstack)** | **[Customer Success Associate](https://interviewchamp.ai/jobs/goodstack-customer-success-associate-46c51fbf-d8e8-4b92-8f25-a8bac76d7036?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | 🇺🇸 USA (Remote) | Remote |  | Sep 30 |
-| **[Latent Defense](https://jobs.ashbyhq.com/latent)** | **[Associate Executive Business Partner](https://interviewchamp.ai/jobs/latent-associate-executive-business-partner-8fdbbe26-0b1a-474d-a5e4-798a88dcd442?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York City (Remote) | Remote | $100k–$130k | Sep 30 |
+| **[Latent Defense](https://jobs.ashbyhq.com/latent)** | **[Associate Executive Business Partner (New York)](https://interviewchamp.ai/jobs/latent-associate-executive-business-partner-new-york-8fdbbe26-0b1a-474d-a5e4-798a88dcd442?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York City (Remote) | Remote | $100k–$130k | Sep 30 |
 | **[SK hynix America](https://skhynix.com)** | **[Corporate Counsel (Junior-level)](https://interviewchamp.ai/jobs/skhynixamerica-corporate-counsel-junior-level-5439353008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Jose, CA | On-site | $90k–$110k | Sep 30 |
 | **[Defense Security Cooperation Agency](https://www.usajobs.gov)** | **[ASSOCIATE PROFESSOR/ PROFESSOR](https://interviewchamp.ai/jobs/defense-security-cooperation-agency-usajobs-associate-professor-professor-886736600?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Honolulu, Hawaii | On-site | $111,119–$195,644 | Sep 30 |
-| **[Department of State Headquarters](https://www.usajobs.gov)** | **[Student Trainee (Budget)](https://interviewchamp.ai/jobs/department-of-state-headquarters-usajobs-student-trainee-budget-886558700?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Washington, District of Columbia | On-site | $46,610–$60,593 | Sep 30 |
-| **[Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab)** | **[Spacecraft Thermal Engineer I](https://interviewchamp.ai/jobs/rocketlab-spacecraft-thermal-engineer-i-8008852003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Long Beach, CA | On-site | $90.2k–$126.4k | Sep 29 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-02 03:36 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-02 06:42 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
