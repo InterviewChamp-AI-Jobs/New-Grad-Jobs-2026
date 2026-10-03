@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **1,807 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **1,808 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,807, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 1,808, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Entry-level roles for new grads and early-career job seekers. **1,807 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Skin Laundry](https://job-boards.greenhouse.io/skinlaundry)** | **[PT - Sales Associate - Santa Monica](https://interviewchamp.ai/jobs/skinlaundry-pt-sales-associate-santa-monica-4740280005?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Santa Monica, California, United States | On-site |  | Oct 3 |
 | **[The Lockwood Group, LLC](https://job-boards.greenhouse.io/lockwood)** | **[Strategic Partnership Operations Associate](https://interviewchamp.ai/jobs/lockwood-strategic-partnership-operations-associate-5256362007?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Remote (Remote) | Remote |  | Oct 3 |
 | **[Cesium Astro](https://jobs.lever.co/CesiumAstro)** | **[Quality Assurance Associate II](https://interviewchamp.ai/jobs/cesiumastro-quality-assurance-associate-ii-26746d12-500a-4f6d-bc13-6c5fc80af7de?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Austin, TX | On-site |  | Oct 3 |
 | **[Cesium Astro](https://jobs.lever.co/CesiumAstro)** | **[Material Handler I](https://interviewchamp.ai/jobs/cesiumastro-material-handler-i-0774f958-bc98-428b-8141-fb525cf915c8?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Westminster, CO | On-site |  | Oct 3 |
@@ -181,8 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **1,807 are live r
 | **[Oldcastle BuildingEnvelope](https://job-boards.greenhouse.io/oldcastlebuildingenvelope)** | **[Machine Operator 1](https://interviewchamp.ai/jobs/oldcastlebuildingenvelope-machine-operator-1-4426583009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Northport, AL | On-site |  | Oct 1 |
 | **[Oldcastle BuildingEnvelope](https://job-boards.greenhouse.io/oldcastlebuildingenvelope)** | **[Assembler 1](https://interviewchamp.ai/jobs/oldcastlebuildingenvelope-assembler-1-4429838009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Northport, AL | On-site |  | Oct 1 |
 | **[Blank Street](https://job-boards.greenhouse.io/blankstreet)** | **[Marketing Associate \| NYC](https://interviewchamp.ai/jobs/blankstreet-marketing-associate-nyc-8010813003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York City, New York | On-site | $75k–$85k | Oct 1 |
-| **[Anduril Industries](https://anduril.com)** | **[Environmental Safety and Health Associate Manager, Policies and Procedures](https://interviewchamp.ai/jobs/andurilindustries-environmental-safety-and-health-associate-manager-policies-and-procedures-5254401007?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Reston, Virginia, United States | On-site | $112k–$149k | Oct 1 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-03 16:10 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-03 23:52 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
