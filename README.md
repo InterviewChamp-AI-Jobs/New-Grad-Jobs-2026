@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **1,802 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **1,804 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,802, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 1,804, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Entry-level roles for new grads and early-career job seekers. **1,802 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Think Academy US](https://job-boards.greenhouse.io/thinkacademyus)** | **[ELA Teaching Management Trainee](https://interviewchamp.ai/jobs/thinkacademyus-ela-teaching-management-trainee-8012152003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Jose, CA | On-site | $72k–$80.4k | Oct 3 |
+| **[Broccoli AI](https://jobs.ashbyhq.com/broccoli)** | **[Talent Associate](https://interviewchamp.ai/jobs/broccoli-talent-associate-db4687bd-1d4d-4651-819e-b81be01acfc9?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Francisco | On-site | $80k–$110k | Oct 3 |
 | **[Lakefield Veterinary Group](https://job-boards.greenhouse.io/lakefieldveterinarygroup)** | **[Associate Veterinarian - 7th Doctor Needed! - Wilderness Animal Hospital](https://interviewchamp.ai/jobs/lakefieldveterinarygroup-associate-veterinarian-7th-doctor-needed-wilderness-animal-hospital-4432737009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Wilderness Animal Hospital - Maple Valley, Washington | On-site |  | Oct 2 |
 | **[Twin Health](https://job-boards.greenhouse.io/twinhealth)** | **[Client Onboarding & Operations Associate](https://interviewchamp.ai/jobs/twinhealth-client-onboarding-operations-associate-6216178004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Remote, USA (Remote) | Remote | $110k–$115k | Oct 2 |
 | **[Relativity Space](https://relativityspace.com)** | **[Aerothermal Engineer I](https://interviewchamp.ai/jobs/relativity-aerothermal-engineer-i-8858535002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Long Beach, California, United States | On-site | $90k–$136k | Oct 2 |
@@ -180,9 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **1,802 are live r
 | **[Anduril Industries](https://anduril.com)** | **[Environmental Safety and Health Associate Manager, Policies and Procedures](https://interviewchamp.ai/jobs/andurilindustries-environmental-safety-and-health-associate-manager-policies-and-procedures-5254394007?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Ashville, Ohio, United States | On-site | $97k–$129k | Oct 1 |
 | **[Hunter Douglas](https://jobs.hunterdouglas.com)** | **[Automation & Controls Engineer I](https://interviewchamp.ai/jobs/hunterdouglas-automation-controls-engineer-i-8010809003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Broomfield, Colorado, United States | On-site | $78k–$97k | Oct 1 |
 | **[Air Education and Training Command](https://www.usajobs.gov)** | **[CHILD AND YOUTH PROGRAM ASSISTANT (ENTRY LEVEL)](https://interviewchamp.ai/jobs/air-education-and-training-command-usajobs-child-and-youth-program-assistant-entry-level-887286900?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Luke AFB, Arizona | On-site |  | Oct 1 |
-| **[Langan Engineering & Environmental Services](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc)** | **[Entry-Level Civil Engineer](https://interviewchamp.ai/jobs/langanengineeringandenvironmentalservicesllc-entry-level-civil-engineer-4356503009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Fort Lauderdale, FL | On-site |  | Oct 1 |
-| **[Clera](https://jobs.ashbyhq.com/clera)** | **[AI-Native Founder's Associate](https://interviewchamp.ai/jobs/clera-ai-native-founder-s-associate-972368b8-d71d-4b6c-b71c-54f0a1bf619b?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Francisco | On-site | $120k–$140k | Oct 1 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-03 00:41 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-03 03:41 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
