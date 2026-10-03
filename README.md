@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **1,804 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **1,807 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,804, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 1,807, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,9 @@ Entry-level roles for new grads and early-career job seekers. **1,804 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[The Lockwood Group, LLC](https://job-boards.greenhouse.io/lockwood)** | **[Strategic Partnership Operations Associate](https://interviewchamp.ai/jobs/lockwood-strategic-partnership-operations-associate-5256362007?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Remote (Remote) | Remote |  | Oct 3 |
+| **[Cesium Astro](https://jobs.lever.co/CesiumAstro)** | **[Quality Assurance Associate II](https://interviewchamp.ai/jobs/cesiumastro-quality-assurance-associate-ii-26746d12-500a-4f6d-bc13-6c5fc80af7de?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Austin, TX | On-site |  | Oct 3 |
+| **[Cesium Astro](https://jobs.lever.co/CesiumAstro)** | **[Material Handler I](https://interviewchamp.ai/jobs/cesiumastro-material-handler-i-0774f958-bc98-428b-8141-fb525cf915c8?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Westminster, CO | On-site |  | Oct 3 |
 | **[Think Academy US](https://job-boards.greenhouse.io/thinkacademyus)** | **[ELA Teaching Management Trainee](https://interviewchamp.ai/jobs/thinkacademyus-ela-teaching-management-trainee-8012152003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Jose, CA | On-site | $72k–$80.4k | Oct 3 |
 | **[Broccoli AI](https://jobs.ashbyhq.com/broccoli)** | **[Talent Associate](https://interviewchamp.ai/jobs/broccoli-talent-associate-db4687bd-1d4d-4651-819e-b81be01acfc9?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Francisco | On-site | $80k–$110k | Oct 3 |
 | **[Lakefield Veterinary Group](https://job-boards.greenhouse.io/lakefieldveterinarygroup)** | **[Associate Veterinarian - 7th Doctor Needed! - Wilderness Animal Hospital](https://interviewchamp.ai/jobs/lakefieldveterinarygroup-associate-veterinarian-7th-doctor-needed-wilderness-animal-hospital-4432737009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Wilderness Animal Hospital - Maple Valley, Washington | On-site |  | Oct 2 |
@@ -179,10 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **1,804 are live r
 | **[Oldcastle BuildingEnvelope](https://job-boards.greenhouse.io/oldcastlebuildingenvelope)** | **[Assembler 1](https://interviewchamp.ai/jobs/oldcastlebuildingenvelope-assembler-1-4429838009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Northport, AL | On-site |  | Oct 1 |
 | **[Blank Street](https://job-boards.greenhouse.io/blankstreet)** | **[Marketing Associate \| NYC](https://interviewchamp.ai/jobs/blankstreet-marketing-associate-nyc-8010813003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York City, New York | On-site | $75k–$85k | Oct 1 |
 | **[Anduril Industries](https://anduril.com)** | **[Environmental Safety and Health Associate Manager, Policies and Procedures](https://interviewchamp.ai/jobs/andurilindustries-environmental-safety-and-health-associate-manager-policies-and-procedures-5254401007?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Reston, Virginia, United States | On-site | $112k–$149k | Oct 1 |
-| **[Anduril Industries](https://anduril.com)** | **[Environmental Safety and Health Associate Manager, Policies and Procedures](https://interviewchamp.ai/jobs/andurilindustries-environmental-safety-and-health-associate-manager-policies-and-procedures-5254394007?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Ashville, Ohio, United States | On-site | $97k–$129k | Oct 1 |
-| **[Hunter Douglas](https://jobs.hunterdouglas.com)** | **[Automation & Controls Engineer I](https://interviewchamp.ai/jobs/hunterdouglas-automation-controls-engineer-i-8010809003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Broomfield, Colorado, United States | On-site | $78k–$97k | Oct 1 |
-| **[Air Education and Training Command](https://www.usajobs.gov)** | **[CHILD AND YOUTH PROGRAM ASSISTANT (ENTRY LEVEL)](https://interviewchamp.ai/jobs/air-education-and-training-command-usajobs-child-and-youth-program-assistant-entry-level-887286900?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Luke AFB, Arizona | On-site |  | Oct 1 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-03 09:34 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-03 16:10 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
