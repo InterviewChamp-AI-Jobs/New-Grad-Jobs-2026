@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **1,807 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **1,805 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,807, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 1,805, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Entry-level roles for new grads and early-career job seekers. **1,807 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Profound](https://jobs.ashbyhq.com/Profound)** | **[Engagement Associate](https://interviewchamp.ai/jobs/profound-engagement-associate-03e0b0f5-9d1e-4f11-8a63-dfc50e09f887?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York, New York | On-site | $80k | Oct 4 |
+| **[Reformation](https://job-boards.greenhouse.io/reformation)** | **[Part Time, Sales Associate, - Galleria, Houston, TX](https://interviewchamp.ai/jobs/reformation-part-time-sales-associate-galleria-houston-tx-8247602?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Houston, TX | On-site |  | Oct 4 |
 | **[Skin Laundry](https://job-boards.greenhouse.io/skinlaundry)** | **[PT - Sales Associate - Santa Monica](https://interviewchamp.ai/jobs/skinlaundry-pt-sales-associate-santa-monica-4740280005?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Santa Monica, California, United States | On-site |  | Oct 3 |
 | **[The Lockwood Group, LLC](https://job-boards.greenhouse.io/lockwood)** | **[Strategic Partnership Operations Associate](https://interviewchamp.ai/jobs/lockwood-strategic-partnership-operations-associate-5256362007?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Remote (Remote) | Remote |  | Oct 3 |
 | **[Cesium Astro](https://jobs.lever.co/CesiumAstro)** | **[Quality Assurance Associate II](https://interviewchamp.ai/jobs/cesiumastro-quality-assurance-associate-ii-26746d12-500a-4f6d-bc13-6c5fc80af7de?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Austin, TX | On-site |  | Oct 3 |
@@ -164,7 +166,6 @@ Entry-level roles for new grads and early-career job seekers. **1,807 are live r
 | **[Lendbuzz](https://jobs.lever.co/lendbuzz)** | **[Bilingual Dealership Success Associate - Los Angeles, CA](https://interviewchamp.ai/jobs/lendbuzz-bilingual-dealership-success-associate-los-angeles-ca-4f33e616-e477-4c29-9e8c-51c2449c3ad2?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Los Angeles, CA | On-site | $66k–$100k | Oct 1 |
 | **[Bot Auto](https://job-boards.greenhouse.io/botauto)** | **[Planning & Control Engineer, Early Career](https://interviewchamp.ai/jobs/botauto-planning-control-engineer-early-career-5441694008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Houston, TX | On-site |  | Oct 1 |
 | **[ALO](https://boards.greenhouse.io/aloyoga)** | **[Sales Associate (Full-Time) - ABQ Uptown](https://interviewchamp.ai/jobs/aloyoga-sales-associate-full-time-abq-uptown-6213889004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Albuquerque, New Mexico, United States | On-site |  | Oct 1 |
-| **[Reformation](https://job-boards.greenhouse.io/reformation)** | **[Sales Associate Part-Time- North Park- Dallas Texas](https://interviewchamp.ai/jobs/reformation-sales-associate-part-time-north-park-dallas-texas-8247689?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Dallas, Texas | On-site |  | Oct 1 |
 | **[Datavant](https://www.datavant.com)** | **[Health Information Specialist I](https://interviewchamp.ai/jobs/datavant2-health-information-specialist-i-5419548008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | North Carolina | On-site |  | Oct 1 |
 | **[DoorDash USA](https://job-boards.greenhouse.io/doordashusa)** | **[Insurance Claims Operations Associate](https://interviewchamp.ai/jobs/doordashusa-insurance-claims-operations-associate-8244589?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | United States - Remote (Remote) | Remote |  | Oct 1 |
 | **[Justworks](https://boards.greenhouse.io/justworks)** | **[Tax Associate, Client Tax Services and Solutions](https://interviewchamp.ai/jobs/justworks-tax-associate-client-tax-services-and-solutions-8223786?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York, New York | On-site | $82k–$99k | Oct 1 |
@@ -181,8 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **1,807 are live r
 | **[Datavant](https://www.datavant.com)** | **[Health Information Specialist I](https://interviewchamp.ai/jobs/datavant2-health-information-specialist-i-5407113008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Kalamazoo, MI | On-site |  | Oct 1 |
 | **[Oldcastle BuildingEnvelope](https://job-boards.greenhouse.io/oldcastlebuildingenvelope)** | **[Machine Operator 1](https://interviewchamp.ai/jobs/oldcastlebuildingenvelope-machine-operator-1-4426583009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Northport, AL | On-site |  | Oct 1 |
 | **[Oldcastle BuildingEnvelope](https://job-boards.greenhouse.io/oldcastlebuildingenvelope)** | **[Assembler 1](https://interviewchamp.ai/jobs/oldcastlebuildingenvelope-assembler-1-4429838009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Northport, AL | On-site |  | Oct 1 |
-| **[Blank Street](https://job-boards.greenhouse.io/blankstreet)** | **[Marketing Associate \| NYC](https://interviewchamp.ai/jobs/blankstreet-marketing-associate-nyc-8010813003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York City, New York | On-site | $75k–$85k | Oct 1 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-04 13:50 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-04 20:44 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
