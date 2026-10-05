@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **1,805 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **1,806 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,805, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 1,806, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,9 @@ Entry-level roles for new grads and early-career job seekers. **1,805 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Avride](https://job-boards.greenhouse.io/avride)** | **[Fleet Maintenance & Detailing Associate](https://interviewchamp.ai/jobs/avride-fleet-maintenance-detailing-associate-4398881009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Dallas, Texas | On-site |  | Oct 4 |
+| **[Avride](https://job-boards.greenhouse.io/avride)** | **[Fleet Maintenance & Detailing Associate](https://interviewchamp.ai/jobs/avride-fleet-maintenance-detailing-associate-4398877009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Austin, Texas | On-site |  | Oct 4 |
+| **[Avride](https://job-boards.greenhouse.io/avride)** | **[Warehouse & Logistics Associate](https://interviewchamp.ai/jobs/avride-warehouse-logistics-associate-4398866009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Dallas, Texas | On-site |  | Oct 4 |
 | **[Profound](https://jobs.ashbyhq.com/Profound)** | **[Engagement Associate](https://interviewchamp.ai/jobs/profound-engagement-associate-03e0b0f5-9d1e-4f11-8a63-dfc50e09f887?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York, New York | On-site | $80k | Oct 4 |
 | **[Reformation](https://job-boards.greenhouse.io/reformation)** | **[Part Time, Sales Associate, - Galleria, Houston, TX](https://interviewchamp.ai/jobs/reformation-part-time-sales-associate-galleria-houston-tx-8247602?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Houston, TX | On-site |  | Oct 4 |
 | **[Skin Laundry](https://job-boards.greenhouse.io/skinlaundry)** | **[PT - Sales Associate - Santa Monica](https://interviewchamp.ai/jobs/skinlaundry-pt-sales-associate-santa-monica-4740280005?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Santa Monica, California, United States | On-site |  | Oct 3 |
@@ -179,10 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **1,805 are live r
 | **[FiscalNote](https://fiscalnote.com)** | **[Associate Software Engineer](https://interviewchamp.ai/jobs/fiscalnote-associate-software-engineer-51a2e18f-1af1-416c-9544-5bede8e9537c?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Washington, DC | Hybrid | $65k–$75k | Oct 1 |
 | **[Best Egg](https://bestegg.com)** | **[Associate, Capital Markets](https://interviewchamp.ai/jobs/bestegg-associate-capital-markets-3397094c-8bd5-4523-a99e-fb8e3272f5ea?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Wilmington, DE | Hybrid | $80k–$95k | Oct 1 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Sales Associate](https://interviewchamp.ai/jobs/equipmentsharecom-sales-associate-8247342?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Iowa City, IA | On-site |  | Oct 1 |
-| **[Datavant](https://www.datavant.com)** | **[Health Information Specialist I](https://interviewchamp.ai/jobs/datavant2-health-information-specialist-i-5407113008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Kalamazoo, MI | On-site |  | Oct 1 |
-| **[Oldcastle BuildingEnvelope](https://job-boards.greenhouse.io/oldcastlebuildingenvelope)** | **[Machine Operator 1](https://interviewchamp.ai/jobs/oldcastlebuildingenvelope-machine-operator-1-4426583009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Northport, AL | On-site |  | Oct 1 |
-| **[Oldcastle BuildingEnvelope](https://job-boards.greenhouse.io/oldcastlebuildingenvelope)** | **[Assembler 1](https://interviewchamp.ai/jobs/oldcastlebuildingenvelope-assembler-1-4429838009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Northport, AL | On-site |  | Oct 1 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-04 21:44 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-05 00:46 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
