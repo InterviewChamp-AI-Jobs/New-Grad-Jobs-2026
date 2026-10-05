@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **1,806 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **1,805 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,806, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 1,805, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,8 +32,10 @@ Entry-level roles for new grads and early-career job seekers. **1,806 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[AfterQuery](https://jobs.ashbyhq.com/afterquery)** | **[Sales Operations Associate](https://interviewchamp.ai/jobs/afterquery-sales-operations-associate-d1236ef8-0030-4cbf-bbec-052c6eed971f?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Francisco | On-site | $100k–$120k | Oct 5 |
 | **[Renewal by Andersen Metro & Midwest](https://job-boards.greenhouse.io/mooreholdingsllc)** | **[Entry-Level Sales (Urgently Hiring)](https://interviewchamp.ai/jobs/mooreholdingsllc-entry-level-sales-urgently-hiring-4430463009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | La Vergne, TN | On-site |  | Oct 5 |
 | **[Carvana](https://www.carvana.com)** | **[Associate, Campus Security - Tempe, AZ](https://interviewchamp.ai/jobs/carvana-associate-campus-security-tempe-az-8255504?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Tempe, AZ | On-site |  | Oct 5 |
+| **[Air Force Global Strike Command](https://www.usajobs.gov)** | **[STUDENT TRAINEE (OFFICE AUTOMATION CLERK)](https://interviewchamp.ai/jobs/air-force-global-strike-command-usajobs-student-trainee-office-automation-clerk-887367500?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Kirtland AFB, New Mexico | On-site | $36,464–$44,780 | Oct 5 |
 | **[Avride](https://job-boards.greenhouse.io/avride)** | **[Fleet Maintenance & Detailing Associate](https://interviewchamp.ai/jobs/avride-fleet-maintenance-detailing-associate-4398881009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Dallas, Texas | On-site |  | Oct 4 |
 | **[Avride](https://job-boards.greenhouse.io/avride)** | **[Fleet Maintenance & Detailing Associate](https://interviewchamp.ai/jobs/avride-fleet-maintenance-detailing-associate-4398877009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Austin, Texas | On-site |  | Oct 4 |
 | **[Avride](https://job-boards.greenhouse.io/avride)** | **[Warehouse & Logistics Associate](https://interviewchamp.ai/jobs/avride-warehouse-logistics-associate-4398866009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Dallas, Texas | On-site |  | Oct 4 |
@@ -180,9 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **1,806 are live r
 | **[Agility Robotics](https://agilityrobotics.com)** | **[AP Associate](https://interviewchamp.ai/jobs/agilityrobotics-ap-associate-6208288004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Hybrid- Pittsburgh, PA | Hybrid | $48k–$74k | Oct 1 |
 | **[Jerry](https://jobs.ashbyhq.com/Jerry.ai)** | **[Insurance Sales & Service Associate (Remote, Tech Startup)](https://interviewchamp.ai/jobs/jerry-ai-insurance-sales-service-associate-remote-tech-startup-b4e253fd-9839-4fb4-9d50-b3c5a64038da?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Phoenix, Arizona (Remote) | Remote | From $100k | Oct 1 |
 | **[DoorDash USA](https://job-boards.greenhouse.io/doordashusa)** | **[Associate Manager, Dasher & Logistics](https://interviewchamp.ai/jobs/doordashusa-associate-manager-dasher-logistics-8247291?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Francisco, CA; New York, NY; Los Angeles, CA; Seattle, WA; Chicago, IL; Washington D.C. | On-site | $105.4k–$155k | Oct 1 |
-| **[FiscalNote](https://fiscalnote.com)** | **[Associate Software Engineer](https://interviewchamp.ai/jobs/fiscalnote-associate-software-engineer-51a2e18f-1af1-416c-9544-5bede8e9537c?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Washington, DC | Hybrid | $65k–$75k | Oct 1 |
-| **[Best Egg](https://bestegg.com)** | **[Associate, Capital Markets](https://interviewchamp.ai/jobs/bestegg-associate-capital-markets-3397094c-8bd5-4523-a99e-fb8e3272f5ea?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Wilmington, DE | Hybrid | $80k–$95k | Oct 1 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-05 03:38 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-05 06:48 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
