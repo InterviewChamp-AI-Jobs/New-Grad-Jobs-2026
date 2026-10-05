@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **1,805 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **1,804 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,805, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 1,804, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -100,7 +100,6 @@ Entry-level roles for new grads and early-career job seekers. **1,805 are live r
 | **[CGS Federal](https://cgsfederal.com)** | **[Law Clerk I](https://interviewchamp.ai/jobs/cgsfederal-law-clerk-i-d0d8531d-81eb-4b6d-86e7-de147802eb22?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Chantilly, VA | Hybrid | $70k–$80k | Oct 2 |
 | **[CGS Federal](https://cgsfederal.com)** | **[Law Clerk I](https://interviewchamp.ai/jobs/cgsfederal-law-clerk-i-c37f360a-1a9b-47fd-af9c-9a24c4f69383?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Washington, DC | On-site | $75k–$80k | Oct 2 |
 | **[CGS Federal](https://cgsfederal.com)** | **[Law Clerk I](https://interviewchamp.ai/jobs/cgsfederal-law-clerk-i-d33cc688-4f94-466c-b1a2-46750d7bfdc6?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Baltimore, MD | Hybrid | $70k–$80k | Oct 2 |
-| **[J&J Snack Foods](https://job-boards.greenhouse.io/jjsnackfoods)** | **[Accounts Payable Associate](https://interviewchamp.ai/jobs/jjsnackfoods-accounts-payable-associate-5439775008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | TN - La Vergne | On-site |  | Oct 2 |
 | **[Nova 401(k) Associates](https://job-boards.greenhouse.io/nova401)** | **[Entry Level Production Specialist](https://interviewchamp.ai/jobs/nova401-entry-level-production-specialist-5441261008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Remote (Remote) | Remote | $52k–$55k | Oct 2 |
 | **[Rowan](https://jobs.lever.co/heyrowan)** | **[Retail Store Associate](https://interviewchamp.ai/jobs/heyrowan-retail-store-associate-71595414-5125-4ab2-8e7f-500f6afc3583?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Houston, TX | On-site |  | Oct 2 |
 | **[Rowan](https://jobs.lever.co/heyrowan)** | **[Studio Operations and Communications Associate](https://interviewchamp.ai/jobs/heyrowan-studio-operations-and-communications-associate-0f6c0bc8-bd19-4e59-abd6-d5394103379e?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Larchmont, NY | Hybrid | $68k–$72k | Oct 2 |
@@ -182,7 +181,8 @@ Entry-level roles for new grads and early-career job seekers. **1,805 are live r
 | **[Agility Robotics](https://agilityrobotics.com)** | **[AP Associate](https://interviewchamp.ai/jobs/agilityrobotics-ap-associate-6208288004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Hybrid- Pittsburgh, PA | Hybrid | $48k–$74k | Oct 1 |
 | **[Jerry](https://jobs.ashbyhq.com/Jerry.ai)** | **[Insurance Sales & Service Associate (Remote, Tech Startup)](https://interviewchamp.ai/jobs/jerry-ai-insurance-sales-service-associate-remote-tech-startup-b4e253fd-9839-4fb4-9d50-b3c5a64038da?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Phoenix, Arizona (Remote) | Remote | From $100k | Oct 1 |
 | **[DoorDash USA](https://job-boards.greenhouse.io/doordashusa)** | **[Associate Manager, Dasher & Logistics](https://interviewchamp.ai/jobs/doordashusa-associate-manager-dasher-logistics-8247291?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Francisco, CA; New York, NY; Los Angeles, CA; Seattle, WA; Chicago, IL; Washington D.C. | On-site | $105.4k–$155k | Oct 1 |
+| **[FiscalNote](https://fiscalnote.com)** | **[Associate Software Engineer](https://interviewchamp.ai/jobs/fiscalnote-associate-software-engineer-51a2e18f-1af1-416c-9544-5bede8e9537c?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Washington, DC | Hybrid | $65k–$75k | Oct 1 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-05 09:39 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-05 12:44 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
