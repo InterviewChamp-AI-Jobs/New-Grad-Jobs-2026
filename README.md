@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **1,955 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **1,958 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,955, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 1,958, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Entry-level roles for new grads and early-career job seekers. **1,955 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Oldcastle BuildingEnvelope](https://job-boards.greenhouse.io/oldcastlebuildingenvelope)** | **[Machine Operator 1](https://interviewchamp.ai/jobs/oldcastlebuildingenvelope-machine-operator-1-4436441009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Rock Hill, SC | On-site |  | Oct 7 |
+| **[United States Army Installation Management Command](https://www.usajobs.gov)** | **[CYS Program Associate Homework Lab NF-03](https://interviewchamp.ai/jobs/united-states-army-installation-management-command-usajobs-cys-program-associate-homework-lab-nf-03-887872700?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Honolulu, Hawaii | On-site | $53,000–$56,000 | Oct 7 |
 | **[Datavant](https://www.datavant.com)** | **[Health Information Specialist I](https://interviewchamp.ai/jobs/datavant2-health-information-specialist-i-5411174008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Alabama | On-site |  | Oct 7 |
 | **[LA28](https://job-boards.greenhouse.io/la28careers)** | **[Associate, Volunteer Program](https://interviewchamp.ai/jobs/la28careers-associate-volunteer-program-7811829003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Los Angeles, California, United States | On-site | $70.5k–$82k | Oct 7 |
 | **[Heartflow](https://job-boards.greenhouse.io/heartflowinc)** | **[Junior Automation Engineer](https://interviewchamp.ai/jobs/heartflowinc-junior-automation-engineer-6218985004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Francisco, California | On-site | From $110k | Oct 7 |
@@ -180,9 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **1,955 are live r
 | **[Gopuff](https://jobs.lever.co/gopuff)** | **[Operations Associate, New York, #972](https://interviewchamp.ai/jobs/gopuff-operations-associate-new-york-972-7953dbed-ea8e-49ca-bfeb-3da77d0b550c?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York, NY | On-site |  | Oct 5 |
 | **[Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab)** | **[Electrical Engineer I](https://interviewchamp.ai/jobs/rocketlab-electrical-engineer-i-8013383003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Pasadena, CA | On-site | $89.4k–$115k | Oct 5 |
 | **[Centria Autism](https://job-boards.greenhouse.io/centriaautism)** | **[Entry Level Operations Role](https://interviewchamp.ai/jobs/centriaautism-entry-level-operations-role-8868865002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Harper Woods, Michigan, United States | On-site |  | Oct 5 |
-| **[DebtBook](https://debtbook.com)** | **[Associate Quantitative Strategist](https://interviewchamp.ai/jobs/debtbook-associate-quantitative-strategist-4740545005?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Charlotte, NC | On-site |  | Oct 5 |
-| **[Sunnyside*](https://job-boards.greenhouse.io/sunnyside)** | **[Retail Sales Associate - Part Time](https://interviewchamp.ai/jobs/sunnyside-retail-sales-associate-part-time-8868851002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | 326 James Way, Marion, OH 43302 | On-site |  | Oct 5 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-07 09:38 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-07 12:45 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
