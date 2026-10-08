@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **2,007 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **2,009 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 2,007, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 2,009, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,9 @@ Entry-level roles for new grads and early-career job seekers. **2,007 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[iCapital](https://job-boards.greenhouse.io/icapitalnetwork)** | **[Sales Solutions Engineer - Associate](https://interviewchamp.ai/jobs/icapitalnetwork-sales-solutions-engineer-associate-8861304002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Des Moines, Iowa, United States | On-site | $75k–$95k | Oct 8 |
+| **[SMCP NORTH AMERICA (US, CANADA)](https://job-boards.greenhouse.io/smcp)** | **[Retail Temporary Sales Associate, Sandro, The Grove](https://interviewchamp.ai/jobs/smcp-retail-temporary-sales-associate-sandro-the-grove-8878063002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Los Angeles, California, United States | On-site |  | Oct 8 |
+| **[STUDS](https://job-boards.greenhouse.io/studsinc)** | **[Apprentice Piercer](https://interviewchamp.ai/jobs/studsinc-apprentice-piercer-6220112004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | 1400 South Congress Avenue Ste B-150 Austin, Texas 78704 | On-site |  | Oct 8 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Operations Associate](https://interviewchamp.ai/jobs/clera-operations-associate-5c2f9fa3-65c2-40b9-83ed-b0f4c701c422?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Francisco | On-site | $70k–$90k | Oct 8 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Associate Fullstack Engineer](https://interviewchamp.ai/jobs/clera-associate-fullstack-engineer-ed3421be-aa9c-438b-8f1d-e70f1426c736?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Francisco | On-site | $100k–$150k | Oct 8 |
 | **[Natera](https://job-boards.greenhouse.io/natera)** | **[Research Associate](https://interviewchamp.ai/jobs/natera-research-associate-6217927004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Austin, TX | On-site | $61.8k–$77.3k | Oct 7 |
@@ -179,10 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **2,007 are live r
 | **[Clear Street](https://clearstreet.io)** | **[Associate, Internal Audit](https://interviewchamp.ai/jobs/clearstreet-associate-internal-audit-8259228?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York, NY | On-site | $100k–$115k | Oct 6 |
 | **[WelbeHealth](https://job-boards.greenhouse.io/welbehealth)** | **[Community Health Worker I](https://interviewchamp.ai/jobs/welbehealth-community-health-worker-i-8865010002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Long Beach, CA, USA | On-site |  | Oct 6 |
 | **[Valar Atomics](https://job-boards.greenhouse.io/valaratomics)** | **[Welding/Dimensional Inspector I](https://interviewchamp.ai/jobs/valaratomics-welding-dimensional-inspector-i-4433388009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Torrance, California, United States | On-site | $94k–$114k | Oct 6 |
-| **[MGT Insurance](https://jobs.ashbyhq.com/mgtinsurance)** | **[Corporate Development Associate](https://interviewchamp.ai/jobs/mgtinsurance-corporate-development-associate-2de6aa2c-2d95-406d-9a71-0891ee7a537b?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Francisco, CA (Remote) | Remote | $90k–$130k | Oct 6 |
-| **[Torc Robotics](https://torcrobotics.com)** | **[Commissioning - Systems Engineer I](https://interviewchamp.ai/jobs/torcrobotics-commissioning-systems-engineer-i-8864848002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Ann Arbor, MI | On-site | $98.8k–$118.6k | Oct 6 |
-| **[Everpure](https://everpure.com)** | **[Software Engineer Grad 2027](https://interviewchamp.ai/jobs/purestorage-software-engineer-grad-2027-8249851?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Santa Clara, California | On-site | $122k–$183k | Oct 6 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-08 00:47 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-08 03:37 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
