@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **2,476 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **2,475 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 2,476, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 2,475, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,7 +32,6 @@ Entry-level roles for new grads and early-career job seekers. **2,476 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
-| **[LA28](https://job-boards.greenhouse.io/la28careers)** | **[Associate, Project Management](https://interviewchamp.ai/jobs/la28careers-associate-project-management-8016096003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Los Angeles, California, United States | On-site | $70.5k–$82k | Oct 9 |
 | **[Natera](https://job-boards.greenhouse.io/natera)** | **[Histology Lab Operator I](https://interviewchamp.ai/jobs/natera-histology-lab-operator-i-6181258004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Austin, TX | On-site |  | Oct 9 |
 | **[Alpaca Health](https://jobs.ashbyhq.com/alpacahealth)** | **[RBT Recruiting Manager, Campus & University Partnerships](https://interviewchamp.ai/jobs/alpacahealth-rbt-recruiting-manager-campus-university-partnerships-59839d87-6580-42e3-bef4-d800ae588721?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | United States (Remote) | Remote |  | Oct 9 |
 | **[Binance.US](https://binance.us)** | **[Associate General Counsel, Litigation](https://interviewchamp.ai/jobs/binance-us-associate-general-counsel-litigation-e2de54d5-d5a6-43c9-b0a0-6b28b23b0d12?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | U.S. (Remote) | Remote |  | Oct 9 |
@@ -182,7 +181,8 @@ Entry-level roles for new grads and early-career job seekers. **2,476 are live r
 | **[CSG Consultants, Inc.](https://job-boards.greenhouse.io/csglinkedinindeed)** | **[Associate Plan Check Engineer (FT - Hybrid)](https://interviewchamp.ai/jobs/csglinkedinindeed-associate-plan-check-engineer-ft-hybrid-5447322008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Paso Robles, CA | On-site |  | Oct 7 |
 | **[Redwood Credit Union](https://jobs.lever.co/redwoodcu)** | **[SBA/Commercial Credit Analyst I](https://interviewchamp.ai/jobs/redwoodcu-sba-commercial-credit-analyst-i-714d703d-d815-4ee8-841a-fc222ffd6b1d?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Napa, California | On-site |  | Oct 7 |
 | **[SentiLink](https://jobs.ashbyhq.com/sentilink)** | **[Demand Generation Associate/Specialist](https://interviewchamp.ai/jobs/sentilink-demand-generation-associate-specialist-592a660a-f2c3-4ba4-b377-f9237f94b633?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | United States (Remote) | Remote |  | Oct 7 |
+| **[Varda Space Industries](https://varda.com)** | **[University Recruiter](https://interviewchamp.ai/jobs/vardaspace-university-recruiter-8016066003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | El Segundo, California, United States | On-site | $90k–$120k | Oct 7 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-09 03:38 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-09 06:45 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
