@@ -32,6 +32,7 @@ Entry-level roles for new grads and early-career job seekers. **2,802 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Clera](https://jobs.ashbyhq.com/clera)** | **[Founders Associate](https://interviewchamp.ai/jobs/clera-founders-associate-685abe62-28b1-40be-8fd6-eac92e02f2d7?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | remote | Remote | $60k–$90k | Oct 10 |
 | **[DH Pace](https://job-boards.greenhouse.io/dhpace)** | **[Manager Trainee](https://interviewchamp.ai/jobs/dhpace-manager-trainee-5449670008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Las Vegas NV | On-site |  | Oct 10 |
 | **[DH Pace](https://job-boards.greenhouse.io/dhpace)** | **[Commercial Service Technician Trainee](https://interviewchamp.ai/jobs/dhpace-commercial-service-technician-trainee-5449569008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Las Vegas NV | On-site |  | Oct 10 |
 | **[Twist Bioscience](https://twistbioscience.com)** | **[Manufacturing Associate - Kitting (Temp)](https://interviewchamp.ai/jobs/twistbioscience-manufacturing-associate-kitting-temp-8139437?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | USA - Portland, OR | On-site |  | Oct 10 |
@@ -181,8 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **2,802 are live r
 | **[The Florida Panthers](https://job-boards.greenhouse.io/thefloridapanthers)** | **[Front Office Associate](https://interviewchamp.ai/jobs/thefloridapanthers-front-office-associate-4720582006?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Panthers IceDen, Coral Springs, FL | On-site |  | Oct 9 |
 | **[CSC Generation](https://jobs.lever.co/cscgeneration-2)** | **[Seasonal Retail Gearhead / Sales Associate (Part Time)](https://interviewchamp.ai/jobs/cscgeneration-2-seasonal-retail-gearhead-sales-associate-part-time-77ca5944-c90c-41f6-a7c3-6878e051b860?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Washington DC Backcountry Retail Store, 2108 14th St NW, Washington, DC 20009 | On-site |  | Oct 9 |
 | **[NYC Criminal Justice Agency](https://job-boards.greenhouse.io/criminaljusticeagency)** | **[Pretrial Associate - Brooklyn](https://interviewchamp.ai/jobs/criminaljusticeagency-pretrial-associate-brooklyn-8881516002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Brooklyn | On-site | From $54.1k | Oct 9 |
-| **[Tecovas](https://tecovas.com)** | **[Seasonal Sales Associate- Carlsbad](https://interviewchamp.ai/jobs/tecovas-seasonal-sales-associate-carlsbad-8878062002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Carlsbad, CA | On-site |  | Oct 9 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-10 12:41 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-10 15:35 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
