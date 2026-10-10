@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **2,801 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **2,802 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 2,801, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 2,802, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Entry-level roles for new grads and early-career job seekers. **2,801 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[DH Pace](https://job-boards.greenhouse.io/dhpace)** | **[Manager Trainee](https://interviewchamp.ai/jobs/dhpace-manager-trainee-5449670008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Las Vegas NV | On-site |  | Oct 10 |
+| **[DH Pace](https://job-boards.greenhouse.io/dhpace)** | **[Commercial Service Technician Trainee](https://interviewchamp.ai/jobs/dhpace-commercial-service-technician-trainee-5449569008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Las Vegas NV | On-site |  | Oct 10 |
 | **[Twist Bioscience](https://twistbioscience.com)** | **[Manufacturing Associate - Kitting (Temp)](https://interviewchamp.ai/jobs/twistbioscience-manufacturing-associate-kitting-temp-8139437?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | USA - Portland, OR | On-site |  | Oct 10 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Early-Career Account Executive](https://interviewchamp.ai/jobs/clera-early-career-account-executive-527b00c5-056b-41ea-956e-9a998cee88d5?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | United States | On-site |  | Oct 10 |
 | **[Stand Together](https://jobs.lever.co/standtogether)** | **[Partnership Success Associate](https://interviewchamp.ai/jobs/standtogether-partnership-success-associate-b61cbc51-8857-493a-bf85-3770062c08d8?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Arlington, Virginia | On-site | $85k–$105k | Oct 10 |
@@ -82,7 +84,6 @@ Entry-level roles for new grads and early-career job seekers. **2,801 are live r
 | **[Rogo](https://jobs.ashbyhq.com/rogo)** | **[Deployment Associate, NYC](https://interviewchamp.ai/jobs/rogo-deployment-associate-nyc-40165ff0-e95f-4c84-841b-b2a27b4cbe17?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York City | On-site | $95k–$100k | Oct 9 |
 | **[Streck](https://jobs.lever.co/streck)** | **[Fill Operator 1](https://interviewchamp.ai/jobs/streck-fill-operator-1-a83dd61a-9620-4d72-92cd-a5f8ff679a5d?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | La Vista, Nebraska | On-site |  | Oct 9 |
 | **[Carvana](https://www.carvana.com)** | **[Associate General Manager, Dealership Operations](https://interviewchamp.ai/jobs/carvana-associate-general-manager-dealership-operations-8268413?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Cleveland, OH | On-site |  | Oct 9 |
-| **[DH Pace](https://job-boards.greenhouse.io/dhpace)** | **[Commercial Door Technician - Experienced or Trainee Level!](https://interviewchamp.ai/jobs/dhpace-commercial-door-technician-experienced-or-trainee-level-5449350008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Antonio TX | On-site |  | Oct 9 |
 | **[Attic Projects](https://job-boards.greenhouse.io/atticprojects)** | **[Operations Management Trainee - Home Improvement](https://interviewchamp.ai/jobs/atticprojects-operations-management-trainee-home-improvement-5262698007?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Diego, CA | On-site | $80k–$105k | Oct 9 |
 | **[Allworth Financial](https://job-boards.greenhouse.io/allworthfinancial)** | **[Associate Advisor](https://interviewchamp.ai/jobs/allworthfinancial-associate-advisor-8882314002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Folsom, California, United States | On-site | $70k–$72k | Oct 9 |
 | **[Inductive Automation Llc](https://jobs.ashbyhq.com/inductive-automation-llc)** | **[Client Services Specialist I](https://interviewchamp.ai/jobs/inductive-automation-llc-client-services-specialist-i-a7902ca0-0c58-4cea-82f9-c60d54f519d9?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Folsom, CA (Remote) | Remote | $55k–$65k | Oct 9 |
@@ -181,8 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **2,801 are live r
 | **[CSC Generation](https://jobs.lever.co/cscgeneration-2)** | **[Seasonal Retail Gearhead / Sales Associate (Part Time)](https://interviewchamp.ai/jobs/cscgeneration-2-seasonal-retail-gearhead-sales-associate-part-time-77ca5944-c90c-41f6-a7c3-6878e051b860?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Washington DC Backcountry Retail Store, 2108 14th St NW, Washington, DC 20009 | On-site |  | Oct 9 |
 | **[NYC Criminal Justice Agency](https://job-boards.greenhouse.io/criminaljusticeagency)** | **[Pretrial Associate - Brooklyn](https://interviewchamp.ai/jobs/criminaljusticeagency-pretrial-associate-brooklyn-8881516002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Brooklyn | On-site | From $54.1k | Oct 9 |
 | **[Tecovas](https://tecovas.com)** | **[Seasonal Sales Associate- Carlsbad](https://interviewchamp.ai/jobs/tecovas-seasonal-sales-associate-carlsbad-8878062002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Carlsbad, CA | On-site |  | Oct 9 |
-| **[Olsson](https://job-boards.greenhouse.io/olsson)** | **[Entry-Level Geotechnical Driller](https://interviewchamp.ai/jobs/olsson-entry-level-geotechnical-driller-5448695008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Oklahoma City, OK | On-site |  | Oct 9 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-10 03:37 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-10 06:42 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
