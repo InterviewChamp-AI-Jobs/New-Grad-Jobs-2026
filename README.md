@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **2,810 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **2,811 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 2,810, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 2,811, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Entry-level roles for new grads and early-career job seekers. **2,810 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[42 North Dental](https://job-boards.greenhouse.io/42northdental)** | **[Associate Dentist - Part Time](https://interviewchamp.ai/jobs/42northdental-associate-dentist-part-time-4444869009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Concord, NH | On-site |  | Oct 11 |
 | **[Great Oaks Charter School, NYC](https://job-boards.greenhouse.io/gonyc)** | **[Associate Dean of Students](https://interviewchamp.ai/jobs/gonyc-associate-dean-of-students-8882838002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York, New York, United States | On-site | $75k–$95k | Oct 11 |
 | **[STUDS](https://job-boards.greenhouse.io/studsinc)** | **[Apprentice Piercer](https://interviewchamp.ai/jobs/studsinc-apprentice-piercer-6222196004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | 767 Spectrum Center Drive Irvine, CA 92618 | On-site |  | Oct 10 |
 | **[Lush Handmade Cosmetics](https://job-boards.greenhouse.io/lush)** | **[Seasonal Ambassador - The Mall at University Town Center](https://interviewchamp.ai/jobs/lush-seasonal-ambassador-the-mall-at-university-town-center-8271900?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Sarasota, Florida, United States | On-site |  | Oct 10 |
@@ -181,8 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **2,810 are live r
 | **[Resource Environmental Solutions LLC](https://job-boards.greenhouse.io/res)** | **[Client Solutions Associate (Sales and Business Development)](https://interviewchamp.ai/jobs/res-client-solutions-associate-sales-and-business-development-5439852008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Pittsburgh, Pennsylvania, United States | On-site |  | Oct 9 |
 | **[BHG Financial](https://jobs.lever.co/bhg-inc)** | **[Associate Database Administrator](https://interviewchamp.ai/jobs/bhg-inc-associate-database-administrator-70f11501-e19e-40be-89d8-7ca22b90fdf9?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Remote | Remote |  | Oct 9 |
 | **[Murgado Automotive Group](https://jobs.lever.co/murgadoautomotive)** | **[Automotive Sales Associate - Bentley Jacksonville!](https://interviewchamp.ai/jobs/murgadoautomotive-automotive-sales-associate-bentley-jacksonville-c2f5a180-5cc0-4064-9262-83f571d38866?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Jacksonville, FL | On-site | $70k–$100k | Oct 9 |
-| **[Clasp Group](https://jobs.ashbyhq.com/clasp-group)** | **[Customer Success Associate](https://interviewchamp.ai/jobs/clasp-group-customer-success-associate-fa944c7d-e8f8-40c9-bd8c-9f7bb2315f68?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Remote | Remote | $65k–$80k | Oct 9 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-11 09:36 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-11 12:43 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
