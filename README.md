@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **2,814 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **2,812 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 2,814, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 2,812, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Entry-level roles for new grads and early-career job seekers. **2,814 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Legora](https://jobs.ashbyhq.com/legora)** | **[Junior/Mid-level Forward Deployed Engineer](https://interviewchamp.ai/jobs/legora-junior-mid-level-forward-deployed-engineer-572044a8-d0c4-42b4-97d3-bde7cb5599d6?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York City | On-site | $175.1k–$245k | Oct 11 |
 | **[Clark](https://jobs.ashbyhq.com/clark)** | **[Junior Forward Deployed Engineer](https://interviewchamp.ai/jobs/clark-junior-forward-deployed-engineer-e39423ba-10f6-44bb-a20f-5ccd33d53c52?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York City | On-site | $100k–$130k | Oct 11 |
 | **[42 North Dental](https://job-boards.greenhouse.io/42northdental)** | **[Associate Dentist](https://interviewchamp.ai/jobs/42northdental-associate-dentist-4444864009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Nashua, NH | On-site |  | Oct 11 |
 | **[42 North Dental](https://job-boards.greenhouse.io/42northdental)** | **[Associate Dentist](https://interviewchamp.ai/jobs/42northdental-associate-dentist-4444866009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Nashua, NH | On-site |  | Oct 11 |
@@ -181,8 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **2,814 are live r
 | **[Anduril Industries](https://anduril.com)** | **[2027 Early Career Quality Engineer](https://interviewchamp.ai/jobs/andurilindustries-2027-early-career-quality-engineer-5262324007?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Ashville, Ohio, United States; Costa Mesa, California, United States; Irvine, California, United States; Quonset, Rhode Island, United States; Santa Ana, California, United States | On-site | $90k–$112k | Oct 9 |
 | **[Peak Credit Union](https://job-boards.greenhouse.io/peakcreditunion)** | **[Part-Time Financial Solutions Guide 1](https://interviewchamp.ai/jobs/peakcreditunion-part-time-financial-solutions-guide-1-6221294004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Eugene, OR | On-site |  | Oct 9 |
 | **[Moneco Advisors](https://job-boards.greenhouse.io/monecoadvisors)** | **[People Associate](https://interviewchamp.ai/jobs/monecoadvisors-people-associate-4443838009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Fairfield, CT | On-site |  | Oct 9 |
-| **[Fullscript](https://fullscript.com)** | **[Warehouse Associate (Lenexa, KS)](https://interviewchamp.ai/jobs/fullscript-warehouse-associate-lenexa-ks-867aa982-f628-4eea-832a-dd224db5eb80?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Lenexa, KS | On-site |  | Oct 9 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-11 15:35 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-11 18:40 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
