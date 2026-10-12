@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **2,809 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **2,811 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 2,809, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 2,811, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,9 @@ Entry-level roles for new grads and early-career job seekers. **2,809 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[ShipMonk](https://job-boards.eu.greenhouse.io)** | **[Seasonal FT Warehouse Associate - Start $16/hr & Weekly Pay](https://interviewchamp.ai/jobs/shipmonk-seasonal-ft-warehouse-associate-start-16-hr-weekly-pay-5003243101?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Pittston, Pennsylvania, United States | On-site |  | Oct 12 |
+| **[ShipMonk](https://job-boards.eu.greenhouse.io)** | **[Seasonal FT Nights Warehouse Associate - Start $16.75/hr & Weekly Pay](https://interviewchamp.ai/jobs/shipmonk-seasonal-ft-nights-warehouse-associate-start-16-75-hr-weekly-pay-5003242101?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Pittston, Pennsylvania, United States | On-site |  | Oct 12 |
+| **[BAYADA Home Health Care](https://jobs.bayada.com)** | **[School Behavioral Technician Trainee, Behavioral Health](https://interviewchamp.ai/jobs/bayada-school-behavioral-technician-trainee-behavioral-health-8883112002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Honokaa, HI 96727 \| 20.064814329 \| -155.48511445 | On-site |  | Oct 12 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Founders Associate](https://interviewchamp.ai/jobs/clera-founders-associate-3efde795-c7d5-4c80-bf90-c65543811cc3?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | remote | Remote | $60k–$90k | Oct 12 |
 | **[Taste Labs](https://jobs.ashbyhq.com/taste-labs)** | **[Talent Associate](https://interviewchamp.ai/jobs/taste-labs-talent-associate-81c5444a-e9aa-4e8a-9c81-46f4ef0db944?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Francisco | On-site | $100k–$140k | Oct 12 |
 | **[Taste Labs](https://jobs.ashbyhq.com/taste-labs)** | **[Growth Associate](https://interviewchamp.ai/jobs/taste-labs-growth-associate-d0331dbb-56e1-488a-96ab-331ad6b9d686?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Francisco | On-site | $90k–$135k | Oct 12 |
@@ -126,7 +129,6 @@ Entry-level roles for new grads and early-career job seekers. **2,809 are live r
 | **[Wachter](https://jobs.lever.co/wachter)** | **[Warehouse Associate](https://interviewchamp.ai/jobs/wachter-warehouse-associate-ae704838-3d27-4102-af30-3a78c5a1a5ca?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Lowell, AR | On-site |  | Oct 9 |
 | **[Wachter](https://jobs.lever.co/wachter)** | **[Warehouse Associate](https://interviewchamp.ai/jobs/wachter-warehouse-associate-58ab527b-eba1-4c08-a02c-7af25c9b3742?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Lowell, AR | On-site |  | Oct 9 |
 | **[Crestwood Behavioral Health](https://job-boards.greenhouse.io/crestwoodcareers)** | **[Recovery Coach \| Entry-Level Mental Health Aide](https://interviewchamp.ai/jobs/crestwoodcareers-recovery-coach-entry-level-mental-health-aide-8020462003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Jose, California, United States; San Jose, California, United States | On-site |  | Oct 9 |
-| **[BAYADA Home Health Care](https://jobs.bayada.com)** | **[Night Shift LPN - Weekly Pay \| Home Care \| 1:1](https://interviewchamp.ai/jobs/bayada-night-shift-lpn-weekly-pay-home-care-1-1-8882208002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Fletcher, NC 28732 \| 35.442528693 \| -82.481531116 | On-site |  | Oct 9 |
 | **[Dollar Shave Club](https://job-boards.greenhouse.io/dollarshaveclub)** | **[Warehouse Associate](https://interviewchamp.ai/jobs/dollarshaveclub-warehouse-associate-4720721006?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Grove City, Ohio | On-site |  | Oct 9 |
 | **[Leavitt](https://jobs.ashbyhq.com/leavitt)** | **[Customer Service Associate](https://interviewchamp.ai/jobs/leavitt-customer-service-associate-71f89ab5-77d3-4c11-9d7e-fb821c4b641c?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Remote | Remote |  | Oct 9 |
 | **[Curaleaf](https://job-boards.greenhouse.io/curaleaf)** | **[Retail Sales Associate - Full Time](https://interviewchamp.ai/jobs/curaleaf-retail-sales-associate-full-time-8882174002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | 1370 W Cheyenne Ave North Las Vegas, NV | On-site |  | Oct 9 |
@@ -180,9 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **2,809 are live r
 | **[Fehr & Peers](https://fehrandpeers.com)** | **[Entry-level Transportation Engineer/Planner](https://interviewchamp.ai/jobs/fehrandpeers-entry-level-transportation-engineer-planner-f0bbcd2d-8065-4ca9-a2b0-e9f811c1a923?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Washington, District of Columbia | On-site | $75k–$80k | Oct 9 |
 | **[Shinola- Retail](https://job-boards.greenhouse.io/shinolaretail)** | **[Shinola Retail Seasonal Sales Associate - Chicago - Rush St](https://interviewchamp.ai/jobs/shinolaretail-shinola-retail-seasonal-sales-associate-chicago-rush-st-8881801002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Chicago, IL | On-site |  | Oct 9 |
 | **[A1 Garage Door Service](https://jobs.ashbyhq.com/a1%20garage%20door%20service)** | **[Warehouse Associate, Phoenix](https://interviewchamp.ai/jobs/a1-garage-door-service-warehouse-associate-phoenix-067d6a87-7215-485a-8c66-382604f13073?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Phoenix Headquarters | On-site |  | Oct 9 |
-| **[3MG Roofing & Solar](https://job-boards.greenhouse.io/3mgroofing)** | **[Territory Sales Consultant — Sales Trainee](https://interviewchamp.ai/jobs/3mgroofing-territory-sales-consultant-sales-trainee-4443918009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Raleigh, North Carolina | On-site |  | Oct 9 |
-| **[Beam Therapeutics](https://job-boards.greenhouse.io/beamtherapeutics)** | **[Associate Laboratory Operations](https://interviewchamp.ai/jobs/beamtherapeutics-associate-laboratory-operations-8871209002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Cambridge, MA | On-site |  | Oct 9 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-12 06:51 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-12 09:42 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
