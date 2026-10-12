@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **2,815 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **2,809 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 2,815, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 2,809, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -35,7 +35,7 @@ Entry-level roles for new grads and early-career job seekers. **2,815 are live r
 | **[Nox Metals](https://jobs.ashbyhq.com/nox-metals)** | **[Weekend Operations Associate](https://interviewchamp.ai/jobs/nox-metals-weekend-operations-associate-ddd7fc78-da0e-4f20-926a-b8262d65a8b0?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Detroit, Michigan, United States | On-site |  | Oct 11 |
 | **[Nox Metals](https://jobs.ashbyhq.com/nox-metals)** | **[Material Handler / Shipping Associate](https://interviewchamp.ai/jobs/nox-metals-material-handler-shipping-associate-f17a039c-294a-43a3-9bb9-81c914280792?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Los Angeles | On-site |  | Oct 11 |
 | **[SMCP NORTH AMERICA (US, CANADA)](https://job-boards.greenhouse.io/smcp)** | **[Retail Sales Associate, Sandro/Maje, Bloomingdale's, Walt Whitman Mall, Huntington, NY](https://interviewchamp.ai/jobs/smcp-retail-sales-associate-sandro-maje-bloomingdale-s-walt-whitman-mall-huntington-ny-8868817002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Huntington, NY | On-site |  | Oct 11 |
-| **[Nox Metals](https://jobs.ashbyhq.com/nox-metals)** | **[Associate Supply Chain Engineer](https://interviewchamp.ai/jobs/nox-metals-associate-supply-chain-engineer-4a408871-271d-4939-82c9-bef4134948b4?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Los Angeles | On-site |  | Oct 11 |
+| **[Nox Metals](https://jobs.ashbyhq.com/nox-metals)** | **[Associate Supply Chain Engineer](https://interviewchamp.ai/jobs/nox-metals-associate-supply-chain-engineer-4a408871-271d-4939-82c9-bef4134948b4?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Los Angeles | On-site | $76k–$84k | Oct 11 |
 | **[Figma](https://figma.com)** | **[Early Career, Inside Sales Representative (2027)](https://interviewchamp.ai/jobs/figma-early-career-inside-sales-representative-2027-6174190004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Francisco, CA • New York, NY | On-site |  | Oct 11 |
 | **[Faherty Brand](https://fahertybrand.com)** | **[Sales Associate, Part-Time - Lincoln Park](https://interviewchamp.ai/jobs/fahertybrand-sales-associate-part-time-lincoln-park-5248227007?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Chicago, Illinois, United States | On-site |  | Oct 11 |
 | **[Legora](https://jobs.ashbyhq.com/legora)** | **[Junior/Mid-level Forward Deployed Engineer](https://interviewchamp.ai/jobs/legora-junior-mid-level-forward-deployed-engineer-572044a8-d0c4-42b4-97d3-bde7cb5599d6?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York City | On-site | $175.1k–$245k | Oct 11 |
@@ -185,4 +185,4 @@ Entry-level roles for new grads and early-career job seekers. **2,815 are live r
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-11 21:36 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-12 00:50 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
