@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **2,889 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **2,890 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 2,889, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 2,890, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,9 @@ Entry-level roles for new grads and early-career job seekers. **2,889 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Think Academy US](https://job-boards.greenhouse.io/thinkacademyus)** | **[ELA Teaching Management Trainee](https://interviewchamp.ai/jobs/thinkacademyus-ela-teaching-management-trainee-8028946003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Jose, CA | On-site | $72k–$80.4k | Oct 13 |
+| **[Jerry](https://jobs.ashbyhq.com/Jerry.ai)** | **[Insurance Sales & Service Associate (Remote, Tech Startup)](https://interviewchamp.ai/jobs/jerry-ai-insurance-sales-service-associate-remote-tech-startup-8e80fd50-6fb0-4132-a15f-107f737cb6e2?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Phoenix, Arizona (Remote) | Remote | From $100k | Oct 13 |
+| **[Reformation](https://job-boards.greenhouse.io/reformation)** | **[Sales Associate, Part-Time - Pearl Street](https://interviewchamp.ai/jobs/reformation-sales-associate-part-time-pearl-street-8275229?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Boulder, Colorado, United States | On-site |  | Oct 13 |
 | **[ALO](https://boards.greenhouse.io/aloyoga)** | **[Sales Associate (Full-Time) - Promenade at Westlake](https://interviewchamp.ai/jobs/aloyoga-sales-associate-full-time-promenade-at-westlake-6221441004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Thousand Oaks, California, United States | On-site |  | Oct 13 |
 | **[ALO](https://boards.greenhouse.io/aloyoga)** | **[Operations Associate (Full-Time) - The Domain](https://interviewchamp.ai/jobs/aloyoga-operations-associate-full-time-the-domain-6221500004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | The Domain, Austin, TX (10038) | On-site |  | Oct 13 |
 | **[Linqia](https://boards.greenhouse.io/linqia)** | **[Influencer Marketing Talent Associate](https://interviewchamp.ai/jobs/linqia-influencer-marketing-talent-associate-8884555002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Francisco, California, United States | On-site |  | Oct 13 |
@@ -173,16 +176,13 @@ Entry-level roles for new grads and early-career job seekers. **2,889 are live r
 | **[Clark](https://jobs.ashbyhq.com/clark)** | **[Junior Forward Deployed Engineer](https://interviewchamp.ai/jobs/clark-junior-forward-deployed-engineer-e39423ba-10f6-44bb-a20f-5ccd33d53c52?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York City | On-site | $100k–$130k | Oct 11 |
 | **[42 North Dental](https://job-boards.greenhouse.io/42northdental)** | **[Associate Dentist](https://interviewchamp.ai/jobs/42northdental-associate-dentist-4444864009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Nashua, NH | On-site |  | Oct 11 |
 | **[42 North Dental](https://job-boards.greenhouse.io/42northdental)** | **[Associate Dentist](https://interviewchamp.ai/jobs/42northdental-associate-dentist-4444866009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Nashua, NH | On-site |  | Oct 11 |
-| **[Great Oaks Charter School, NYC](https://job-boards.greenhouse.io/gonyc)** | **[Associate Dean of Students](https://interviewchamp.ai/jobs/gonyc-associate-dean-of-students-8882838002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York, New York, United States | On-site | $75k–$95k | Oct 11 |
+| **[Great Oaks Charter School, NYC](https://job-boards.greenhouse.io/gonyc)** | **[Associate Dean of Students](https://interviewchamp.ai/jobs/gonyc-associate-dean-of-students-8882838002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York, New York, United States | On-site | $60k–$70k | Oct 11 |
 | **[STUDS](https://job-boards.greenhouse.io/studsinc)** | **[Apprentice Piercer](https://interviewchamp.ai/jobs/studsinc-apprentice-piercer-6222196004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | 767 Spectrum Center Drive Irvine, CA 92618 | On-site |  | Oct 10 |
 | **[Lush Handmade Cosmetics](https://job-boards.greenhouse.io/lush)** | **[Seasonal Ambassador - The Mall at University Town Center](https://interviewchamp.ai/jobs/lush-seasonal-ambassador-the-mall-at-university-town-center-8271900?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Sarasota, Florida, United States | On-site |  | Oct 10 |
 | **[Flexport](https://flexport.com)** | **[Associate Program Manager](https://interviewchamp.ai/jobs/flexport-associate-program-manager-8214366?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York City, New York, United States | On-site | $77k–$96k | Oct 10 |
 | **[SMCP NORTH AMERICA (US, CANADA)](https://job-boards.greenhouse.io/smcp)** | **[Retail Sales Associate, Sandro / Maje, Bloomingdales Valley Fair](https://interviewchamp.ai/jobs/smcp-retail-sales-associate-sandro-maje-bloomingdales-valley-fair-8864351002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Santa Clara, California, United States | On-site |  | Oct 10 |
 | **[DH Pace](https://job-boards.greenhouse.io/dhpace)** | **[Manager Trainee](https://interviewchamp.ai/jobs/dhpace-manager-trainee-5449670008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Las Vegas NV | On-site |  | Oct 10 |
-| **[DH Pace](https://job-boards.greenhouse.io/dhpace)** | **[Commercial Service Technician Trainee](https://interviewchamp.ai/jobs/dhpace-commercial-service-technician-trainee-5449569008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Las Vegas NV | On-site |  | Oct 10 |
-| **[Twist Bioscience](https://twistbioscience.com)** | **[Manufacturing Associate - Kitting (Temp)](https://interviewchamp.ai/jobs/twistbioscience-manufacturing-associate-kitting-temp-8139437?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | USA - Portland, OR | On-site |  | Oct 10 |
-| **[Clera](https://jobs.ashbyhq.com/clera)** | **[Early-Career Account Executive](https://interviewchamp.ai/jobs/clera-early-career-account-executive-527b00c5-056b-41ea-956e-9a998cee88d5?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | United States | On-site |  | Oct 10 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-13 00:51 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-13 03:41 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
