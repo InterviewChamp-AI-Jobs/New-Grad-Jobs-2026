@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **3,016 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **3,017 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,016, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 3,017, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,11 @@ Entry-level roles for new grads and early-career job seekers. **3,016 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Withpace](https://jobs.ashbyhq.com/withpace)** | **[Member of GTM Staff, GTM AI Associate Manager](https://interviewchamp.ai/jobs/withpace-member-of-gtm-staff-gtm-ai-associate-manager-5d582c70-2a52-4a89-b20c-09b7751af5da?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York City | On-site |  | Oct 14 |
+| **[Axsome Therapeutics](https://job-boards.greenhouse.io/axsometherapeutics)** | **[Clinical Trial Associate](https://interviewchamp.ai/jobs/axsometherapeutics-clinical-trial-associate-6223102004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York, NY | On-site | $60k–$68k | Oct 14 |
+| **[Remedy](https://job-boards.greenhouse.io/remedy)** | **[Visual Inspection Associate – Sterile Compounding](https://interviewchamp.ai/jobs/remedy-visual-inspection-associate-sterile-compounding-8886960002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Houston, TX | On-site |  | Oct 14 |
+| **[Redwood Materials](https://redwoodmaterials.com)** | **[Electrical Engineering Associate, Energy Storage](https://interviewchamp.ai/jobs/redwoodmaterials-electrical-engineering-associate-energy-storage-6223627004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Carson City, NV | On-site |  | Oct 14 |
+| **[Knighted Ventures](https://job-boards.greenhouse.io/knightedventures)** | **[Customer Service Casino Gaming Associate \| $1,000 Sign-On Bonus](https://interviewchamp.ai/jobs/knightedventures-customer-service-casino-gaming-associate-1-000-sign-on-bonus-4451009009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Lodi, CA | On-site |  | Oct 14 |
 | **[United Talent Agency](https://jobs.ashbyhq.com/united-talent-agency)** | **[Associate, Marketing](https://interviewchamp.ai/jobs/united-talent-agency-associate-marketing-7c6b6d64-bc87-4321-94c4-6dadf1236bc3?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Los Angeles, CA | On-site | $70k–$75k | Oct 14 |
 | **[Hunter Douglas](https://jobs.hunterdouglas.com)** | **[Product Engineer I](https://interviewchamp.ai/jobs/hunterdouglas-product-engineer-i-8032070003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Broomfield, CO, United States | On-site | $75k–$85k | Oct 14 |
 | **[SpaceX](https://spacex.com)** | **[Apprentice Welder](https://interviewchamp.ai/jobs/spacex-apprentice-welder-8880245002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | McGregor, TX | On-site |  | Oct 14 |
@@ -177,12 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **3,016 are live r
 | **[Analytic Services Inc](https://job-boards.greenhouse.io/analyticservicesinc)** | **[Management Analyst (Acquisition, Supply), Junior](https://interviewchamp.ai/jobs/analyticservicesinc-management-analyst-acquisition-supply-junior-5446756008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | St. Inigoes, MD | On-site | $107.3k–$155.6k | Oct 13 |
 | **[The National Football League](https://job-boards.greenhouse.io/nflcareers)** | **[Seasonal Associate Producer](https://interviewchamp.ai/jobs/nflcareers-seasonal-associate-producer-5427059008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Mount Laurel, New Jersey, United States | On-site |  | Oct 13 |
 | **[Away](https://jobs.ashbyhq.com/away)** | **[Sales Associate, Newbury (Part-Time)](https://interviewchamp.ai/jobs/away-sales-associate-newbury-part-time-5a7960f7-b39f-44e7-a818-3553bbb4d978?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Boston: Newbury | On-site |  | Oct 13 |
-| **[Flagship Pioneering, Inc.](https://flagshippioneering.com)** | **[Origination Associate](https://interviewchamp.ai/jobs/flagshippioneeringinc-origination-associate-8885168002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Cambridge, MA USA | On-site |  | Oct 13 |
-| **[Techno](https://job-boards.greenhouse.io/techno)** | **[Jr. Project/Office Engineer (Transportation Infrastructure Programs)](https://interviewchamp.ai/jobs/techno-jr-project-office-engineer-transportation-infrastructure-programs-4449659009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Newark, NJ | On-site |  | Oct 13 |
-| **[JRC Careers](https://job-boards.greenhouse.io/jrc)** | **[Junior Public Affairs Officer](https://interviewchamp.ai/jobs/jrc-junior-public-affairs-officer-4444134009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Crane, IN | On-site |  | Oct 13 |
-| **[gFiber](https://fiber.google.com)** | **[Special Projects Deployment Engineer I](https://interviewchamp.ai/jobs/googlefiber-special-projects-deployment-engineer-i-6218209004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Remote | Remote |  | Oct 13 |
-| **[Traction Wellness Group](https://jobs.ashbyhq.com/traction-wellness-group)** | **[SweatHouz Edgewater Sales Associate](https://interviewchamp.ai/jobs/traction-wellness-group-sweathouz-edgewater-sales-associate-8c9215b4-adfd-44bf-bf3e-73e1c069712b?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Edgewater NJ | On-site |  | Oct 13 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-14 01:03 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-14 03:54 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
