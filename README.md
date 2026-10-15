@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **3,161 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **3,164 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,161, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 3,164, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,11 @@ Entry-level roles for new grads and early-career job seekers. **3,161 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Hark](https://job-boards.greenhouse.io/hark)** | **[Warehouse Associate](https://interviewchamp.ai/jobs/hark-warehouse-associate-4452791009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Jose | On-site | $75k–$120k | Oct 15 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Sales Associate](https://interviewchamp.ai/jobs/equipmentsharecom-sales-associate-8281159?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Ashland, MO (Forge & Build) | On-site |  | Oct 15 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Office Administrator I](https://interviewchamp.ai/jobs/equipmentsharecom-office-administrator-i-8279266?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Ashland, MO (Forge & Build) | On-site |  | Oct 15 |
+| **[Octane](https://octane.co)** | **[Capital Markets Associate](https://interviewchamp.ai/jobs/octanelending-capital-markets-associate-8034273003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York, New York, United States | On-site | $130k–$160k | Oct 15 |
+| **[Elfbeauty](https://jobs.lever.co/elfbeauty)** | **[Associate Manager Inventory Control](https://interviewchamp.ai/jobs/elfbeauty-associate-manager-inventory-control-7ee4bc24-1477-4d9d-a2e6-b2fab7ea0683?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Ontario, CA | Hybrid | $70k–$90k | Oct 15 |
 | **[OKX](https://job-boards.greenhouse.io/okx)** | **[Associate General Counsel, Employment Law](https://interviewchamp.ai/jobs/okx-associate-general-counsel-employment-law-8034260003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York, United States; San Jose, California, United States | On-site | $171.7k–$257.6k | Oct 15 |
 | **[Knighted Ventures](https://job-boards.greenhouse.io/knightedventures)** | **[Copy of Customer Service Casino Gaming Associate](https://interviewchamp.ai/jobs/knightedventures-copy-of-customer-service-casino-gaming-associate-4452685009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Manteca, CA | On-site |  | Oct 15 |
 | **[Knighted Ventures](https://job-boards.greenhouse.io/knightedventures)** | **[Part-Time Customer Service Gaming Associate](https://interviewchamp.ai/jobs/knightedventures-part-time-customer-service-gaming-associate-4452684009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | South Sacramento, CA | On-site |  | Oct 15 |
@@ -177,12 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **3,161 are live r
 | **[Bfsaul](https://jobs.lever.co/bfsaul)** | **[Leasing Associate \| Hampden House](https://interviewchamp.ai/jobs/bfsaul-leasing-associate-hampden-house-0c6784da-bb36-41f7-a92d-34c7db88a857?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Bethesda, Maryland | On-site |  | Oct 14 |
 | **[Magnolia](https://job-boards.greenhouse.io/magnolia)** | **[Warehouse - Seasonal Warehouse Associate](https://interviewchamp.ai/jobs/magnolia-warehouse-seasonal-warehouse-associate-5452573008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Waco, TX | On-site |  | Oct 14 |
 | **[3MG Roofing & Solar](https://job-boards.greenhouse.io/3mgroofing)** | **[Territory Sales Consultant — Sales Trainee](https://interviewchamp.ai/jobs/3mgroofing-territory-sales-consultant-sales-trainee-4451542009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Ocala, FL | On-site |  | Oct 14 |
-| **[Planhat](https://jobs.ashbyhq.com/planhat)** | **[Associate Recruiter](https://interviewchamp.ai/jobs/planhat-associate-recruiter-66f6d868-324d-4cda-aa53-62af49ef3f36?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Los Angeles | On-site | $75k–$95k | Oct 14 |
-| **[42 North Dental](https://job-boards.greenhouse.io/42northdental)** | **[Associate Dentist](https://interviewchamp.ai/jobs/42northdental-associate-dentist-4401169009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Chelmsford, MA | On-site | $50k–$125k | Oct 14 |
-| **[CLEAR - Corporate](https://clearme.com)** | **[Software Development Engineer I](https://interviewchamp.ai/jobs/clear-software-development-engineer-i-8241829?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Austin, Texas | On-site | $105k–$125k | Oct 14 |
-| **[FreedomCare](https://freedomcare.com)** | **[Case Resolution Specialist I](https://interviewchamp.ai/jobs/freedomcare-case-resolution-specialist-i-8015675003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Pittsburgh, PA | On-site |  | Oct 14 |
-| **[FreedomCare](https://freedomcare.com)** | **[Case Resolution Specialist I](https://interviewchamp.ai/jobs/freedomcare-case-resolution-specialist-i-8015673003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Philadelphia, PA | On-site |  | Oct 14 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-15 01:01 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-15 03:54 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
