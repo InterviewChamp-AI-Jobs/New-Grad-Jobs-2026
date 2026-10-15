@@ -32,6 +32,7 @@ Entry-level roles for new grads and early-career job seekers. **3,167 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Centreforeffectivealtruism](https://jobs.ashbyhq.com/centreforeffectivealtruism)** | **[Grants Associate](https://interviewchamp.ai/jobs/centreforeffectivealtruism-grants-associate-7a67a108-1b94-4d11-9dc1-b1c62d95a3c8?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Remote - Global | Remote | $65k–$85k | Oct 15 |
 | **[Datavant](https://www.datavant.com)** | **[Health Information Specialist I](https://interviewchamp.ai/jobs/datavant2-health-information-specialist-i-5407584008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Holland, MI | On-site |  | Oct 15 |
 | **[Datavant](https://www.datavant.com)** | **[Health Information Specialist I](https://interviewchamp.ai/jobs/datavant2-health-information-specialist-i-5389886008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Toledo, OH | On-site |  | Oct 15 |
 | **[Hark](https://job-boards.greenhouse.io/hark)** | **[Warehouse Associate](https://interviewchamp.ai/jobs/hark-warehouse-associate-4452791009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Jose | On-site | $75k–$120k | Oct 15 |
@@ -181,8 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **3,167 are live r
 | **[Brilliant Earth](https://job-boards.greenhouse.io/brilliantearth)** | **[Sales Associate, Jewelry](https://interviewchamp.ai/jobs/brilliantearth-sales-associate-jewelry-4451564009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Fairfax, VA | On-site |  | Oct 14 |
 | **[Brilliant Earth](https://job-boards.greenhouse.io/brilliantearth)** | **[Sales Associate, Jewelry](https://interviewchamp.ai/jobs/brilliantearth-sales-associate-jewelry-4451563009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Boston, MA | On-site |  | Oct 14 |
 | **[Bfsaul](https://jobs.lever.co/bfsaul)** | **[Leasing Associate \| Hampden House](https://interviewchamp.ai/jobs/bfsaul-leasing-associate-hampden-house-0c6784da-bb36-41f7-a92d-34c7db88a857?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Bethesda, Maryland | On-site |  | Oct 14 |
-| **[Magnolia](https://job-boards.greenhouse.io/magnolia)** | **[Warehouse - Seasonal Warehouse Associate](https://interviewchamp.ai/jobs/magnolia-warehouse-seasonal-warehouse-associate-5452573008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Waco, TX | On-site |  | Oct 14 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-15 07:08 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-15 09:53 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
