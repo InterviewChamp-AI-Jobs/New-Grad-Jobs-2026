@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **3,383 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **3,385 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,383, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 3,385, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,9 @@ Entry-level roles for new grads and early-career job seekers. **3,383 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Clera](https://jobs.ashbyhq.com/clera)** | **[Entry-Level Sales Development Representative (SDR)](https://interviewchamp.ai/jobs/clera-entry-level-sales-development-representative-sdr-c2213e16-b9b2-4191-aa9e-c87cb8b66406?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Salt Lake City (Remote) | Remote |  | Oct 17 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Yard Associate](https://interviewchamp.ai/jobs/equipmentsharecom-yard-associate-8289187?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Arab, AL (Forge & Build) | On-site |  | Oct 17 |
+| **[Momentic Studios](https://job-boards.greenhouse.io/momentic)** | **[STRONG Pilates- Sales Associate, Kendall Square](https://interviewchamp.ai/jobs/momentic-strong-pilates-sales-associate-kendall-square-5456045008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Cambridge, MA | On-site |  | Oct 17 |
 | **[Natera](https://job-boards.greenhouse.io/natera)** | **[Associate Clinical Oncology Specialist](https://interviewchamp.ai/jobs/natera-associate-clinical-oncology-specialist-6227405004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Los Angeles, CA | On-site | $110k–$130k | Oct 17 |
 | **[Natera](https://job-boards.greenhouse.io/natera)** | **[Associate Clinical Oncology Specialist](https://interviewchamp.ai/jobs/natera-associate-clinical-oncology-specialist-6227034004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Jose, CA | On-site | $110k–$130k | Oct 17 |
 | **[Inkitt](https://jobs.lever.co/inkitt)** | **[Associate Editor](https://interviewchamp.ai/jobs/inkitt-associate-editor-2e485d12-bf98-46cd-b5f9-d5871a5134cb?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Francisco | On-site | $80k–$100k | Oct 16 |
@@ -74,7 +77,6 @@ Entry-level roles for new grads and early-career job seekers. **3,383 are live r
 | **[Michels Corporation](https://job-boards.eu.greenhouse.io)** | **[Associate Construction Project Manager – Power Foundations - Michels Power, Inc.](https://interviewchamp.ai/jobs/michelscorporation-associate-construction-project-manager-power-foundations-michels-power-inc-5009134101?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Syracuse, NY | On-site | $82k–$107k | Oct 16 |
 | **[Apptronik](https://apptronik.com)** | **[Strategy & Operations Associate](https://interviewchamp.ai/jobs/apptronik-strategy-operations-associate-6227425004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Remote US | Remote |  | Oct 16 |
 | **[Luster National](https://job-boards.greenhouse.io/lusternational)** | **[CEI Inspector Aid/Inspector I](https://interviewchamp.ai/jobs/lusternational-cei-inspector-aid-inspector-i-5455701008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Atlanta, Georgia, United States | On-site | $35k–$62k | Oct 16 |
-| **[Clera](https://jobs.ashbyhq.com/clera)** | **[Sales Development Representative, Early Career](https://interviewchamp.ai/jobs/clera-sales-development-representative-early-career-b1321050-5028-4a8e-b74a-1a9dca378aba?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Salt Lake City (Remote) | Remote |  | Oct 16 |
 | **[Mom's Meals](https://jobs.lever.co/momsmeals)** | **[3rd Shift Fulfillment Associate](https://interviewchamp.ai/jobs/momsmeals-3rd-shift-fulfillment-associate-d29aedd1-e8ce-4f07-bd81-b790647bb2d0?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Conyers, GA | On-site |  | Oct 16 |
 | **[Mom's Meals](https://jobs.lever.co/momsmeals)** | **[2nd Shift Fulfillment Associate](https://interviewchamp.ai/jobs/momsmeals-2nd-shift-fulfillment-associate-d0ce071a-7edb-4945-be8e-874cf79c1d78?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Conyers, GA | On-site |  | Oct 16 |
 | **[Lucid Motors](https://lucidmotors.com)** | **[Studio Associate](https://interviewchamp.ai/jobs/lucidmotors-studio-associate-5267667007?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Houston, TX | On-site |  | Oct 16 |
@@ -180,9 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **3,383 are live r
 | **[GRVTY](https://job-boards.greenhouse.io/grvty)** | **[Event Operations Associate](https://interviewchamp.ai/jobs/grvty-event-operations-associate-4449999009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | McLean, Virginia, United States | On-site | $85k–$95k | Oct 16 |
 | **[Parallel](https://job-boards.greenhouse.io/liveparalleljobs)** | **[Part-Time Retail Sales Associate 15-20 hours/week with an employee discount!](https://interviewchamp.ai/jobs/liveparalleljobs-part-time-retail-sales-associate-15-20-hours-week-with-an-employee-discount-8894146002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Deerfield Beach, Florida, United States | On-site |  | Oct 16 |
 | **[LLR Partners](https://job-boards.greenhouse.io/llrpartnersjobs)** | **[Analyst/Associate, Investor Relations](https://interviewchamp.ai/jobs/llrpartnersjobs-analyst-associate-investor-relations-4454615009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Philadelphia, Pennsylvania | On-site |  | Oct 16 |
-| **[Saatva](https://job-boards.greenhouse.io/saatva)** | **[Sales Associate](https://interviewchamp.ai/jobs/saatva-sales-associate-4455369009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | King Of Prussia - PA - Full Time | On-site |  | Oct 16 |
-| **[Brennan Industries](https://job-boards.greenhouse.io/brennan)** | **[Shipping Associate](https://interviewchamp.ai/jobs/brennan-shipping-associate-5454985008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Euclid, Ohio, United States | On-site |  | Oct 16 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-17 01:02 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-17 03:52 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
