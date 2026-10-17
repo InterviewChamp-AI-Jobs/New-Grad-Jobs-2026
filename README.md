@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **3,385 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **3,382 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,385, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 3,382, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Entry-level roles for new grads and early-career job seekers. **3,385 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Clera](https://jobs.ashbyhq.com/clera)** | **[Junior Account Executive](https://interviewchamp.ai/jobs/clera-junior-account-executive-ad9fe9ff-12af-4a0f-b7f7-f41c4899b4db?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | remote | Remote | $65k–$75k | Oct 17 |
 | **[DoorDash USA](https://job-boards.greenhouse.io/doordashusa)** | **[Associate, Strategy & Operations, Merchant Onboarding & Experience](https://interviewchamp.ai/jobs/doordashusa-associate-strategy-operations-merchant-onboarding-experience-8289516?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | United States - Remote | Remote | $74.8k–$110k | Oct 17 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Entry-Level Sales Development Representative (SDR)](https://interviewchamp.ai/jobs/clera-entry-level-sales-development-representative-sdr-c2213e16-b9b2-4191-aa9e-c87cb8b66406?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Salt Lake City (Remote) | Remote |  | Oct 17 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Yard Associate](https://interviewchamp.ai/jobs/equipmentsharecom-yard-associate-8289187?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Arab, AL (Forge & Build) | On-site |  | Oct 17 |
@@ -54,7 +55,6 @@ Entry-level roles for new grads and early-career job seekers. **3,385 are live r
 | **[Housecall Pro](https://www.housecallpro.com)** | **[Associate, Revenue Accounting](https://interviewchamp.ai/jobs/housecall-associate-revenue-accounting-6227589004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | United States | On-site | $66.2k–$77.8k | Oct 16 |
 | **[Robinhood](https://robinhood.com)** | **[Government Affairs Associate](https://interviewchamp.ai/jobs/robinhood-government-affairs-associate-8205083?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Washington, DC | On-site | $128k–$150k | Oct 16 |
 | **[Bell Brothers](https://job-boards.greenhouse.io/bellbros)** | **[Plumbing Install Apprentice](https://interviewchamp.ai/jobs/bellbros-plumbing-install-apprentice-5455943008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Sacramento, CA | On-site | $50k–$70k | Oct 16 |
-| **[Natera](https://job-boards.greenhouse.io/natera)** | **[Customer Experience Associate](https://interviewchamp.ai/jobs/natera-customer-experience-associate-6226592004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | US Remote | Remote |  | Oct 16 |
 | **[Total Recon Auto Center](https://job-boards.greenhouse.io/totalrecon)** | **[Parts Associate](https://interviewchamp.ai/jobs/totalrecon-parts-associate-4456614009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Laurel, MD | On-site |  | Oct 16 |
 | **[Crestwood Behavioral Health](https://job-boards.greenhouse.io/crestwoodcareers)** | **[Recovery Coach \| Entry-Level Mental Health Aide](https://interviewchamp.ai/jobs/crestwoodcareers-recovery-coach-entry-level-mental-health-aide-8036140003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Mateo, California, United States | On-site |  | Oct 16 |
 | **[4front](https://jobs.lever.co/4front)** | **[Cannabis Facilities Associate](https://interviewchamp.ai/jobs/4front-cannabis-facilities-associate-156925eb-49f3-41c7-9390-e5fa3db359db?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Holliston, MA | On-site |  | Oct 16 |
@@ -185,4 +185,4 @@ Entry-level roles for new grads and early-career job seekers. **3,385 are live r
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-17 15:46 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-17 18:49 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
