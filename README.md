@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **3,382 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **3,380 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,382, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 3,380, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Entry-level roles for new grads and early-career job seekers. **3,382 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[FluidStack](https://fluidstack.io)** | **[Energy Associate](https://interviewchamp.ai/jobs/fluidstack-energy-associate-0acce278-a93d-448f-8a60-d7dd07d6cce8?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Austin, TX | On-site | $128k–$156k | Oct 18 |
 | **[Bevi](https://job-boards.greenhouse.io/bevicareers)** | **[Associate Account Manager](https://interviewchamp.ai/jobs/bevicareers-associate-account-manager-4457082009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York City | On-site | $88.1k–$108.8k | Oct 18 |
 | **[SPS North America](https://job-boards.greenhouse.io/spsnorthamerica)** | **[Client Service Associate](https://interviewchamp.ai/jobs/spsnorthamerica-client-service-associate-5447306008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Jersey City, New Jersey, United States | On-site |  | Oct 18 |
 | **[Abaka AI](https://job-boards.greenhouse.io/abakaai)** | **[Event Marketing Associate](https://interviewchamp.ai/jobs/abakaai-event-marketing-associate-4439311009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Mountain View, CA | On-site | $70k–$90k | Oct 18 |
@@ -181,8 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **3,382 are live r
 | **[Jack Morton Worldwide](https://job-boards.greenhouse.io/jackmortonworldwide)** | **[Warehouse Associate (Trade Shows & Events)](https://interviewchamp.ai/jobs/jackmortonworldwide-warehouse-associate-trade-shows-events-4409911009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Dayton, New Jersey, United States | On-site |  | Oct 16 |
 | **[Access Destination Services](https://jobs.ashbyhq.com/access)** | **[Sales Associate](https://interviewchamp.ai/jobs/access-sales-associate-251dc9ce-5ac0-40ef-8407-144ced7a3dc7?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New Orleans, Louisiana, United States (Remote) | Remote |  | Oct 16 |
 | **[Cook Systems](https://job-boards.greenhouse.io/cooksys)** | **[Human Resources Assistant: Junior](https://interviewchamp.ai/jobs/cooksys-human-resources-assistant-junior-5454992008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Tampa, FL | On-site |  | Oct 16 |
-| **[Sunnyside*](https://job-boards.greenhouse.io/sunnyside)** | **[Retail Sales Associate - Part Time](https://interviewchamp.ai/jobs/sunnyside-retail-sales-associate-part-time-8894308002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | 360 Washington Rd, Washington, PA 15301 | On-site |  | Oct 16 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-18 12:56 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-18 15:45 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
