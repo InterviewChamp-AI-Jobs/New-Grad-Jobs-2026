@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **3,381 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **3,382 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,381, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 3,382, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Entry-level roles for new grads and early-career job seekers. **3,381 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Bevi](https://job-boards.greenhouse.io/bevicareers)** | **[Associate Account Manager](https://interviewchamp.ai/jobs/bevicareers-associate-account-manager-4457082009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York City | On-site | $88.1k–$108.8k | Oct 18 |
+| **[SPS North America](https://job-boards.greenhouse.io/spsnorthamerica)** | **[Client Service Associate](https://interviewchamp.ai/jobs/spsnorthamerica-client-service-associate-5447306008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Jersey City, New Jersey, United States | On-site |  | Oct 18 |
 | **[Abaka AI](https://job-boards.greenhouse.io/abakaai)** | **[Event Marketing Associate](https://interviewchamp.ai/jobs/abakaai-event-marketing-associate-4439311009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Mountain View, CA | On-site | $70k–$90k | Oct 18 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Junior Account Executive](https://interviewchamp.ai/jobs/clera-junior-account-executive-ad9fe9ff-12af-4a0f-b7f7-f41c4899b4db?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | remote | Remote | $65k–$75k | Oct 17 |
 | **[DoorDash USA](https://job-boards.greenhouse.io/doordashusa)** | **[Associate, Strategy & Operations, Merchant Onboarding & Experience](https://interviewchamp.ai/jobs/doordashusa-associate-strategy-operations-merchant-onboarding-experience-8289516?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | United States - Remote | Remote | $74.8k–$110k | Oct 17 |
@@ -147,7 +149,6 @@ Entry-level roles for new grads and early-career job seekers. **3,381 are live r
 | **[Axogen](https://www.axogeninc.com)** | **[Clinical Research Associate II (Extremities Specialty)](https://interviewchamp.ai/jobs/axogen-clinical-research-associate-ii-extremities-specialty-8886970002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Tampa, Florida, United States | On-site | $84.2k–$105.2k | Oct 16 |
 | **[Curaleaf](https://job-boards.greenhouse.io/curaleaf)** | **[Processing Lab Associate - Night Shift](https://interviewchamp.ai/jobs/curaleaf-processing-lab-associate-night-shift-8888094002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Homestead, FL | On-site |  | Oct 16 |
 | **[SPS North America](https://job-boards.greenhouse.io/spsnorthamerica)** | **[Client Services Associate](https://interviewchamp.ai/jobs/spsnorthamerica-client-services-associate-5450120008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Seattle, Washington, United States | On-site |  | Oct 16 |
-| **[SPS North America](https://job-boards.greenhouse.io/spsnorthamerica)** | **[Client Services Associate](https://interviewchamp.ai/jobs/spsnorthamerica-client-services-associate-5454676008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Seattle, Washington, United States | On-site |  | Oct 16 |
 | **[GCM Grosvenor](https://job-boards.greenhouse.io/gcmgrosvenor)** | **[Office Services Associate (Receptionist & Hospitality), New York City](https://interviewchamp.ai/jobs/gcmgrosvenor-office-services-associate-receptionist-hospitality-new-york-city-8009765003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York, New York, United States | On-site | $65k–$85k | Oct 16 |
 | **[CityVet DVM](https://job-boards.greenhouse.io/cityvetinc)** | **[Associate Veterinarian - Keller](https://interviewchamp.ai/jobs/cityvetinc-associate-veterinarian-keller-4455678009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Keller, Texas, United States | On-site |  | Oct 16 |
 | **[CityVet DVM](https://job-boards.greenhouse.io/cityvetinc)** | **[Associate Veterinarian - Prosper Windsong Ranch](https://interviewchamp.ai/jobs/cityvetinc-associate-veterinarian-prosper-windsong-ranch-4455671009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Dallas, Texas, United States | On-site |  | Oct 16 |
@@ -181,8 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **3,381 are live r
 | **[Access Destination Services](https://jobs.ashbyhq.com/access)** | **[Sales Associate](https://interviewchamp.ai/jobs/access-sales-associate-251dc9ce-5ac0-40ef-8407-144ced7a3dc7?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New Orleans, Louisiana, United States (Remote) | Remote |  | Oct 16 |
 | **[Cook Systems](https://job-boards.greenhouse.io/cooksys)** | **[Human Resources Assistant: Junior](https://interviewchamp.ai/jobs/cooksys-human-resources-assistant-junior-5454992008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Tampa, FL | On-site |  | Oct 16 |
 | **[Sunnyside*](https://job-boards.greenhouse.io/sunnyside)** | **[Retail Sales Associate - Part Time](https://interviewchamp.ai/jobs/sunnyside-retail-sales-associate-part-time-8894308002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | 360 Washington Rd, Washington, PA 15301 | On-site |  | Oct 16 |
-| **[GRVTY](https://job-boards.greenhouse.io/grvty)** | **[Event Operations Associate](https://interviewchamp.ai/jobs/grvty-event-operations-associate-4449999009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | McLean, Virginia, United States | On-site | $85k–$95k | Oct 16 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-18 09:48 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-18 12:56 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
