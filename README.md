@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **3,380 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **3,381 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,380, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 3,381, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Entry-level roles for new grads and early-career job seekers. **3,380 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Abaka AI](https://job-boards.greenhouse.io/abakaai)** | **[Event Marketing Associate](https://interviewchamp.ai/jobs/abakaai-event-marketing-associate-4439311009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Mountain View, CA | On-site | $70k–$90k | Oct 18 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Junior Account Executive](https://interviewchamp.ai/jobs/clera-junior-account-executive-ad9fe9ff-12af-4a0f-b7f7-f41c4899b4db?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | remote | Remote | $65k–$75k | Oct 17 |
 | **[DoorDash USA](https://job-boards.greenhouse.io/doordashusa)** | **[Associate, Strategy & Operations, Merchant Onboarding & Experience](https://interviewchamp.ai/jobs/doordashusa-associate-strategy-operations-merchant-onboarding-experience-8289516?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | United States - Remote | Remote | $74.8k–$110k | Oct 17 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Entry-Level Sales Development Representative (SDR)](https://interviewchamp.ai/jobs/clera-entry-level-sales-development-representative-sdr-c2213e16-b9b2-4191-aa9e-c87cb8b66406?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Salt Lake City (Remote) | Remote |  | Oct 17 |
@@ -181,8 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **3,380 are live r
 | **[Cook Systems](https://job-boards.greenhouse.io/cooksys)** | **[Human Resources Assistant: Junior](https://interviewchamp.ai/jobs/cooksys-human-resources-assistant-junior-5454992008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Tampa, FL | On-site |  | Oct 16 |
 | **[Sunnyside*](https://job-boards.greenhouse.io/sunnyside)** | **[Retail Sales Associate - Part Time](https://interviewchamp.ai/jobs/sunnyside-retail-sales-associate-part-time-8894308002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | 360 Washington Rd, Washington, PA 15301 | On-site |  | Oct 16 |
 | **[GRVTY](https://job-boards.greenhouse.io/grvty)** | **[Event Operations Associate](https://interviewchamp.ai/jobs/grvty-event-operations-associate-4449999009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | McLean, Virginia, United States | On-site | $85k–$95k | Oct 16 |
-| **[Parallel](https://job-boards.greenhouse.io/liveparalleljobs)** | **[Part-Time Retail Sales Associate 15-20 hours/week with an employee discount!](https://interviewchamp.ai/jobs/liveparalleljobs-part-time-retail-sales-associate-15-20-hours-week-with-an-employee-discount-8894146002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Deerfield Beach, Florida, United States | On-site |  | Oct 16 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-18 03:52 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-18 07:00 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
