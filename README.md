@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **3,380 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **3,382 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,380, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 3,382, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -34,6 +34,7 @@ Entry-level roles for new grads and early-career job seekers. **3,380 are live r
 | --- | --- | --- | --- | --- | --- |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Sales Development Representative, Early Career](https://interviewchamp.ai/jobs/clera-sales-development-representative-early-career-a61f6fda-bb2f-4a26-8aaa-46515fcff0fe?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Salt Lake City (Remote) | Remote | From $60k | Oct 19 |
 | **[AST SpaceMobile](https://ast-science.com)** | **[Front Desk Security, 4th Shift, Site 1](https://interviewchamp.ai/jobs/astspacemobile-front-desk-security-4th-shift-site-1-4741733005?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Midland, Texas, United States | On-site |  | Oct 19 |
+| **[Farm Service Agency](https://www.usajobs.gov)** | **[County Program Analyst/Trainee](https://interviewchamp.ai/jobs/farm-service-agency-usajobs-county-program-analyst-trainee-888961400?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Ortonville, Minnesota | On-site | $37,193–$80,243 | Oct 19 |
 | **[Art of Problem Solving](https://artofproblemsolving.com)** | **[Front Desk Associate](https://interviewchamp.ai/jobs/artofproblemsolving-front-desk-associate-8036602003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Millburn, New Jersey, United States | On-site |  | Oct 18 |
 | **[Mom's Meals](https://jobs.lever.co/momsmeals)** | **[1st Shift Warehouse Associate](https://interviewchamp.ai/jobs/momsmeals-1st-shift-warehouse-associate-6f1cba5c-e7fc-49a2-98f5-7f602f64a2b4?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Grinnell, IA | On-site |  | Oct 18 |
 | **[Little Words Project](https://job-boards.greenhouse.io/littlewordsproject)** | **[Sales Associate](https://interviewchamp.ai/jobs/littlewordsproject-sales-associate-5456375008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | King of Prussia, Pennsylvania | On-site |  | Oct 18 |
@@ -181,8 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **3,380 are live r
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Sales Associate](https://interviewchamp.ai/jobs/equipmentsharecom-sales-associate-8288984?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Gloversville, NY (Materials) | On-site |  | Oct 16 |
 | **[Misfits Market](https://job-boards.greenhouse.io/misfitsmarket)** | **[Inventory Associate- FL Operator](https://interviewchamp.ai/jobs/misfitsmarket-inventory-associate-fl-operator-8035458003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Tracy, California | On-site |  | Oct 16 |
 | **[Centria Autism](https://job-boards.greenhouse.io/centriaautism)** | **[Clinical Apprentice - BCBA Fieldwork Program](https://interviewchamp.ai/jobs/centriaautism-clinical-apprentice-bcba-fieldwork-program-8737435002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Detroit, Michigan, United States | On-site |  | Oct 16 |
-| **[Jack Morton Worldwide](https://job-boards.greenhouse.io/jackmortonworldwide)** | **[Warehouse Associate (Trade Shows & Events)](https://interviewchamp.ai/jobs/jackmortonworldwide-warehouse-associate-trade-shows-events-4409911009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Dayton, New Jersey, United States | On-site |  | Oct 16 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-19 03:57 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-19 07:15 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
