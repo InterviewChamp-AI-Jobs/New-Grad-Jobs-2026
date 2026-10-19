@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **3,381 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **3,377 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,381, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 3,377, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,9 @@ Entry-level roles for new grads and early-career job seekers. **3,381 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Atlas Energy Solutions](https://atlasesolutions.com)** | **[Warehouse Associate](https://interviewchamp.ai/jobs/atlassand-warehouse-associate-8899774002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Kermit, TX | On-site |  | Oct 19 |
+| **[EQT Corporation](https://job-boards.greenhouse.io/eqtcorporation)** | **[Terminal Junior Operator](https://interviewchamp.ai/jobs/eqtcorporation-terminal-junior-operator-5452340008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Newington, NH | On-site |  | Oct 19 |
+| **[Modera Wealth Management](https://job-boards.greenhouse.io/moderawealthmanagement)** | **[Corporate Development Associate](https://interviewchamp.ai/jobs/moderawealthmanagement-corporate-development-associate-5456562008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York City, NY; Boston, MA, Westwood, NJ, Atlanta, GA; Charlotte, NC | On-site | $115k–$145k | Oct 19 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Sales Development Representative, Early Career](https://interviewchamp.ai/jobs/clera-sales-development-representative-early-career-a61f6fda-bb2f-4a26-8aaa-46515fcff0fe?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Salt Lake City (Remote) | Remote | From $60k | Oct 19 |
 | **[AST SpaceMobile](https://ast-science.com)** | **[Front Desk Security, 4th Shift, Site 1](https://interviewchamp.ai/jobs/astspacemobile-front-desk-security-4th-shift-site-1-4741733005?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Midland, Texas, United States | On-site |  | Oct 19 |
 | **[Farm Service Agency](https://www.usajobs.gov)** | **[County Program Analyst/Trainee](https://interviewchamp.ai/jobs/farm-service-agency-usajobs-county-program-analyst-trainee-888961400?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Ortonville, Minnesota | On-site | $37,193–$80,243 | Oct 19 |
@@ -179,10 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **3,381 are live r
 | **[OakNorth](https://jobs.ashbyhq.com/oaknorth)** | **[Associate, Debt Finance Support (Real Estate)](https://interviewchamp.ai/jobs/oaknorth-associate-debt-finance-support-real-estate-f1d8efcf-9755-4f23-9311-cfcb4e68b874?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York | On-site | $100k–$150k | Oct 16 |
 | **[Careers at KKR](https://kkr.com)** | **[Associate, Data Engineer](https://interviewchamp.ai/jobs/stage-associate-data-engineer-6226589004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York, New York, United States | On-site | $145k–$165k | Oct 16 |
 | **[SimonMed Imaging](https://jobs.lever.co/simonmed)** | **[Field Engineer Apprentice](https://interviewchamp.ai/jobs/simonmed-field-engineer-apprentice-35262ca1-e991-4bbe-985a-b7c13e833556?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | 8921 W Thomas Rd, Phoenix, AZ 85037 | On-site |  | Oct 16 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Sales Associate](https://interviewchamp.ai/jobs/equipmentsharecom-sales-associate-8288984?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Gloversville, NY (Materials) | On-site |  | Oct 16 |
-| **[Misfits Market](https://job-boards.greenhouse.io/misfitsmarket)** | **[Inventory Associate- FL Operator](https://interviewchamp.ai/jobs/misfitsmarket-inventory-associate-fl-operator-8035458003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Tracy, California | On-site |  | Oct 16 |
-| **[Centria Autism](https://job-boards.greenhouse.io/centriaautism)** | **[Clinical Apprentice - BCBA Fieldwork Program](https://interviewchamp.ai/jobs/centriaautism-clinical-apprentice-bcba-fieldwork-program-8737435002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Detroit, Michigan, United States | On-site |  | Oct 16 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-19 09:57 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-19 13:08 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
