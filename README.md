@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **3,380 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **3,378 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,380, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 3,378, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,13 +32,13 @@ Entry-level roles for new grads and early-career job seekers. **3,380 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Art of Problem Solving](https://artofproblemsolving.com)** | **[Front Desk Associate](https://interviewchamp.ai/jobs/artofproblemsolving-front-desk-associate-8036602003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Millburn, New Jersey, United States | On-site |  | Oct 18 |
+| **[Mom's Meals](https://jobs.lever.co/momsmeals)** | **[1st Shift Warehouse Associate](https://interviewchamp.ai/jobs/momsmeals-1st-shift-warehouse-associate-6f1cba5c-e7fc-49a2-98f5-7f602f64a2b4?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Grinnell, IA | On-site |  | Oct 18 |
 | **[Little Words Project](https://job-boards.greenhouse.io/littlewordsproject)** | **[Sales Associate](https://interviewchamp.ai/jobs/littlewordsproject-sales-associate-5456375008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | King of Prussia, Pennsylvania | On-site |  | Oct 18 |
 | **[FluidStack](https://fluidstack.io)** | **[Energy Associate](https://interviewchamp.ai/jobs/fluidstack-energy-associate-0acce278-a93d-448f-8a60-d7dd07d6cce8?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Austin, TX | On-site | $128k–$156k | Oct 18 |
 | **[Bevi](https://job-boards.greenhouse.io/bevicareers)** | **[Associate Account Manager](https://interviewchamp.ai/jobs/bevicareers-associate-account-manager-4457082009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York City | On-site | $88.1k–$108.8k | Oct 18 |
 | **[SPS North America](https://job-boards.greenhouse.io/spsnorthamerica)** | **[Client Service Associate](https://interviewchamp.ai/jobs/spsnorthamerica-client-service-associate-5447306008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Jersey City, New Jersey, United States | On-site |  | Oct 18 |
-| **[Abaka AI](https://job-boards.greenhouse.io/abakaai)** | **[Event Marketing Associate](https://interviewchamp.ai/jobs/abakaai-event-marketing-associate-4439311009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Mountain View, CA | On-site | $70k–$90k | Oct 18 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Junior Account Executive](https://interviewchamp.ai/jobs/clera-junior-account-executive-ad9fe9ff-12af-4a0f-b7f7-f41c4899b4db?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | remote | Remote | $65k–$75k | Oct 17 |
-| **[DoorDash USA](https://job-boards.greenhouse.io/doordashusa)** | **[Associate, Strategy & Operations, Merchant Onboarding & Experience](https://interviewchamp.ai/jobs/doordashusa-associate-strategy-operations-merchant-onboarding-experience-8289516?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | United States - Remote | Remote | $74.8k–$110k | Oct 17 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Entry-Level Sales Development Representative (SDR)](https://interviewchamp.ai/jobs/clera-entry-level-sales-development-representative-sdr-c2213e16-b9b2-4191-aa9e-c87cb8b66406?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Salt Lake City (Remote) | Remote |  | Oct 17 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Yard Associate](https://interviewchamp.ai/jobs/equipmentsharecom-yard-associate-8289187?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Arab, AL (Forge & Build) | On-site |  | Oct 17 |
 | **[Momentic Studios](https://job-boards.greenhouse.io/momentic)** | **[STRONG Pilates- Sales Associate, Kendall Square](https://interviewchamp.ai/jobs/momentic-strong-pilates-sales-associate-kendall-square-5456045008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Cambridge, MA | On-site |  | Oct 17 |
@@ -185,4 +185,4 @@ Entry-level roles for new grads and early-career job seekers. **3,380 are live r
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-18 21:46 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-19 01:04 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
