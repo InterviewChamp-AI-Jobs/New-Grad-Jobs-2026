@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **3,476 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **3,487 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,476, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 3,487, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,9 +32,9 @@ Entry-level roles for new grads and early-career job seekers. **3,476 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
-| **[Squishable](https://job-boards.greenhouse.io/squishable)** | **[Seasonal Retail Sales Associate (Briarwood Mall)](https://interviewchamp.ai/jobs/squishable-seasonal-retail-sales-associate-briarwood-mall-4745340005?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Ann Arbor, Michigan | On-site |  | Oct 20 |
-| **[Squishable](https://job-boards.greenhouse.io/squishable)** | **[Seasonal Retail Sales Associate (Boise Towne Square)](https://interviewchamp.ai/jobs/squishable-seasonal-retail-sales-associate-boise-towne-square-4745336005?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Boise, Idaho | On-site |  | Oct 20 |
-| **[Squishable](https://job-boards.greenhouse.io/squishable)** | **[Seasonal Retail Sales Associate (Alderwood Mall)](https://interviewchamp.ai/jobs/squishable-seasonal-retail-sales-associate-alderwood-mall-4745334005?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Lynnwood, Washington | On-site |  | Oct 20 |
+| **[Squishable](https://job-boards.greenhouse.io/squishable)** | **[Seasonal Retail Sales Associate (Westfield Topanga)](https://interviewchamp.ai/jobs/squishable-seasonal-retail-sales-associate-westfield-topanga-4745394005?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Los Angeles, California | On-site |  | Oct 20 |
+| **[Squishable](https://job-boards.greenhouse.io/squishable)** | **[Seasonal Retail Sales Associate (Westfield Southcenter)](https://interviewchamp.ai/jobs/squishable-seasonal-retail-sales-associate-westfield-southcenter-4745390005?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Tukwila, Washington | On-site |  | Oct 20 |
+| **[Squishable](https://job-boards.greenhouse.io/squishable)** | **[Seasonal Retail Sales Associate (Westfield Galleria at Roseville)](https://interviewchamp.ai/jobs/squishable-seasonal-retail-sales-associate-westfield-galleria-at-roseville-4745386005?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Roseville, California | On-site |  | Oct 20 |
 | **[Perry Ellis International - Retail](https://job-boards.greenhouse.io/perryellisinternationalretail)** | **[Seasonal Sales Associate (part-time) - Perry Ellis](https://interviewchamp.ai/jobs/perryellisinternationalretail-seasonal-sales-associate-part-time-perry-ellis-4723275006?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | 522-RS-FL-Estero | On-site |  | Oct 20 |
 | **[Perry Ellis International - Retail](https://job-boards.greenhouse.io/perryellisinternationalretail)** | **[Seasonal Sales Associate (part-time) - Original Penguin](https://interviewchamp.ai/jobs/perryellisinternationalretail-seasonal-sales-associate-part-time-original-penguin-4723273006?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | 640-RS-FL-Miromar Outlets | On-site |  | Oct 20 |
 | **[Natera](https://job-boards.greenhouse.io/natera)** | **[Associate Clinical Oncology Specialist](https://interviewchamp.ai/jobs/natera-associate-clinical-oncology-specialist-6227028004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Shreveport, LA; Tyler, TX | On-site |  | Oct 20 |
@@ -185,4 +185,4 @@ Entry-level roles for new grads and early-career job seekers. **3,476 are live r
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-20 07:07 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-20 09:53 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
