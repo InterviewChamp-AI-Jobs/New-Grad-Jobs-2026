@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **3,467 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **3,470 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,467, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 3,470, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,11 @@ Entry-level roles for new grads and early-career job seekers. **3,467 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Pattern Bioscience](https://pattern.bio)** | **[Reagent Manufacturing Associate](https://interviewchamp.ai/jobs/patternbioscience-reagent-manufacturing-associate-5456911008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Austin, TX | On-site |  | Oct 20 |
+| **[Honey Birdette](https://careers.honeybirdette.com)** | **[Sales Associate (PT) \| Beverly Center](https://interviewchamp.ai/jobs/honeybirdette-sales-associate-pt-beverly-center-8572052?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Los Angeles, United States | On-site |  | Oct 20 |
+| **[General Matter](https://job-boards.greenhouse.io/generalmatter)** | **[Process Engineer (New Grad)](https://interviewchamp.ai/jobs/generalmatter-process-engineer-new-grad-5434674008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Los Angeles, CA | On-site | $96k–$106k | Oct 20 |
+| **[Jordan Park Group](https://job-boards.greenhouse.io/jordanparkgroup)** | **[Associate - Software Developer](https://interviewchamp.ai/jobs/jordanparkgroup-associate-software-developer-6229011004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Francisco, California, United States | On-site | $125k–$150k | Oct 20 |
+| **[HelloFresh](https://careers.hellofresh.com)** | **[\[US DC\] Associate Maintenance Manager](https://interviewchamp.ai/jobs/hellofresh-us-dc-associate-maintenance-manager-8282410?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Irving, TX, United States | On-site | $63k–$72k | Oct 20 |
 | **[Action Property Management](https://jobs.lever.co/actionlife)** | **[Front Desk Associate (Weekend Part-Time)- Union House](https://interviewchamp.ai/jobs/actionlife-front-desk-associate-weekend-part-time-union-house-6333e323-456d-46d7-91fa-aa822a8ce2f5?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Francisco, CA | On-site |  | Oct 20 |
 | **[Tyson & Mendes LLP](https://job-boards.greenhouse.io/tysonmendesllp)** | **[Associate Attorney (Insurance Coverage)](https://interviewchamp.ai/jobs/tysonmendesllp-associate-attorney-insurance-coverage-5457896008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Seattle, WA | On-site | $100k–$145k | Oct 20 |
 | **[Tyson & Mendes LLP](https://job-boards.greenhouse.io/tysonmendesllp)** | **[Associate Attorney (Employment Defense)](https://interviewchamp.ai/jobs/tysonmendesllp-associate-attorney-employment-defense-5457895008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Fresno, CA | On-site | $115k–$160k | Oct 20 |
@@ -177,12 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **3,467 are live r
 | **[Bauer Hockey/ Cascade Maverik Lacrosse](https://job-boards.greenhouse.io/bauerhockeycascademaveriklacrosse)** | **[Cascade Maverik: Production Associate](https://interviewchamp.ai/jobs/bauerhockeycascademaveriklacrosse-cascade-maverik-production-associate-5268320007?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Liverpool, NY, US | On-site |  | Oct 19 |
 | **[Berlin Packaging](https://job-boards.greenhouse.io/berlinpackaging)** | **[Forklift Operator I](https://interviewchamp.ai/jobs/berlinpackaging-forklift-operator-i-5454387008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | 725 Factory Shoals Road, Suite 500, Lithia Springs, Georgia | On-site |  | Oct 19 |
 | **[World Relief](https://jobs.lever.co/wr)** | **[Family Case Management Case Associate - 2025926](https://interviewchamp.ai/jobs/wr-family-case-management-case-associate-2025926-b46e607c-37a8-4be9-9a34-776829e5a54c?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Chicago, IL | On-site |  | Oct 19 |
-| **[Fanatics Collectibles](https://job-boards.greenhouse.io/fanaticscollectibles)** | **[Autograph Operations - Inventory Associate](https://interviewchamp.ai/jobs/fanaticscollectibles-autograph-operations-inventory-associate-4452518009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Sunnyvale, TX, United States | On-site |  | Oct 19 |
-| **[NASA Federal Credit Union](https://jobs.lever.co/nasafcu)** | **[Branch Member Service Associate (Part-Time) - Falls Church, VA](https://interviewchamp.ai/jobs/nasafcu-branch-member-service-associate-part-time-falls-church-va-7c379786-5a7e-49ee-bce7-d7874bfa5e6e?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Falls Church, VA | On-site |  | Oct 19 |
-| **[Simtra BioPharma Solutions](https://job-boards.greenhouse.io/simtrabps)** | **[Associate Project Manager](https://interviewchamp.ai/jobs/simtrabps-associate-project-manager-5242402007?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Bloomington, Indiana, United States | On-site |  | Oct 19 |
-| **[Cloudflare](https://cloudflare.com)** | **[Associate, Strategic Finance & Investor Relations](https://interviewchamp.ai/jobs/cloudflare-associate-strategic-finance-investor-relations-8287256?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Francisco, CA, United States | Hybrid | $117k–$161k | Oct 19 |
-| **[Bureau of Naval Personnel](https://www.usajobs.gov)** | **[Assistant / Associate Professor](https://interviewchamp.ai/jobs/bureau-of-naval-personnel-usajobs-assistant-associate-professor-889291700?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Naval Post Graduate School, Monterey, California | On-site | $128,568–$209,105 | Oct 19 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-20 01:06 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-20 03:54 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
