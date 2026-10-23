@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **3,796 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **3,798 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,796, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 3,798, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Entry-level roles for new grads and early-career job seekers. **3,796 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[One Medical](http://www.onemedical.com)** | **[Family Nurse Practitioner or Physician Assistant - New Grad Program: Tempe Gateway, May 2027](https://interviewchamp.ai/jobs/onemedical-family-nurse-practitioner-or-physician-assistant-new-grad-program-tempe-gateway-may-2027-8260736?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Tempe, AZ | On-site | From $116.9k | Oct 23 |
 | **[Seven Research](https://job-boards.greenhouse.io/sevenresearch)** | **[Seven Research Spring Camp - Graduate Student](https://interviewchamp.ai/jobs/sevenresearch-seven-research-spring-camp-graduate-student-5461904008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York, NY | On-site |  | Oct 23 |
 | **[Pivot Energy](https://jobs.lever.co/pivotenergy)** | **[Associate, Project Development](https://interviewchamp.ai/jobs/pivotenergy-associate-project-development-07c69e13-c084-4259-8c11-9aacce909e02?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Baltimore, Maryland (Remote) | Remote | $70k–$85k | Oct 23 |
 | **[Harbinger Motors Inc.](https://harbingermotors.com)** | **[Service Warehouse & Distribution Associate](https://interviewchamp.ai/jobs/harbingermotors-service-warehouse-distribution-associate-5273308007?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Garden Grove, CA | On-site |  | Oct 23 |
@@ -181,8 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **3,796 are live r
 | **[Konrad](https://www.konrad.com)** | **[Associate UI/UX Designer](https://interviewchamp.ai/jobs/konradgroup-associate-ui-ux-designer-8041479003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York | On-site | $70k–$80k | Oct 22 |
 | **[Careers at KKR](https://kkr.com)** | **[Professional, ABF IMS Associate](https://interviewchamp.ai/jobs/stage-professional-abf-ims-associate-6116722004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Dallas, Texas, United States | On-site |  | Oct 22 |
 | **[Konrad](https://www.konrad.com)** | **[Associate Consultant](https://interviewchamp.ai/jobs/konradgroup-associate-consultant-8041469003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York | On-site | $75k–$85k | Oct 22 |
-| **[Lasko Products](https://lasko.com)** | **[Industrial Designer I](https://interviewchamp.ai/jobs/laskoproducts-industrial-designer-i-5272267007?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | West Chester, PA | On-site |  | Oct 22 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-23 07:09 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-23 09:54 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
