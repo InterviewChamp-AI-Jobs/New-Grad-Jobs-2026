@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **3,792 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **3,794 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,792, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 3,794, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,10 @@ Entry-level roles for new grads and early-career job seekers. **3,792 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Pivot Energy](https://jobs.lever.co/pivotenergy)** | **[Associate, Project Development](https://interviewchamp.ai/jobs/pivotenergy-associate-project-development-07c69e13-c084-4259-8c11-9aacce909e02?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Baltimore, Maryland (Remote) | Remote | $70k–$85k | Oct 23 |
+| **[Harbinger Motors Inc.](https://harbingermotors.com)** | **[Service Warehouse & Distribution Associate](https://interviewchamp.ai/jobs/harbingermotors-service-warehouse-distribution-associate-5273308007?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Garden Grove, CA | On-site |  | Oct 23 |
+| **[Fidelity & Guaranty Life Insurance Company](https://www.fglife.com)** | **[PRT Operations Associate](https://interviewchamp.ai/jobs/fidelityguarantylife-prt-operations-associate-8042352003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Remote | Remote |  | Oct 23 |
+| **[STUDS](https://job-boards.greenhouse.io/studsinc)** | **[Apprentice Piercer](https://interviewchamp.ai/jobs/studsinc-apprentice-piercer-6233028004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | 8888 SW 136th St, Miami, FL 33176 | On-site |  | Oct 23 |
 | **[Jenni Kayne](https://job-boards.greenhouse.io/jennikayne)** | **[Sales Associate (Part Time) - Tribeca](https://interviewchamp.ai/jobs/jennikayne-sales-associate-part-time-tribeca-6233026004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York, NY | On-site |  | Oct 23 |
 | **[Manifest Law](https://jobs.ashbyhq.com/manifest-law)** | **[Business Immigration Associate – Remote, 4+ Yrs (H/L/PERM/E)](https://interviewchamp.ai/jobs/manifest-law-business-immigration-associate-remote-4-yrs-h-l-perm-e-7535b915-5381-4b39-a881-b17d42228296?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | United States (Remote) | Remote | $115k–$190k | Oct 23 |
 | **[EoS Fitness](https://job-boards.greenhouse.io/eosfitness)** | **[Kids Club Associate - NEW Gym Opening!](https://interviewchamp.ai/jobs/eosfitness-kids-club-associate-new-gym-opening-4464735009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Antonio, TX: Redland Rd / Loop 1604 | On-site |  | Oct 22 |
@@ -176,13 +180,9 @@ Entry-level roles for new grads and early-career job seekers. **3,792 are live r
 | **[Renuity](https://jobs.ashbyhq.com/renuity)** | **[Entry Level Sales Development Specialist- Newark, DE](https://interviewchamp.ai/jobs/renuity-entry-level-sales-development-specialist-newark-de-c8461320-9b59-4c41-9101-3ee4f3a7820d?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Newark, DE | On-site | From $50k | Oct 22 |
 | **[SPS North America](https://job-boards.greenhouse.io/spsnorthamerica)** | **[Client Service Associate](https://interviewchamp.ai/jobs/spsnorthamerica-client-service-associate-5461015008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Santa Ana, California, United States | On-site |  | Oct 22 |
 | **[Eye Care Partners Career Opportunities](https://www.eyecare-partners.com)** | **[Optical Sales Associate / Optician - Training Provided!](https://interviewchamp.ai/jobs/ecpcareers-optical-sales-associate-optician-training-provided-8908794002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Marysville, KS | On-site |  | Oct 22 |
-| **[Trust Wallet](https://trustwallet.com)** | **[Associate Product Manager, Graduate Leadership Program](https://interviewchamp.ai/jobs/trust-wallet-associate-product-manager-graduate-leadership-program-3dfc6f03-318d-490d-abbf-10e03f75899b?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Remote - Global | Remote |  | Oct 22 |
+| **[Trust Wallet](https://trustwallet.com)** | **[Management Trainee (Non-Tech Track)](https://interviewchamp.ai/jobs/trust-wallet-management-trainee-non-tech-track-3dfc6f03-318d-490d-abbf-10e03f75899b?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Remote - Global | Remote |  | Oct 22 |
 | **[National Life Insurance Company](https://job-boards.greenhouse.io/nationallifeinsurancecompany)** | **[Finance Leadership Rotational Program Associate](https://interviewchamp.ai/jobs/nationallifeinsurancecompany-finance-leadership-rotational-program-associate-4338207009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Addison, TX; Montpelier, VT | On-site | $59.6k–$87.5k | Oct 22 |
-| **[Precisely US Jobs](https://www.precisely.com)** | **[Associate Business Development Representative](https://interviewchamp.ai/jobs/preciselyusjobs-associate-business-development-representative-4733566005?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Tempe, Arizona | On-site |  | Oct 22 |
-| **[iCapital](https://job-boards.greenhouse.io/icapitalnetwork)** | **[Product Trainer - Associate](https://interviewchamp.ai/jobs/icapitalnetwork-product-trainer-associate-8908729002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Des Moines, Iowa, United States | On-site | $75k–$90k | Oct 22 |
-| **[Guidepoint](https://job-boards.greenhouse.io/guidepoint)** | **[Business Development Associate](https://interviewchamp.ai/jobs/guidepoint-business-development-associate-8903527002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Boston, Massachusetts, United States | On-site | $65k | Oct 22 |
-| **[Motional](https://motional.com)** | **[Associate Autonomous Vehicle Technician](https://interviewchamp.ai/jobs/motional-associate-autonomous-vehicle-technician-8041404003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Las Vegas, Nevada, United States | On-site | $64k–$76k | Oct 22 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-23 01:08 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-23 03:55 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
