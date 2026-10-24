@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **3,872 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **3,873 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,872, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 3,873, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Entry-level roles for new grads and early-career job seekers. **3,872 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Parallel](https://job-boards.greenhouse.io/liveparalleljobs)** | **[Part-Time Retail Sales Associate - 5-15 hours/week Thursdays, Fridays, and Saturdays](https://interviewchamp.ai/jobs/liveparalleljobs-part-time-retail-sales-associate-5-15-hours-week-thursdays-fridays-and-saturdays-8914472002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Brandon, Florida, United States | On-site |  | Oct 24 |
+| **[Parallel](https://job-boards.greenhouse.io/liveparalleljobs)** | **[Part-Time Retail Sales Associate](https://interviewchamp.ai/jobs/liveparalleljobs-part-time-retail-sales-associate-8914462002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Orlando (Colonial Dr.), FL | On-site |  | Oct 24 |
 | **[1-800-GOT-JUNK?](https://job-boards.greenhouse.io/1800gotjunk)** | **[Junk and Route Sales Associate](https://interviewchamp.ai/jobs/1800gotjunk-junk-and-route-sales-associate-4466609009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Dallas, TX | On-site |  | Oct 24 |
 | **[BAYADA Home Health Care](https://jobs.bayada.com)** | **[Sales Associate, Home Health](https://interviewchamp.ai/jobs/bayada-sales-associate-home-health-8900101002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Honolulu, HI 96813 \| 21.308558607 \| -157.85337088 | On-site | $60k–$65k | Oct 24 |
 | **[SMCP NORTH AMERICA (US, CANADA)](https://job-boards.greenhouse.io/smcp)** | **[Retail Seasonal Operations Associate, Sandro/Maje, Bloomingdale's, Mosaic.](https://interviewchamp.ai/jobs/smcp-retail-seasonal-operations-associate-sandro-maje-bloomingdale-s-mosaic-8911974002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Fairfax, Virginia, United States | On-site |  | Oct 23 |
@@ -180,9 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **3,872 are live r
 | **[Lush Handmade Cosmetics](https://job-boards.greenhouse.io/lush)** | **[Store Manager - The Mall at University Town Center](https://interviewchamp.ai/jobs/lush-store-manager-the-mall-at-university-town-center-8318031?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Sarasota, Florida, United States | On-site | $60k | Oct 23 |
 | **[Addepar](https://addepar.com)** | **[Product Manager - Early Career, AI Platform](https://interviewchamp.ai/jobs/addepar1-product-manager-early-career-ai-platform-8910404002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York, NY | On-site | $83k–$130k | Oct 23 |
 | **[Manaycpa.com](https://jobs.lever.co/manaycpa.com)** | **[Audit & Tax Associate](https://interviewchamp.ai/jobs/manaycpa-com-audit-tax-associate-76bca455-a570-4e04-aa90-7c5cb2548ec9?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Marietta, GA | Hybrid |  | Oct 23 |
-| **[Rowan](https://jobs.lever.co/heyrowan)** | **[Retail Store Associate](https://interviewchamp.ai/jobs/heyrowan-retail-store-associate-232e5621-6a95-42d5-81a6-404f7da68235?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Amherst, NY | On-site |  | Oct 23 |
-| **[Lakefield Veterinary Group](https://job-boards.greenhouse.io/lakefieldveterinarygroup)** | **[Regional Marketing Associate – Midwest Region](https://interviewchamp.ai/jobs/lakefieldveterinarygroup-regional-marketing-associate-midwest-region-4443019009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Lakefield Veterinary Group - Kent, WA | On-site | $60k–$70k | Oct 23 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-24 13:00 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-24 15:49 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
