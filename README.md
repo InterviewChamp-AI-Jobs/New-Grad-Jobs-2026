@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **3,871 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **3,870 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,871, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 3,870, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Entry-level roles for new grads and early-career job seekers. **3,871 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Metro Public Adjustment](https://job-boards.greenhouse.io/metropublicadjustment)** | **[Public Adjuster Apprentice 10-25 249388](https://interviewchamp.ai/jobs/metropublicadjustment-public-adjuster-apprentice-10-25-249388-4466763009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Bensalem, Pennsylvania, United States | On-site |  | Oct 25 |
 | **[CSC Generation](https://jobs.lever.co/cscgeneration-2)** | **[Sales Associate (Sur La Table)](https://interviewchamp.ai/jobs/cscgeneration-2-sales-associate-sur-la-table-75feabb7-9945-45e1-bd92-439a28bb33e5?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Orlando, FL | On-site |  | Oct 25 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Operations Associate](https://interviewchamp.ai/jobs/clera-operations-associate-0dab996a-6962-4de7-aef6-5c6f99490a1a?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Salt Lake City (Remote) | Remote | $55k–$65k | Oct 24 |
 | **[Reformation](https://job-boards.greenhouse.io/reformation)** | **[Temporary Operations Associate, Part Time - SouthPark](https://interviewchamp.ai/jobs/reformation-temporary-operations-associate-part-time-southpark-8302173?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Charlotte NC | On-site |  | Oct 24 |
@@ -177,7 +178,6 @@ Entry-level roles for new grads and early-career job seekers. **3,871 are live r
 | **[Datavant](https://www.datavant.com)** | **[Health Information Specialist I](https://interviewchamp.ai/jobs/datavant2-health-information-specialist-i-5450053008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Farmington, CT 06030 | On-site |  | Oct 23 |
 | **[Sunnyside*](https://job-boards.greenhouse.io/sunnyside)** | **[Retail Sales Associate - Part Time](https://interviewchamp.ai/jobs/sunnyside-retail-sales-associate-part-time-8911437002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | 2696 McFarland Rd, Rockford, IL 61107 | On-site |  | Oct 23 |
 | **[Western Veterinary Partners](https://job-boards.greenhouse.io/westernveterinarypartnersllc)** | **[Associate Veterinarian - North Phoenix Animal Clinic (Phoenix, AZ)](https://interviewchamp.ai/jobs/westernveterinarypartnersllc-associate-veterinarian-north-phoenix-animal-clinic-phoenix-az-4464659009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Phoenix, AZ | On-site | $125k–$150k | Oct 23 |
-| **[Ro](https://jobs.lever.co/ro)** | **[Associate, People Operations](https://interviewchamp.ai/jobs/ro-associate-people-operations-44ca63f4-11cb-4e2c-88c4-a8d1f926751a?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York, NY or Remote | Remote |  | Oct 23 |
 | **[Terrascend](https://jobs.lever.co/terrascend)** | **[Wellness Associate - Part Time](https://interviewchamp.ai/jobs/terrascend-wellness-associate-part-time-0e2f0799-62ad-4a95-9f51-22e7b52b8fb5?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Allentown, PA | On-site |  | Oct 23 |
 | **[ANS](https://jobs.lever.co/ans)** | **[Lab Scientist I/ Geologist I/ Engineer I](https://interviewchamp.ai/jobs/ans-lab-scientist-i-geologist-i-engineer-i-9dbbf31c-eac8-4bac-952f-345875af085f?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Oklahoma City, OK | On-site | $60k–$65k | Oct 23 |
 | **[Datadog](https://datadoghq.com)** | **[Associate Customer Success Manager - Denver](https://interviewchamp.ai/jobs/datadog-associate-customer-success-manager-denver-8301113?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Denver, Colorado, USA | On-site | $68k–$90k | Oct 23 |
@@ -185,4 +185,4 @@ Entry-level roles for new grads and early-career job seekers. **3,871 are live r
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-25 13:00 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-25 15:50 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
