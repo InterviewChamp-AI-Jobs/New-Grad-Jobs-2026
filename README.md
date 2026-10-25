@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **3,870 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **3,872 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,870, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 3,872, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Entry-level roles for new grads and early-career job seekers. **3,870 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Reformation](https://job-boards.greenhouse.io/reformation)** | **[Sales Associate, Full-Time - Short Hills](https://interviewchamp.ai/jobs/reformation-sales-associate-full-time-short-hills-8283807?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Short Hills, NJ | On-site |  | Oct 25 |
+| **[SMCP NORTH AMERICA (US, CANADA)](https://job-boards.greenhouse.io/smcp)** | **[Retail Sales Associate, Sandro/Maje, Bloomingdale's, Century City](https://interviewchamp.ai/jobs/smcp-retail-sales-associate-sandro-maje-bloomingdale-s-century-city-8906732002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Los Angeles, California, United States | On-site |  | Oct 25 |
 | **[Metro Public Adjustment](https://job-boards.greenhouse.io/metropublicadjustment)** | **[Public Adjuster Apprentice 10-25 249388](https://interviewchamp.ai/jobs/metropublicadjustment-public-adjuster-apprentice-10-25-249388-4466763009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Bensalem, Pennsylvania, United States | On-site |  | Oct 25 |
 | **[CSC Generation](https://jobs.lever.co/cscgeneration-2)** | **[Sales Associate (Sur La Table)](https://interviewchamp.ai/jobs/cscgeneration-2-sales-associate-sur-la-table-75feabb7-9945-45e1-bd92-439a28bb33e5?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Orlando, FL | On-site |  | Oct 25 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Operations Associate](https://interviewchamp.ai/jobs/clera-operations-associate-0dab996a-6962-4de7-aef6-5c6f99490a1a?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Salt Lake City (Remote) | Remote | $55k–$65k | Oct 24 |
@@ -124,7 +126,6 @@ Entry-level roles for new grads and early-career job seekers. **3,870 are live r
 | **[Figure Lending](https://job-boards.greenhouse.io/figure)** | **[Customer Success Associate](https://interviewchamp.ai/jobs/figure-customer-success-associate-8821166002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Reno, NV | On-site |  | Oct 23 |
 | **[PATH (People Assisting the Homeless)](https://epath.org)** | **[CalAIM ECM Care Manager (JR 5881)](https://interviewchamp.ai/jobs/epath-calaim-ecm-care-manager-jr-5881-6230226004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Santa Clara County | On-site |  | Oct 23 |
 | **[PATH (People Assisting the Homeless)](https://epath.org)** | **[CalAIM Community Support Case Manager - Housing Navigation (JR 5882)](https://interviewchamp.ai/jobs/epath-calaim-community-support-case-manager-housing-navigation-jr-5882-6230228004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Santa Clara County | On-site |  | Oct 23 |
-| **[SMCP NORTH AMERICA (US, CANADA)](https://job-boards.greenhouse.io/smcp)** | **[Retail Seasonal Sales Associate, Sandro/Maje @ Bloomingdale's SoHo](https://interviewchamp.ai/jobs/smcp-retail-seasonal-sales-associate-sandro-maje-bloomingdale-s-soho-8911972002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York, New York, United States | On-site |  | Oct 23 |
 | **[Precision for Medicine](https://job-boards.greenhouse.io/pfm)** | **[Associate Scientist, Flow Cytometry](https://interviewchamp.ai/jobs/pfm-associate-scientist-flow-cytometry-6233534004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Frederick, MD, USA | On-site | $83.2k–$124.8k | Oct 23 |
 | **[Precision Medicine Group](https://job-boards.greenhouse.io/precisionmedicinegroup)** | **[Associate Scientist, Flow Cytometry](https://interviewchamp.ai/jobs/precisionmedicinegroup-associate-scientist-flow-cytometry-6233524004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Frederick, MD, USA | On-site | $83.2k–$124.8k | Oct 23 |
 | **[BRUNT Workwear](https://boards.greenhouse.io/bruntworkwear)** | **[Global Logistics Associate](https://interviewchamp.ai/jobs/bruntworkwear-global-logistics-associate-4724403006?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Wilmington, MA | On-site | $58k–$65k | Oct 23 |
@@ -181,8 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **3,870 are live r
 | **[Terrascend](https://jobs.lever.co/terrascend)** | **[Wellness Associate - Part Time](https://interviewchamp.ai/jobs/terrascend-wellness-associate-part-time-0e2f0799-62ad-4a95-9f51-22e7b52b8fb5?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Allentown, PA | On-site |  | Oct 23 |
 | **[ANS](https://jobs.lever.co/ans)** | **[Lab Scientist I/ Geologist I/ Engineer I](https://interviewchamp.ai/jobs/ans-lab-scientist-i-geologist-i-engineer-i-9dbbf31c-eac8-4bac-952f-345875af085f?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Oklahoma City, OK | On-site | $60k–$65k | Oct 23 |
 | **[Datadog](https://datadoghq.com)** | **[Associate Customer Success Manager - Denver](https://interviewchamp.ai/jobs/datadog-associate-customer-success-manager-denver-8301113?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Denver, Colorado, USA | On-site | $68k–$90k | Oct 23 |
-| **[Clearway Energy](https://job-boards.greenhouse.io/clearwayjobs)** | **[Associate, Training Developer](https://interviewchamp.ai/jobs/clearwayjobs-associate-training-developer-5273639007?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Diego, California, United States | On-site | $89k–$110k | Oct 23 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-25 15:50 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-25 18:55 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
