@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **3,870 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **3,871 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,870, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 3,871, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Entry-level roles for new grads and early-career job seekers. **3,870 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[CSC Generation](https://jobs.lever.co/cscgeneration-2)** | **[Sales Associate (Sur La Table)](https://interviewchamp.ai/jobs/cscgeneration-2-sales-associate-sur-la-table-75feabb7-9945-45e1-bd92-439a28bb33e5?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Orlando, FL | On-site |  | Oct 25 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Operations Associate](https://interviewchamp.ai/jobs/clera-operations-associate-0dab996a-6962-4de7-aef6-5c6f99490a1a?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Salt Lake City (Remote) | Remote | $55k–$65k | Oct 24 |
 | **[Reformation](https://job-boards.greenhouse.io/reformation)** | **[Temporary Operations Associate, Part Time - SouthPark](https://interviewchamp.ai/jobs/reformation-temporary-operations-associate-part-time-southpark-8302173?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Charlotte NC | On-site |  | Oct 24 |
 | **[CSC Generation](https://jobs.lever.co/cscgeneration-2)** | **[Seasonal Retail Gearhead / Sales Associate - Part Time (Backcountry) (copy)](https://interviewchamp.ai/jobs/cscgeneration-2-seasonal-retail-gearhead-sales-associate-part-time-backcountry-copy-217fa787-26e6-45dd-a416-ed697df40311?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Park City Backcountry Retail Store, 1678 Redstone Center Dr. Suite 210, Park City, UT. 84098 | On-site |  | Oct 24 |
@@ -181,8 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **3,870 are live r
 | **[ANS](https://jobs.lever.co/ans)** | **[Lab Scientist I/ Geologist I/ Engineer I](https://interviewchamp.ai/jobs/ans-lab-scientist-i-geologist-i-engineer-i-9dbbf31c-eac8-4bac-952f-345875af085f?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Oklahoma City, OK | On-site | $60k–$65k | Oct 23 |
 | **[Datadog](https://datadoghq.com)** | **[Associate Customer Success Manager - Denver](https://interviewchamp.ai/jobs/datadog-associate-customer-success-manager-denver-8301113?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Denver, Colorado, USA | On-site | $68k–$90k | Oct 23 |
 | **[Clearway Energy](https://job-boards.greenhouse.io/clearwayjobs)** | **[Associate, Training Developer](https://interviewchamp.ai/jobs/clearwayjobs-associate-training-developer-5273639007?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Diego, California, United States | On-site | $89k–$110k | Oct 23 |
-| **[Clearway Energy](https://job-boards.greenhouse.io/clearwayjobs)** | **[Associate, Training Developer](https://interviewchamp.ai/jobs/clearwayjobs-associate-training-developer-5272779007?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Scottsdale, Arizona, United States | On-site | $89k–$110k | Oct 23 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-25 09:50 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-25 13:00 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
