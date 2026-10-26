@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **3,872 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **3,873 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,872, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 3,873, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Entry-level roles for new grads and early-career job seekers. **3,872 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Joor](https://jobs.ashbyhq.com/joor)** | **[Sales Development Associate](https://interviewchamp.ai/jobs/joor-sales-development-associate-b298b034-6f77-43f7-aea1-4fb4745db490?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | East Coast USA (Remote) | Remote |  | Oct 25 |
+| **[Hearst](https://job-boards.greenhouse.io/hearst)** | **[Mailer Trainee (Part-Time)](https://interviewchamp.ai/jobs/hearst-mailer-trainee-part-time-4466221009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Albany, NY, United States | On-site |  | Oct 25 |
 | **[Hudl](https://job-boards.greenhouse.io/hudl)** | **[Revenue Enablement Associate I](https://interviewchamp.ai/jobs/hudl-revenue-enablement-associate-i-8274051?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Lincoln, NE, United States; Omaha, NE, United States | On-site | $51k–$85k | Oct 25 |
 | **[Reformation](https://job-boards.greenhouse.io/reformation)** | **[Sales Associate, Full-Time - Short Hills](https://interviewchamp.ai/jobs/reformation-sales-associate-full-time-short-hills-8283807?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Short Hills, NJ | On-site |  | Oct 25 |
 | **[SMCP NORTH AMERICA (US, CANADA)](https://job-boards.greenhouse.io/smcp)** | **[Retail Sales Associate, Sandro/Maje, Bloomingdale's, Century City](https://interviewchamp.ai/jobs/smcp-retail-sales-associate-sandro-maje-bloomingdale-s-century-city-8906732002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Los Angeles, California, United States | On-site |  | Oct 25 |
@@ -180,9 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **3,872 are live r
 | **[Datavant](https://www.datavant.com)** | **[Health Information Specialist I](https://interviewchamp.ai/jobs/datavant2-health-information-specialist-i-5450053008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Farmington, CT 06030 | On-site |  | Oct 23 |
 | **[Sunnyside*](https://job-boards.greenhouse.io/sunnyside)** | **[Retail Sales Associate - Part Time](https://interviewchamp.ai/jobs/sunnyside-retail-sales-associate-part-time-8911437002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | 2696 McFarland Rd, Rockford, IL 61107 | On-site |  | Oct 23 |
 | **[Western Veterinary Partners](https://job-boards.greenhouse.io/westernveterinarypartnersllc)** | **[Associate Veterinarian - North Phoenix Animal Clinic (Phoenix, AZ)](https://interviewchamp.ai/jobs/westernveterinarypartnersllc-associate-veterinarian-north-phoenix-animal-clinic-phoenix-az-4464659009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Phoenix, AZ | On-site | $125k–$150k | Oct 23 |
-| **[Terrascend](https://jobs.lever.co/terrascend)** | **[Wellness Associate - Part Time](https://interviewchamp.ai/jobs/terrascend-wellness-associate-part-time-0e2f0799-62ad-4a95-9f51-22e7b52b8fb5?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Allentown, PA | On-site |  | Oct 23 |
-| **[ANS](https://jobs.lever.co/ans)** | **[Lab Scientist I/ Geologist I/ Engineer I](https://interviewchamp.ai/jobs/ans-lab-scientist-i-geologist-i-engineer-i-9dbbf31c-eac8-4bac-952f-345875af085f?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Oklahoma City, OK | On-site | $60k–$65k | Oct 23 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-25 21:48 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-26 01:16 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
