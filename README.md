@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **3,874 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **3,870 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,874, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 3,870, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,9 @@ Entry-level roles for new grads and early-career job seekers. **3,874 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Avanath](https://job-boards.greenhouse.io/communitymanager)** | **[Maintenance Apprentice](https://interviewchamp.ai/jobs/communitymanager-maintenance-apprentice-5274783007?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | 1301 Morning View Drive, Escondido, California 92026 | On-site |  | Oct 26 |
+| **[Veterans Health Administration](https://www.usajobs.gov)** | **[Social Worker - Behavioral Health Interdisciplinary Program (BHIP) Associate](https://interviewchamp.ai/jobs/veterans-health-administration-usajobs-social-worker-behavioral-health-interdisciplinary-program-bhip-associate-890198300?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Parma, Ohio | On-site | $78,764–$123,893 | Oct 26 |
+| **[Veterans Health Administration](https://www.usajobs.gov)** | **[Licensed Professional Mental Health Counselor - (BHIP) Associate](https://interviewchamp.ai/jobs/veterans-health-administration-usajobs-licensed-professional-mental-health-counselor-bhip-associate-890194300?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Parma, Ohio | On-site | $64,448–$101,375 | Oct 26 |
 | **[Nex](https://job-boards.greenhouse.io/nex)** | **[Associate Producer (Motion-Based Games)](https://interviewchamp.ai/jobs/nex-associate-producer-motion-based-games-5463222008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Remote / Hybrid (Los Angeles-based preferred) | Remote | $85k–$115k | Oct 26 |
 | **[Farm Service Agency](https://www.usajobs.gov)** | **[County Program Analyst/Trainee](https://interviewchamp.ai/jobs/farm-service-agency-usajobs-county-program-analyst-trainee-889247700?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Breckenridge, Minnesota | On-site | $37,193–$80,243 | Oct 26 |
 | **[Joor](https://jobs.ashbyhq.com/joor)** | **[Sales Development Associate](https://interviewchamp.ai/jobs/joor-sales-development-associate-b298b034-6f77-43f7-aea1-4fb4745db490?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | East Coast USA (Remote) | Remote |  | Oct 25 |
@@ -179,10 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **3,874 are live r
 | **[Bonneville Power Administration](https://www.usajobs.gov)** | **[Power System Control Craftsman Trainee 5](https://interviewchamp.ai/jobs/bonneville-power-administration-usajobs-power-system-control-craftsman-trainee-5-890137800?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Idaho Falls, Idaho; Redmond, Oregon; The Dalles, Oregon (+7 more) | On-site |  | Oct 23 |
 | **[Amplify](https://jobs.ashbyhq.com/amplify)** | **[Sales Associate, Inside West (Part-Time)](https://interviewchamp.ai/jobs/amplify-sales-associate-inside-west-part-time-886265ba-67fc-4652-9741-2719f783f354?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Remote - United States | Remote |  | Oct 23 |
 | **[Databricks](https://databricks.com)** | **[Associate Forward Deployed Engineer](https://interviewchamp.ai/jobs/databricks-associate-forward-deployed-engineer-8910846002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Mountain View, California | On-site |  | Oct 23 |
-| **[Farmersd40](https://jobs.ashbyhq.com/farmersd40)** | **[Entry Level Insurance Agent – Farmers Insurance](https://interviewchamp.ai/jobs/farmersd40-entry-level-insurance-agent-farmers-insurance-718d6de1-c43f-4f99-a28d-76729c17b579?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Ann Arbor, Michigan, United States | On-site | $55k–$75k | Oct 23 |
-| **[Faherty Brand](https://fahertybrand.com)** | **[Sales Associate, Part-Time - Wellesley](https://interviewchamp.ai/jobs/fahertybrand-sales-associate-part-time-wellesley-5248770007?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Wellesley, Massachusetts, United States | On-site |  | Oct 23 |
-| **[Datavant](https://www.datavant.com)** | **[Health Information Specialist I](https://interviewchamp.ai/jobs/datavant2-health-information-specialist-i-5450053008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Farmington, CT 06030 | On-site |  | Oct 23 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-26 10:05 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-26 14:59 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
