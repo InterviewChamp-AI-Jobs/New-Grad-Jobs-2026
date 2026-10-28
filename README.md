@@ -32,6 +32,7 @@ Entry-level roles for new grads and early-career job seekers. **4,106 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Augustus](https://jobs.ashbyhq.com/augustus)** | **[Business Operations (Graduate)](https://interviewchamp.ai/jobs/augustus-business-operations-graduate-3b8b3785-785d-4094-a129-03d4222b0f6a?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York City | On-site | $100k–$125k | Oct 28 |
 | **[StarTree](https://job-boards.greenhouse.io/startree)** | **[Software Engineer I](https://interviewchamp.ai/jobs/startree-software-engineer-i-6235909004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | US (Remote) | Remote |  | Oct 28 |
 | **[Kymber Consulting Group](https://job-boards.greenhouse.io/kymberconsultinggroup)** | **[Executive Assistant I](https://interviewchamp.ai/jobs/kymberconsultinggroup-executive-assistant-i-5465590008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Washington, DC | On-site |  | Oct 28 |
 | **[Mural Group](https://jobs.ashbyhq.com/themuralgroup)** | **[Junior Account Executive](https://interviewchamp.ai/jobs/themuralgroup-junior-account-executive-81874366-a2b6-4346-b62d-699e32716e2a?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Phoenix, AZ (Remote) | Remote |  | Oct 28 |
@@ -181,8 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **4,106 are live r
 | **[DYOPATH](https://job-boards.greenhouse.io/dyopath)** | **[Junior Service Desk Technician](https://interviewchamp.ai/jobs/dyopath-junior-service-desk-technician-4724807006?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Waddell, Arizona | On-site |  | Oct 27 |
 | **[Precision for Medicine](https://job-boards.greenhouse.io/pfm)** | **[Clinical Research Associate II - FSP](https://interviewchamp.ai/jobs/pfm-clinical-research-associate-ii-fsp-6235969004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Remote, United States | Remote | $91.5k–$137.3k | Oct 27 |
 | **[Precision Medicine Group](https://job-boards.greenhouse.io/precisionmedicinegroup)** | **[Clinical Research Associate II - FSP](https://interviewchamp.ai/jobs/precisionmedicinegroup-clinical-research-associate-ii-fsp-6228148004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Remote, United States | Remote | $91.5k–$137.3k | Oct 27 |
-| **[Senate](https://www.usajobs.gov)** | **[Sales Associate/Engraver](https://interviewchamp.ai/jobs/senate-usajobs-sales-associate-engraver-890438600?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Washington, District of Columbia | On-site | $55,628–$94,847 | Oct 27 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-28 07:23 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-28 10:07 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
