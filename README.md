@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **4,218 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **4,219 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 4,218, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 4,219, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,11 +32,13 @@ Entry-level roles for new grads and early-career job seekers. **4,218 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Tyson &amp; Mendes LLP](https://job-boards.greenhouse.io/tysonmendesllp)** | **[Associate Attorney (Remote)](https://interviewchamp.ai/jobs/tysonmendesllp-associate-attorney-remote-5457818008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Northern California, CA | On-site | $115k–$160k | Oct 29 |
+| **[Waymark](https://job-boards.greenhouse.io/waymark)** | **[Product Associate II](https://interviewchamp.ai/jobs/waymark-product-associate-ii-4748732005?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | US - Remote | Remote |  | Oct 29 |
 | **[Holder Construction](https://job-boards.greenhouse.io/holderconstruction)** | **[Office Engineer - Entry Level](https://interviewchamp.ai/jobs/holderconstruction-office-engineer-entry-level-4472151009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Shippingport, PA | On-site |  | Oct 29 |
 | **[Hawthorne Machinery Co.](https://job-boards.greenhouse.io/hawthornemachineryco)** | **[Tech Trainee 1](https://interviewchamp.ai/jobs/hawthornemachineryco-tech-trainee-1-5459333008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Maui, HI | On-site |  | Oct 29 |
 | **[Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab)** | **[Spacecraft Propulsion Systems Engineer I](https://interviewchamp.ai/jobs/rocketlab-spacecraft-propulsion-systems-engineer-i-8058455003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Long Beach, CA | On-site | $82.4k–$113.3k | Oct 29 |
 | **[Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab)** | **[Spacecraft Propulsion Components Engineer I](https://interviewchamp.ai/jobs/rocketlab-spacecraft-propulsion-components-engineer-i-8058356003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Long Beach, CA | On-site | $82.4k–$113.3k | Oct 29 |
-| **[Sieve](https://jobs.ashbyhq.com/sieve)** | **[Recruiting Ops Associate](https://interviewchamp.ai/jobs/sieve-recruiting-ops-associate-9b48faf3-e8f6-4404-9511-79fbea757a18?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Francisco | On-site | $90k–$130k | Oct 29 |
+| **[Sieve](https://jobs.ashbyhq.com/sieve)** | **[Recruiting Ops Associate](https://interviewchamp.ai/jobs/sieve-recruiting-ops-associate-9b48faf3-e8f6-4404-9511-79fbea757a18?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Francisco | On-site | $75k–$110k | Oct 29 |
 | **[YipitData (Alternative)](https://job-boards.greenhouse.io/yipitdatajobs)** | **[Business Development Associate](https://interviewchamp.ai/jobs/yipitdatajobs-business-development-associate-8332735?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | US Remote | Remote |  | Oct 29 |
 | **[STUDS](https://job-boards.greenhouse.io/studsinc)** | **[Apprentice Piercer](https://interviewchamp.ai/jobs/studsinc-apprentice-piercer-6238114004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | One Garden State Plaza Parkway, Space # 2155 Paramus, NJ 07652 | On-site |  | Oct 29 |
 | **[Farm Service Agency](https://www.usajobs.gov)** | **[County Program Analyst/Trainee](https://interviewchamp.ai/jobs/farm-service-agency-usajobs-county-program-analyst-trainee-890737400?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Las Cruces, New Mexico; Lovington, New Mexico | On-site | $36,464–$80,243 | Oct 29 |
@@ -180,9 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **4,218 are live r
 | **[Bridgewater Associates LP](https://bridgewater.com)** | **[Data Sourcing &amp; Strategy Associate](https://interviewchamp.ai/jobs/bwaltpostings-data-sourcing-strategy-associate-8916871002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Westport, CT | On-site | $170k–$225k | Oct 28 |
 | **[Aprio](https://jobs.lever.co/Aprio)** | **[Associate, Business Valuation](https://interviewchamp.ai/jobs/aprio-associate-business-valuation-eb07cdb5-9866-4e7e-b8b8-816bb3a593aa?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Atlanta, GA | Hybrid | $70k–$85k | Oct 28 |
 | **[Veho](https://jobs.ashbyhq.com/veho-tech-inc)** | **[Warehouse Associate II, Ground Operations](https://interviewchamp.ai/jobs/veho-tech-inc-warehouse-associate-ii-ground-operations-5770ec09-a538-4f2f-958a-5dbfc9eaddcd?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Highland Park, MI | On-site |  | Oct 28 |
-| **[Centria Autism](https://job-boards.greenhouse.io/centriaautism)** | **[Clinical Apprentice - BCBA Fieldwork Program](https://interviewchamp.ai/jobs/centriaautism-clinical-apprentice-bcba-fieldwork-program-8921694002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Woodhaven, Michigan, United States | On-site |  | Oct 28 |
-| **[Centria Autism](https://job-boards.greenhouse.io/centriaautism)** | **[Clinical Apprentice - BCBA Fieldwork Program](https://interviewchamp.ai/jobs/centriaautism-clinical-apprentice-bcba-fieldwork-program-8921676002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Detroit, Michigan, United States | On-site |  | Oct 28 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-29 04:06 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-29 07:25 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
