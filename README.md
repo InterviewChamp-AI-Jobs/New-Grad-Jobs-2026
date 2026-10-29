@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **4,218 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **4,220 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 4,218, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 4,220, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Entry-level roles for new grads and early-career job seekers. **4,218 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Thoughtworks](https://www.thoughtworks.com)** | **[Associate (Graduate) Developer](https://interviewchamp.ai/jobs/thoughtworks-associate-graduate-developer-8333235?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Chicago, Illinois, USA | On-site |  | Oct 29 |
+| **[Defense Commissary Agency](https://www.usajobs.gov)** | **[Supervisory Store Associate](https://interviewchamp.ai/jobs/defense-commissary-agency-usajobs-supervisory-store-associate-890762200?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Offutt AFB, Nebraska | On-site | $56,441–$73,370 | Oct 29 |
 | **[Tyson &amp; Mendes LLP](https://job-boards.greenhouse.io/tysonmendesllp)** | **[Associate Attorney (Remote)](https://interviewchamp.ai/jobs/tysonmendesllp-associate-attorney-remote-5457818008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Northern California, CA | On-site | $115k–$160k | Oct 29 |
 | **[Waymark](https://job-boards.greenhouse.io/waymark)** | **[Product Associate II](https://interviewchamp.ai/jobs/waymark-product-associate-ii-4748732005?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | US - Remote | Remote |  | Oct 29 |
 | **[Holder Construction](https://job-boards.greenhouse.io/holderconstruction)** | **[Office Engineer - Entry Level](https://interviewchamp.ai/jobs/holderconstruction-office-engineer-entry-level-4472151009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Shippingport, PA | On-site |  | Oct 29 |
@@ -180,9 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **4,218 are live r
 | **[Catalant](https://jobs.ashbyhq.com/catalant)** | **[Associate, Industrials](https://interviewchamp.ai/jobs/catalant-associate-industrials-2dc82c24-ba27-49b1-ae14-e27992b96669?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Boston, MA, United States (Remote) | Remote | $90k–$120k | Oct 28 |
 | **[Riverdale](https://jobs.lever.co/riverdale)** | **[Development Associate](https://interviewchamp.ai/jobs/riverdale-development-associate-43cc5f1e-46d8-4674-98e5-39c6d56d39cb?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Bronx, NY | On-site | $72k–$77k | Oct 28 |
 | **[Bridgewater Associates LP](https://bridgewater.com)** | **[Data Sourcing &amp; Strategy Associate](https://interviewchamp.ai/jobs/bwaltpostings-data-sourcing-strategy-associate-8916871002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Westport, CT | On-site | $170k–$225k | Oct 28 |
-| **[Aprio](https://jobs.lever.co/Aprio)** | **[Associate, Business Valuation](https://interviewchamp.ai/jobs/aprio-associate-business-valuation-eb07cdb5-9866-4e7e-b8b8-816bb3a593aa?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Atlanta, GA | Hybrid | $70k–$85k | Oct 28 |
-| **[Veho](https://jobs.ashbyhq.com/veho-tech-inc)** | **[Warehouse Associate II, Ground Operations](https://interviewchamp.ai/jobs/veho-tech-inc-warehouse-associate-ii-ground-operations-5770ec09-a538-4f2f-958a-5dbfc9eaddcd?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Highland Park, MI | On-site |  | Oct 28 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-29 10:09 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-29 13:23 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
