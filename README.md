@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **4,319 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **4,321 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 4,319, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 4,321, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Entry-level roles for new grads and early-career job seekers. **4,319 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Affirm](https://affirm.com)** | **[Customer Operations Associate I](https://interviewchamp.ai/jobs/affirm-customer-operations-associate-i-8040790003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Remote US | Remote | $50k–$70k | Oct 30 |
 | **[Perry Ellis International - Retail](https://job-boards.greenhouse.io/perryellisinternationalretail)** | **[Seasonal Sales Associate (part-time)- Perry Ellis](https://interviewchamp.ai/jobs/perryellisinternationalretail-seasonal-sales-associate-part-time-perry-ellis-4725553006?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | 601-RS-CA-Calexico | On-site |  | Oct 30 |
 | **[BillionToOne](https://billiontoone.com)** | **[Development Associate, Oncology](https://interviewchamp.ai/jobs/billiontoone-development-associate-oncology-4749186005?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Menlo Park, CA | On-site | $76.2k–$87k | Oct 30 |
 | **[Datavant](https://www.datavant.com)** | **[Customer Experience Rep I](https://interviewchamp.ai/jobs/datavant2-customer-experience-rep-i-5441769008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Remote - United States | Remote |  | Oct 30 |
@@ -181,8 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **4,319 are live r
 | **[Holder Construction](https://job-boards.greenhouse.io/holderconstruction)** | **[Office Engineer - Entry Level](https://interviewchamp.ai/jobs/holderconstruction-office-engineer-entry-level-4472151009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Shippingport, PA | On-site |  | Oct 29 |
 | **[Hawthorne Machinery Co.](https://job-boards.greenhouse.io/hawthornemachineryco)** | **[Tech Trainee 1](https://interviewchamp.ai/jobs/hawthornemachineryco-tech-trainee-1-5459333008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Maui, HI | On-site |  | Oct 29 |
 | **[Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab)** | **[Spacecraft Propulsion Systems Engineer I](https://interviewchamp.ai/jobs/rocketlab-spacecraft-propulsion-systems-engineer-i-8058455003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Long Beach, CA | On-site | $82.4k–$123.6k | Oct 29 |
-| **[Sieve](https://jobs.ashbyhq.com/sieve)** | **[Recruiting Ops Associate](https://interviewchamp.ai/jobs/sieve-recruiting-ops-associate-9b48faf3-e8f6-4404-9511-79fbea757a18?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Francisco | On-site | $75k–$110k | Oct 29 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-30 07:24 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-30 10:10 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
