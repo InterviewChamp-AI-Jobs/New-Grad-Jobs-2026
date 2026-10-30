@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **4,320 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **4,319 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 4,320, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 4,319, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,10 +32,13 @@ Entry-level roles for new grads and early-career job seekers. **4,320 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Perry Ellis International - Retail](https://job-boards.greenhouse.io/perryellisinternationalretail)** | **[Seasonal Sales Associate (part-time)- Perry Ellis](https://interviewchamp.ai/jobs/perryellisinternationalretail-seasonal-sales-associate-part-time-perry-ellis-4725553006?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | 601-RS-CA-Calexico | On-site |  | Oct 30 |
+| **[BillionToOne](https://billiontoone.com)** | **[Development Associate, Oncology](https://interviewchamp.ai/jobs/billiontoone-development-associate-oncology-4749186005?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Menlo Park, CA | On-site | $76.2k–$87k | Oct 30 |
 | **[Datavant](https://www.datavant.com)** | **[Customer Experience Rep I](https://interviewchamp.ai/jobs/datavant2-customer-experience-rep-i-5441769008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Remote - United States | Remote |  | Oct 30 |
 | **[CityVet DVM](https://job-boards.greenhouse.io/cityvetinc)** | **[Associate Veterinarian - Charlotte](https://interviewchamp.ai/jobs/cityvetinc-associate-veterinarian-charlotte-4473642009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Charlotte, North Carolina, United States | On-site |  | Oct 30 |
 | **[Zipline](https://www.zipline.com)** | **[Manufacturing Engineer, Early Career](https://interviewchamp.ai/jobs/flyzipline-manufacturing-engineer-early-career-8040731003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | South San Francisco, California, USA | On-site |  | Oct 30 |
 | **[CityVet DVM](https://job-boards.greenhouse.io/cityvetinc)** | **[Associate Veterinarian - Virginia Beach, VA](https://interviewchamp.ai/jobs/cityvetinc-associate-veterinarian-virginia-beach-va-4473588009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Virginia Beach, Virginia, United States | On-site | $130k–$175k | Oct 30 |
+| **[Office of the Inspector General, USPS](https://www.usajobs.gov)** | **[Entry Level Criminal Investigator - Northeast Area Field Office (NEAFO)](https://interviewchamp.ai/jobs/office-of-the-inspector-general-usps-usajobs-entry-level-criminal-investigator-northeast-area-field-office-neafo-890981900?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York, New York | On-site | $67,394–$96,989 | Oct 30 |
 | **[CityVet DVM](https://job-boards.greenhouse.io/cityvetinc)** | **[Associate Veterinarian - Chamblee](https://interviewchamp.ai/jobs/cityvetinc-associate-veterinarian-chamblee-4473594009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Chamblee, Georgia, United States | On-site |  | Oct 29 |
 | **[Fehr &amp; Peers](https://fehrandpeers.com)** | **[Entry-level Transportation Engineer/Planner](https://interviewchamp.ai/jobs/fehrandpeers-entry-level-transportation-engineer-planner-5de0ca9f-2358-4c2e-893e-424b64b1fdb8?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Francisco, California | On-site | $94k–$97k | Oct 29 |
 | **[Fehr &amp; Peers](https://fehrandpeers.com)** | **[Entry-level Transportation Engineer/Planner](https://interviewchamp.ai/jobs/fehrandpeers-entry-level-transportation-engineer-planner-e8b4a2be-effb-4f81-989b-681b61b3d50a?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Seattle, Washington | On-site | $78k–$82k | Oct 29 |
@@ -179,10 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **4,320 are live r
 | **[Hawthorne Machinery Co.](https://job-boards.greenhouse.io/hawthornemachineryco)** | **[Tech Trainee 1](https://interviewchamp.ai/jobs/hawthornemachineryco-tech-trainee-1-5459333008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Maui, HI | On-site |  | Oct 29 |
 | **[Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab)** | **[Spacecraft Propulsion Systems Engineer I](https://interviewchamp.ai/jobs/rocketlab-spacecraft-propulsion-systems-engineer-i-8058455003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Long Beach, CA | On-site | $82.4k–$123.6k | Oct 29 |
 | **[Sieve](https://jobs.ashbyhq.com/sieve)** | **[Recruiting Ops Associate](https://interviewchamp.ai/jobs/sieve-recruiting-ops-associate-9b48faf3-e8f6-4404-9511-79fbea757a18?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Francisco | On-site | $75k–$110k | Oct 29 |
-| **[YipitData (Alternative)](https://job-boards.greenhouse.io/yipitdatajobs)** | **[Business Development Associate](https://interviewchamp.ai/jobs/yipitdatajobs-business-development-associate-8332735?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | US Remote | Remote |  | Oct 29 |
-| **[STUDS](https://job-boards.greenhouse.io/studsinc)** | **[Apprentice Piercer](https://interviewchamp.ai/jobs/studsinc-apprentice-piercer-6238114004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | One Garden State Plaza Parkway, Space # 2155 Paramus, NJ 07652 | On-site |  | Oct 29 |
-| **[Farm Service Agency](https://www.usajobs.gov)** | **[County Program Analyst/Trainee](https://interviewchamp.ai/jobs/farm-service-agency-usajobs-county-program-analyst-trainee-890737400?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Las Cruces, New Mexico; Lovington, New Mexico | On-site | $36,464–$80,243 | Oct 29 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-30 04:07 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-30 07:24 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
