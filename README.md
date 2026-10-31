@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **4,406 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **4,407 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 4,406, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 4,407, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -52,6 +52,7 @@ Entry-level roles for new grads and early-career job seekers. **4,406 are live r
 | **[M and M Heating, Cooling, Plumbing and Electrical](https://job-boards.greenhouse.io/mandm)** | **[HVAC Install Apprentice](https://interviewchamp.ai/jobs/mandm-hvac-install-apprentice-5462217008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Longmont, CO | On-site |  | Oct 30 |
 | **[NerdWallet](https://jobs.ashbyhq.com/nerdwallet)** | **[Marketing Operations Associate (Contract) - NY](https://interviewchamp.ai/jobs/nerdwallet-marketing-operations-associate-contract-ny-b435b27f-96b5-4ce5-b73d-0643a831d857?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York City (Remote) | Remote |  | Oct 30 |
 | **[Hottopic](https://jobs.lever.co/hottopic)** | **[Purchasing Agent I](https://interviewchamp.ai/jobs/hottopic-purchasing-agent-i-185d5468-5e12-40d0-861e-5306a41cc686?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Hot Topic HQ - City of Industry, California | Hybrid |  | Oct 30 |
+| **[Vast](https://vast.com)** | **[Associate General Counsel](https://interviewchamp.ai/jobs/vast-associate-general-counsel-4726225006?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Washington, District of Columbia, United States | On-site | $237k–$337k | Oct 30 |
 | **[Crestwood Behavioral Health](https://job-boards.greenhouse.io/crestwoodcareers)** | **[Recovery Coach \| Entry-Level Mental Health Aide](https://interviewchamp.ai/jobs/crestwoodcareers-recovery-coach-entry-level-mental-health-aide-8110487003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Diego, California, United States | On-site |  | Oct 30 |
 | **[Townsquare Interactive](https://careers.townsquareinteractive.com)** | **[Inside Sales Associate, B2B](https://interviewchamp.ai/jobs/townsquareinteractive-inside-sales-associate-b2b-8338064?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Phoenix, AZ | On-site |  | Oct 30 |
 | **[Townsquare Interactive](https://careers.townsquareinteractive.com)** | **[Junior Recruiter &amp; Sourcing Specialist](https://interviewchamp.ai/jobs/townsquareinteractive-junior-recruiter-sourcing-specialist-8338058?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Charlotte, North Carolina | On-site |  | Oct 30 |
@@ -181,8 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **4,406 are live r
 | **[PDT Partners](https://job-boards.greenhouse.io/pdtpartners)** | **[Finance Associate](https://interviewchamp.ai/jobs/pdtpartners-finance-associate-8336807?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York, NY | On-site | From $120k | Oct 30 |
 | **[Amwins](https://www.amwins.com)** | **[HR Shared Services Associate](https://interviewchamp.ai/jobs/amwins-hr-shared-services-associate-4473446009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | 4725 Piedmont Row Drive Suite 600 Charlotte, North Carolina 28210 | On-site |  | Oct 30 |
 | **[Amwins](https://www.amwins.com)** | **[Associate Underwriter - Commercial Lines](https://interviewchamp.ai/jobs/amwins-associate-underwriter-commercial-lines-4472974009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | 6451 North Federal Highway Suite 1000 Fort Lauderdale, Florida 33308 | On-site |  | Oct 30 |
-| **[Berlin Packaging](https://job-boards.greenhouse.io/berlinpackaging)** | **[Forklift Operator I](https://interviewchamp.ai/jobs/berlinpackaging-forklift-operator-i-5466840008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | 13788 West Road, Suite 130, Houston, Texas | On-site |  | Oct 30 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-31 04:03 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-31 07:19 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
