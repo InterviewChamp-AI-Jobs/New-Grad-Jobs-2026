@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **4,407 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **4,406 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 4,407, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 4,406, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Entry-level roles for new grads and early-career job seekers. **4,407 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Blink Health](https://blinkhealth.com)** | **[Staff Pharmacist, Entry Level Closed-Door \| Onsite, Chesterfield](https://interviewchamp.ai/jobs/blinkhealth-staff-pharmacist-entry-level-closed-door-onsite-chesterfield-8926305002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Boise, ID | On-site |  | Oct 31 |
 | **[Brave Health](https://jobs.ashbyhq.com/bravehealth)** | **[Licensed Mental Health Counselor Associate (LMHCA) - Remote](https://interviewchamp.ai/jobs/bravehealth-licensed-mental-health-counselor-associate-lmhca-remote-8849ad1e-a2d6-4e48-a5d1-575924e5061e?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Indiana (Remote) | Remote | $60k–$63k | Oct 31 |
 | **[Brave Health](https://jobs.ashbyhq.com/bravehealth)** | **[Associate Therapist (LMSW &amp; LAPC) - Remote](https://interviewchamp.ai/jobs/bravehealth-associate-therapist-lmsw-lapc-remote-25a32b6a-467a-4543-afe5-dc43c5e500dd?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Georgia (Remote) | Remote | $60k–$63k | Oct 31 |
 | **[Hinge Health](https://jobs.ashbyhq.com/hinge-health)** | **[Associate Member Support Specialist](https://interviewchamp.ai/jobs/hinge-health-associate-member-support-specialist-5b551428-2ae9-4273-837d-315f572010cf?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Remote US | Remote |  | Oct 31 |
@@ -55,6 +56,7 @@ Entry-level roles for new grads and early-career job seekers. **4,407 are live r
 | **[Vast](https://vast.com)** | **[Associate General Counsel](https://interviewchamp.ai/jobs/vast-associate-general-counsel-4726225006?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Washington, District of Columbia, United States | On-site | $237k–$337k | Oct 30 |
 | **[Crestwood Behavioral Health](https://job-boards.greenhouse.io/crestwoodcareers)** | **[Recovery Coach \| Entry-Level Mental Health Aide](https://interviewchamp.ai/jobs/crestwoodcareers-recovery-coach-entry-level-mental-health-aide-8110487003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Diego, California, United States | On-site |  | Oct 30 |
 | **[Townsquare Interactive](https://careers.townsquareinteractive.com)** | **[Inside Sales Associate, B2B](https://interviewchamp.ai/jobs/townsquareinteractive-inside-sales-associate-b2b-8338064?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Phoenix, AZ | On-site |  | Oct 30 |
+| **[Cobalt](https://job-boards.greenhouse.io/cobaltio)** | **[Associate Security Researcher](https://interviewchamp.ai/jobs/cobaltio-associate-security-researcher-8924332002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Remote | Remote | $55k–$70k | Oct 30 |
 | **[Townsquare Interactive](https://careers.townsquareinteractive.com)** | **[Junior Recruiter &amp; Sourcing Specialist](https://interviewchamp.ai/jobs/townsquareinteractive-junior-recruiter-sourcing-specialist-8338058?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Charlotte, North Carolina | On-site |  | Oct 30 |
 | **[Buck Mason](https://jobs.lever.co/buckmason)** | **[Seasonal Support Associate (Fashion Island)](https://interviewchamp.ai/jobs/buckmason-seasonal-support-associate-fashion-island-74c8fd4a-07f3-4e2e-8f64-1055363f6a94?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Newport Beach, CA | On-site |  | Oct 30 |
 | **[Knighted Ventures](https://job-boards.greenhouse.io/knightedventures)** | **[Customer Service Casino Gaming Associate](https://interviewchamp.ai/jobs/knightedventures-customer-service-casino-gaming-associate-4474857009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Compton, CA | On-site |  | Oct 30 |
@@ -180,9 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **4,407 are live r
 | **[Precision for Medicine](https://job-boards.greenhouse.io/pfm)** | **[Biorepository Technician I](https://interviewchamp.ai/jobs/pfm-biorepository-technician-i-6239319004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Frederick, MD, USA | On-site |  | Oct 30 |
 | **[Precision Medicine Group](https://job-boards.greenhouse.io/precisionmedicinegroup)** | **[Biorepository Technician I](https://interviewchamp.ai/jobs/precisionmedicinegroup-biorepository-technician-i-6193557004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Frederick, MD, USA | On-site |  | Oct 30 |
 | **[PDT Partners](https://job-boards.greenhouse.io/pdtpartners)** | **[Finance Associate](https://interviewchamp.ai/jobs/pdtpartners-finance-associate-8336807?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York, NY | On-site | From $120k | Oct 30 |
-| **[Amwins](https://www.amwins.com)** | **[HR Shared Services Associate](https://interviewchamp.ai/jobs/amwins-hr-shared-services-associate-4473446009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | 4725 Piedmont Row Drive Suite 600 Charlotte, North Carolina 28210 | On-site |  | Oct 30 |
-| **[Amwins](https://www.amwins.com)** | **[Associate Underwriter - Commercial Lines](https://interviewchamp.ai/jobs/amwins-associate-underwriter-commercial-lines-4472974009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | 6451 North Federal Highway Suite 1000 Fort Lauderdale, Florida 33308 | On-site |  | Oct 30 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-31 07:19 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-31 15:24 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
