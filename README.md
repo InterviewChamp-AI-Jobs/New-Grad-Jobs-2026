@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **4,406 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **4,407 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 4,406, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 4,407, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,9 @@ Entry-level roles for new grads and early-career job seekers. **4,406 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Faherty Brand](https://fahertybrand.com)** | **[Seasonal Sales Associate, Part-Time - One Paseo](https://interviewchamp.ai/jobs/fahertybrand-seasonal-sales-associate-part-time-one-paseo-5279772007?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Diego, California, United States | On-site |  | Oct 31 |
+| **[Clera](https://jobs.ashbyhq.com/clera)** | **[GTM Associate, RL &amp; Physical AI](https://interviewchamp.ai/jobs/clera-gtm-associate-rl-physical-ai-af49e694-238d-4b82-9f46-3fbc4c99637f?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Francisco | On-site |  | Oct 31 |
+| **[Boostlingo](https://job-boards.greenhouse.io/boostlingo)** | **[Junior Attorney / Paralegal, Sales Contracts](https://interviewchamp.ai/jobs/boostlingo-junior-attorney-paralegal-sales-contracts-5469287008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | United States | On-site |  | Oct 31 |
 | **[Blink Health](https://blinkhealth.com)** | **[Staff Pharmacist, Entry Level Closed-Door \| Onsite, Chesterfield](https://interviewchamp.ai/jobs/blinkhealth-staff-pharmacist-entry-level-closed-door-onsite-chesterfield-8926305002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Boise, ID | On-site |  | Oct 31 |
 | **[Brave Health](https://jobs.ashbyhq.com/bravehealth)** | **[Licensed Mental Health Counselor Associate (LMHCA) - Remote](https://interviewchamp.ai/jobs/bravehealth-licensed-mental-health-counselor-associate-lmhca-remote-8849ad1e-a2d6-4e48-a5d1-575924e5061e?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Indiana (Remote) | Remote | $60k–$63k | Oct 31 |
 | **[Brave Health](https://jobs.ashbyhq.com/bravehealth)** | **[Associate Therapist (LMSW &amp; LAPC) - Remote](https://interviewchamp.ai/jobs/bravehealth-associate-therapist-lmsw-lapc-remote-25a32b6a-467a-4543-afe5-dc43c5e500dd?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Georgia (Remote) | Remote | $60k–$63k | Oct 31 |
@@ -179,10 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **4,406 are live r
 | **[SPS North America](https://job-boards.greenhouse.io/spsnorthamerica)** | **[Client Service Associate](https://interviewchamp.ai/jobs/spsnorthamerica-client-service-associate-5467040008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Arlington, Virginia, United States | On-site |  | Oct 30 |
 | **[Rowan](https://jobs.lever.co/heyrowan)** | **[Retail Store Associate](https://interviewchamp.ai/jobs/heyrowan-retail-store-associate-fa3b5bad-e128-49d5-a205-634b37ed1548?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Miramar Beach, FL | On-site |  | Oct 30 |
 | **[Lucid Motors](https://lucidmotors.com)** | **[Associate Service Technician, Goose Island](https://interviewchamp.ai/jobs/lucidmotors-associate-service-technician-goose-island-5279284007?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Chicago, IL | On-site |  | Oct 30 |
-| **[Precision for Medicine](https://job-boards.greenhouse.io/pfm)** | **[Biorepository Technician I](https://interviewchamp.ai/jobs/pfm-biorepository-technician-i-6239319004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Frederick, MD, USA | On-site |  | Oct 30 |
-| **[Precision Medicine Group](https://job-boards.greenhouse.io/precisionmedicinegroup)** | **[Biorepository Technician I](https://interviewchamp.ai/jobs/precisionmedicinegroup-biorepository-technician-i-6193557004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Frederick, MD, USA | On-site |  | Oct 30 |
-| **[PDT Partners](https://job-boards.greenhouse.io/pdtpartners)** | **[Finance Associate](https://interviewchamp.ai/jobs/pdtpartners-finance-associate-8336807?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York, NY | On-site | From $120k | Oct 30 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-31 15:24 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-31 21:43 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
