@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **4,411 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **4,408 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 4,411, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 4,408, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Entry-level roles for new grads and early-career job seekers. **4,411 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Proconex](https://job-boards.greenhouse.io/proconex)** | **[Reliability Technician I](https://interviewchamp.ai/jobs/proconex-reliability-technician-i-6240352004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Royersford, Pennsylvania, United States | On-site |  | Nov 1 |
+| **[Clera](https://jobs.ashbyhq.com/clera)** | **[Operations Associate](https://interviewchamp.ai/jobs/clera-operations-associate-2acd6cc4-1960-4d25-90e5-2d810a8f65ee?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Salt Lake City (Remote) | Remote | $55k–$65k | Nov 1 |
 | **[Marble Health](https://jobs.ashbyhq.com/marblehealth)** | **[Customer Experience Associate](https://interviewchamp.ai/jobs/marblehealth-customer-experience-associate-c4b5c5d3-806e-4340-8cb1-e5a202aeec2c?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York City (Remote) | Remote | $65k–$80k | Nov 1 |
 | **[Supreme Court of the United States](https://www.usajobs.gov)** | **[Police Officer (Entry-Level) - 50K Recruitment Incentive](https://interviewchamp.ai/jobs/supreme-court-of-the-united-states-usajobs-police-officer-entry-level-50k-recruitment-incentive-891032300?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Washington, District of Columbia; Montgomery County, Maryland; Prince George's County, Maryland (+3 more) | On-site | $86,530–$147,928 | Nov 1 |
 | **[U.S. Capitol Police](https://www.usajobs.gov)** | **[Special Agent (Entry-Level)](https://interviewchamp.ai/jobs/u-s-capitol-police-usajobs-special-agent-entry-level-891048500?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Washington, District of Columbia | On-site | $90,853 | Nov 1 |
@@ -180,9 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **4,411 are live r
 | **[Provectus](https://jobs.lever.co/provectus)** | **[Business Development &amp; Partnerships Associate](https://interviewchamp.ai/jobs/provectus-business-development-partnerships-associate-abc6e641-436d-431e-859f-421b895dbc71?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Philadelphia, Pennsylvania (Remote) | Remote |  | Oct 30 |
 | **[Mintel](https://www.mintel.com)** | **[Public Relations Associate](https://interviewchamp.ai/jobs/mintel-public-relations-associate-8282524?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Chicago | On-site | From $41k | Oct 30 |
 | **[Public Library of Science](https://job-boards.eu.greenhouse.io)** | **[PLOS One Public Health and Epidemiology Associate Editor- 2 Year Full Time Contract](https://interviewchamp.ai/jobs/plos-plos-one-public-health-and-epidemiology-associate-editor-2-year-full-time-contract-5007979101?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | US-Remote | Remote |  | Oct 30 |
-| **[Focus Financial Partners](https://focusfinancialpartners.com)** | **[Associate Wealth Advisor](https://interviewchamp.ai/jobs/focusfinancialpartners-associate-wealth-advisor-6238322004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Pittsburgh, PA | On-site |  | Oct 30 |
-| **[Network Firms](https://job-boards.greenhouse.io/networkfirms)** | **[Associate Wealth Advisor](https://interviewchamp.ai/jobs/networkfirms-associate-wealth-advisor-6238271004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Pittsburgh, PA | On-site |  | Oct 30 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-11-01 16:07 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-01 22:11 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
