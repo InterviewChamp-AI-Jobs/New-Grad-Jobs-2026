@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **4,795 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **4,799 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 4,795, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 4,799, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Entry-level roles for new grads and early-career job seekers. **4,795 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Faherty Brand](https://fahertybrand.com)** | **[Seasonal Sales Associate, Part-Time - Shrewsbury](https://interviewchamp.ai/jobs/fahertybrand-seasonal-sales-associate-part-time-shrewsbury-5284535007?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Shrewsbury, New Jersey, United States | On-site |  | Nov 7 |
+| **[Reformation](https://job-boards.greenhouse.io/reformation)** | **[Sales Associate, Full-Time - Georgetown](https://interviewchamp.ai/jobs/reformation-sales-associate-full-time-georgetown-8362974?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Washington, DC | On-site |  | Nov 7 |
 | **[Septerna](https://job-boards.greenhouse.io/septerna)** | **[Associate Scientist, Protein Sciences](https://interviewchamp.ai/jobs/septerna-associate-scientist-protein-sciences-5476276008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | South San Francisco, California, United States | On-site |  | Nov 7 |
 | **[Septerna](https://job-boards.greenhouse.io/septerna)** | **[Associate Scientist, Translational Biology](https://interviewchamp.ai/jobs/septerna-associate-scientist-translational-biology-5476274008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | South San Francisco, California, United States | On-site |  | Nov 7 |
 | **[Prolific Machines](https://jobs.lever.co/prolific-machines)** | **[Research Associate, Applied Cell Line Development &amp; Customer Programs](https://interviewchamp.ai/jobs/prolific-machines-research-associate-applied-cell-line-development-customer-programs-ef0cf738-8919-41b4-a01c-e8cbbd297a5c?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Emeryville, California | On-site | $72.5k–$117.5k | Nov 7 |
@@ -101,7 +103,6 @@ Entry-level roles for new grads and early-career job seekers. **4,795 are live r
 | **[R.W. Zant](https://job-boards.greenhouse.io/rwzant)** | **[Warehouse Associate - 3rd Shift](https://interviewchamp.ai/jobs/rwzant-warehouse-associate-3rd-shift-8933893002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Los Angeles, CA | On-site |  | Nov 6 |
 | **[Pliant Therapeutics, Inc.](https://job-boards.greenhouse.io/plianttherapeuticsinc)** | **[Associate Scientist I, Biochemistry](https://interviewchamp.ai/jobs/plianttherapeuticsinc-associate-scientist-i-biochemistry-8197938003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | South San Francisco, CA | On-site | $125k–$138k | Nov 6 |
 | **[Prolific Machines](https://jobs.lever.co/prolific-machines)** | **[Associate Technical Project Manager](https://interviewchamp.ai/jobs/prolific-machines-associate-technical-project-manager-2ed42dba-869b-417f-bac1-33d0a78423bf?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Emeryville, California | On-site | $120k–$160k | Nov 6 |
-| **[Habitat Health](https://job-boards.greenhouse.io/habitathealth)** | **[Participant (Patient) Access Associate](https://interviewchamp.ai/jobs/habitathealth-participant-patient-access-associate-5475876008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Remote, United States | Remote |  | Nov 6 |
 | **[Newtonx](https://jobs.ashbyhq.com/newtonx)** | **[Associate Manager, Research &amp; Innovation](https://interviewchamp.ai/jobs/newtonx-associate-manager-research-innovation-6d29e0b5-15b4-4e5c-a850-397d5ba2340e?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Remote | Remote |  | Nov 6 |
 | **[Tint](https://job-boards.greenhouse.io/tintai)** | **[Associate Product Manager](https://interviewchamp.ai/jobs/tintai-associate-product-manager-4751433005?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | US - Remote | Remote |  | Nov 6 |
 | **[Compass Pathways](https://job-boards.eu.greenhouse.io)** | **[Associate Manager, Clinical Care Operations](https://interviewchamp.ai/jobs/compasspathways-associate-manager-clinical-care-operations-5030117101?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | United States | On-site | $90k–$120k | Nov 6 |
@@ -181,8 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **4,795 are live r
 | **[Nourish](https://job-boards.greenhouse.io/usenourish)** | **[Provider Recruiting Associate](https://interviewchamp.ai/jobs/usenourish-provider-recruiting-associate-5475311008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York, NY or Remote | Remote |  | Nov 6 |
 | **[Kraken.com](https://jobs.ashbyhq.com/kraken.com)** | **[TA Operations Associate](https://interviewchamp.ai/jobs/kraken-com-ta-operations-associate-b8843e87-11c2-4105-af24-a7a0d52e3d9b?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | United States (Remote) | Remote | $54.6k–$109.2k | Nov 6 |
 | **[Defense Commissary Agency](https://www.usajobs.gov)** | **[Store Associate](https://interviewchamp.ai/jobs/defense-commissary-agency-usajobs-store-associate-892067900?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Schofield Barracks, Hawaii | On-site | $38,011–$49,417 | Nov 6 |
-| **[Tellos, Inc.](https://jobs.ashbyhq.com/tellos)** | **[Entry-Level Autism Therapist](https://interviewchamp.ai/jobs/tellos-entry-level-autism-therapist-614162a4-28c2-43d6-89db-ba0e3a2f8fd2?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Port Wentworth, GA | On-site |  | Nov 6 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-11-07 10:27 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-07 17:47 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
