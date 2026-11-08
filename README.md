@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **4,799 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **4,801 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 4,799, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 4,801, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Entry-level roles for new grads and early-career job seekers. **4,799 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[SMCP NORTH AMERICA (US, CANADA)](https://job-boards.greenhouse.io/smcp)** | **[Retail Sales Associate, SANDRO, Prince Street](https://interviewchamp.ai/jobs/smcp-retail-sales-associate-sandro-prince-street-8934514002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York, New York, United States | On-site |  | Nov 8 |
+| **[Teads](https://job-boards.eu.greenhouse.io)** | **[Associate Account Executive - SME](https://interviewchamp.ai/jobs/teads1-associate-account-executive-sme-5010808101?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York City | On-site | From $90k | Nov 8 |
 | **[Harvey](https://jobs.ashbyhq.com/harvey)** | **[Associate Legal Engineer](https://interviewchamp.ai/jobs/harvey-associate-legal-engineer-28b62bdc-3d36-47eb-980d-4f52455cc3f2?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Dallas (Remote) | Remote | $180k–$250k | Nov 8 |
 | **[Harvey](https://jobs.ashbyhq.com/harvey)** | **[Associate Legal Engineer](https://interviewchamp.ai/jobs/harvey-associate-legal-engineer-e2613ef0-b37c-42ab-aae2-3b47162a9401?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Chicago (Remote) | Remote | $180k–$250k | Nov 8 |
 | **[Harvey](https://jobs.ashbyhq.com/harvey)** | **[Associate Legal Engineer](https://interviewchamp.ai/jobs/harvey-associate-legal-engineer-eb6318f2-957c-4d2b-8c44-054a0ef049a3?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Boston (Remote) | Remote | $180k–$250k | Nov 8 |
@@ -180,9 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **4,799 are live r
 | **[Zoro](https://www.zoro.com)** | **[Customer Service Associate](https://interviewchamp.ai/jobs/zoro-customer-service-associate-4727915006?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Janesville, Wisconsin, United States | On-site |  | Nov 6 |
 | **[Sunnyside*](https://job-boards.greenhouse.io/sunnyside)** | **[Retail Sales Associate - Part Time](https://interviewchamp.ai/jobs/sunnyside-retail-sales-associate-part-time-8933206002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | 208 N Park Rd Unit 1 Wyomissing, PA 19610 | On-site |  | Nov 6 |
 | **[Industrious](https://jobs.ashbyhq.com/industrious)** | **[Member Experience Associate - Carmel](https://interviewchamp.ai/jobs/industrious-member-experience-associate-carmel-88f12b67-4272-453c-a285-0bafb836040d?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | CARMEL, Indiana, United States | On-site |  | Nov 6 |
-| **[Veterans Health Administration](https://www.usajobs.gov)** | **[Radiologist - Hybrid Academic Radiologist, Core Teaching Faculty, University Affiliation, Incentive](https://interviewchamp.ai/jobs/veterans-health-administration-usajobs-radiologist-hybrid-academic-radiologist-core-teaching-faculty-university-affiliation-incentive-892089800?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Richmond, Virginia | On-site | $385,000–$400,000 | Nov 6 |
-| **[Simpson Gumpertz &amp; Heger](https://www.sgh.com)** | **[Entry-level Engineer, Structural Engineering](https://interviewchamp.ai/jobs/simpsongumpertzheger-entry-level-engineer-structural-engineering-8933171002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York, New York, United States | On-site | $83.2k–$88.4k | Nov 6 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-11-08 13:39 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-08 19:46 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
