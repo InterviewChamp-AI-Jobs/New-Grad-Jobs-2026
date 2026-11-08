@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **4,801 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **4,802 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 4,801, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 4,802, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Entry-level roles for new grads and early-career job seekers. **4,801 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Lakefield Veterinary Group](https://job-boards.greenhouse.io/lakefieldveterinarygroup)** | **[Associate Veterinarian- Encanto Pet Clinic](https://interviewchamp.ai/jobs/lakefieldveterinarygroup-associate-veterinarian-encanto-pet-clinic-4485636009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Encanto Pet Clinic - Tucson, Arizona | On-site |  | Nov 8 |
+| **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Operations Associate](https://interviewchamp.ai/jobs/clera-operations-associate-1738e70e-291b-4d31-a68e-f65c4452b12a?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Salt Lake City (Remote) | Remote | $55k–$65k | Nov 8 |
 | **[Reformation](https://job-boards.greenhouse.io/reformation)** | **[Sales Associate, Part-Time - Bloomingdales Soho](https://interviewchamp.ai/jobs/reformation-sales-associate-part-time-bloomingdales-soho-8363066?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York, NY | On-site |  | Nov 7 |
 | **[Reformation](https://job-boards.greenhouse.io/reformation)** | **[Sales Associate, Part-Time - Santa Monica](https://interviewchamp.ai/jobs/reformation-sales-associate-part-time-santa-monica-8357790?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Santa Monica, CA | On-site |  | Nov 7 |
 | **[Clera](https://jobs.ashbyhq.com/Clera)** | **[GTM Associate, RL &amp; Physical AI](https://interviewchamp.ai/jobs/clera-gtm-associate-rl-physical-ai-4b22c4a0-a5f5-4688-ad32-06bcea97772b?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Francisco | On-site |  | Nov 7 |
@@ -180,9 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **4,801 are live r
 | **[Veterans Health Administration](https://www.usajobs.gov)** | **[Radiologist - Hybrid Academic Radiologist, Core Teaching Faculty, University Affiliation, Incentive](https://interviewchamp.ai/jobs/veterans-health-administration-usajobs-radiologist-hybrid-academic-radiologist-core-teaching-faculty-university-affiliation-incentive-892089800?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Richmond, Virginia | On-site | $385,000–$400,000 | Nov 6 |
 | **[Simpson Gumpertz &amp; Heger](https://www.sgh.com)** | **[Entry-level Engineer, Structural Engineering](https://interviewchamp.ai/jobs/simpsongumpertzheger-entry-level-engineer-structural-engineering-8933171002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York, New York, United States | On-site | $83.2k–$88.4k | Nov 6 |
 | **[Avec Community Action](https://recruiting.paylocity.com)** | **[Teacher, Associate](https://interviewchamp.ai/jobs/avec-community-action-teacher-associate-4202021?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Ellsworth, ME | On-site |  | Nov 6 |
-| **[Avec Community Action](https://recruiting.paylocity.com)** | **[Teacher, Associate](https://interviewchamp.ai/jobs/avec-community-action-teacher-associate-3288155?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Easton, ME | On-site |  | Nov 6 |
-| **[Avec Community Action](https://recruiting.paylocity.com)** | **[Teacher, Associate](https://interviewchamp.ai/jobs/avec-community-action-teacher-associate-4463866?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Deer Isle, ME | On-site |  | Nov 6 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-11-07 21:59 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-08 06:18 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
