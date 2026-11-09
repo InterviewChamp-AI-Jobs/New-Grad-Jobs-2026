@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **4,801 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **4,792 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 4,801, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 4,792, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Entry-level roles for new grads and early-career job seekers. **4,801 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Encord](https://encord.com)** | **[Growth Associate](https://interviewchamp.ai/jobs/encord-growth-associate-f8546880-80e4-4ddd-a9b4-042c2eaad568?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Francisco | On-site |  | Nov 8 |
+| **[Encord](https://encord.com)** | **[Growth Associate](https://interviewchamp.ai/jobs/encord-growth-associate-554d188d-47fa-4701-8041-21cc1975a7a4?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York | On-site |  | Nov 8 |
 | **[SMCP NORTH AMERICA (US, CANADA)](https://job-boards.greenhouse.io/smcp)** | **[Retail Sales Associate, SANDRO, Prince Street](https://interviewchamp.ai/jobs/smcp-retail-sales-associate-sandro-prince-street-8934514002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York, New York, United States | On-site |  | Nov 8 |
 | **[Teads](https://job-boards.eu.greenhouse.io)** | **[Associate Account Executive - SME](https://interviewchamp.ai/jobs/teads1-associate-account-executive-sme-5010808101?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York City | On-site | From $90k | Nov 8 |
 | **[Harvey](https://jobs.ashbyhq.com/harvey)** | **[Associate Legal Engineer](https://interviewchamp.ai/jobs/harvey-associate-legal-engineer-28b62bdc-3d36-47eb-980d-4f52455cc3f2?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Dallas (Remote) | Remote | $180k–$250k | Nov 8 |
@@ -180,9 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **4,801 are live r
 | **[ASM](https://www.asm.com)** | **[Software Engineer - Early Career](https://interviewchamp.ai/jobs/asm-software-engineer-early-career-5019821101?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | US &gt; Arizona &gt; Phoenix | On-site |  | Nov 6 |
 | **[Resource Environmental Solutions LLC](https://job-boards.greenhouse.io/res)** | **[Designer I](https://interviewchamp.ai/jobs/res-designer-i-5458665008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Pittsburgh, Pennsylvania, United States | On-site |  | Nov 6 |
 | **[Zoro](https://www.zoro.com)** | **[Customer Service Associate](https://interviewchamp.ai/jobs/zoro-customer-service-associate-4727915006?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Janesville, Wisconsin, United States | On-site |  | Nov 6 |
-| **[Sunnyside*](https://job-boards.greenhouse.io/sunnyside)** | **[Retail Sales Associate - Part Time](https://interviewchamp.ai/jobs/sunnyside-retail-sales-associate-part-time-8933206002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | 208 N Park Rd Unit 1 Wyomissing, PA 19610 | On-site |  | Nov 6 |
-| **[Industrious](https://jobs.ashbyhq.com/industrious)** | **[Member Experience Associate - Carmel](https://interviewchamp.ai/jobs/industrious-member-experience-associate-carmel-88f12b67-4272-453c-a285-0bafb836040d?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | CARMEL, Indiana, United States | On-site |  | Nov 6 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-11-08 19:46 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-09 00:59 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
