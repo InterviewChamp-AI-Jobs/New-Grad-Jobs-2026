@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **4,917 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **4,915 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 4,917, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 4,915, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Entry-level roles for new grads and early-career job seekers. **4,917 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Shield AI](https://jobs.lever.co/shieldai)** | **[Engineer I, Software - New Grad - 6531](https://interviewchamp.ai/jobs/shieldai-engineer-i-software-new-grad-6531-c33ab680-2625-4da1-a96c-41bea441b98b?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Washington, D.C. | On-site | $74.6k–$111.8k | Nov 13 |
 | **[Rbanw](https://jobs.lever.co/rbanw)** | **[Customer Care Associate](https://interviewchamp.ai/jobs/rbanw-customer-care-associate-e2411082-d9cc-4db8-86a1-a11a33f79641?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Orange, CA | On-site |  | Nov 13 |
 | **[Modern Animal](https://app.careerpuck.com)** | **[New Grad Associate Veterinarian- Austin](https://interviewchamp.ai/jobs/modernanimal-new-grad-associate-veterinarian-austin-6260920004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Austin, TX | On-site | $124k–$143k | Nov 13 |
 | **[Merge Labs](https://jobs.ashbyhq.com/Merge%20Labs)** | **[Facilities Operations Associate](https://interviewchamp.ai/jobs/merge-labs-facilities-operations-associate-1c68ae1f-6bf9-4721-8000-52d4106c3241?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Francisco Bay Area | On-site | $95k–$120k | Nov 13 |
@@ -181,8 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **4,917 are live r
 | **[Parkade](https://jobs.ashbyhq.com/Parkade)** | **[Customer Support Associate](https://interviewchamp.ai/jobs/parkade-customer-support-associate-d49351d6-466d-436d-a85c-9de6863916f8?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Remote | Remote |  | Nov 12 |
 | **[Bloom Healthcare](https://bloomhealthcare.applytojob.com)** | **[IT Support Specialist Tier 1](https://interviewchamp.ai/jobs/bloomhealthcare-it-support-specialist-tier-1-jbn7kmwouk?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Lakewood, CO | On-site |  | Nov 12 |
 | **[Connections Wellness Group](https://connectionswellness.bamboohr.com)** | **[Child &amp; Adolescent Patient Care Associate](https://interviewchamp.ai/jobs/connectionswellness-child-adolescent-patient-care-associate-71?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Willow Park, Texas, United States | On-site |  | Nov 12 |
-| **[Farm Service Agency](https://www.usajobs.gov)** | **[County Program Analyst/Trainee](https://interviewchamp.ai/jobs/farm-service-agency-usajobs-county-program-analyst-trainee-892399600?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Albion, Nebraska | On-site | $36,464–$80,243 | Nov 12 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-11-13 01:56 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-13 11:14 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
