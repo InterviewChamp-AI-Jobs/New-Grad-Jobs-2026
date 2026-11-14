@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **4,950 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **4,948 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 4,950, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 4,948, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -172,8 +172,8 @@ Entry-level roles for new grads and early-career job seekers. **4,950 are live r
 | **[U.S. Marine Corps](https://www.usajobs.gov)** | **[RESERVATIONIST NF-1](https://interviewchamp.ai/jobs/u-s-marine-corps-usajobs-reservationist-nf-1-892816800?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Marine Corps Air Station Miramar, California | On-site |  | Nov 13 |
 | **[Tecovas](https://tecovas.com)** | **[Seasonal Sales Associate](https://interviewchamp.ai/jobs/tecovas-seasonal-sales-associate-8940209002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Birmingham, AL | On-site |  | Nov 13 |
 | **[Shield](https://jobs.ashbyhq.com/shield)** | **[Engineer I, Software - New Grad - 6531](https://interviewchamp.ai/jobs/shield-engineer-i-software-new-grad-6531-7e0ae8a3-4872-431c-a04a-2f2b8988b527?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Arlington, VA, US | On-site |  | Nov 13 |
-| **[Shield](https://jobs.ashbyhq.com/shield)** | **[Engineer I, PCB - New Grad (R6065)](https://interviewchamp.ai/jobs/shield-engineer-i-pcb-new-grad-r6065-6ef12308-4d4e-4dc9-859b-0e1f0f2ba4a7?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Seattle, Washington | On-site |  | Nov 13 |
-| **[Shield](https://jobs.ashbyhq.com/shield)** | **[RF Engineer I - New Grad (R6108)](https://interviewchamp.ai/jobs/shield-rf-engineer-i-new-grad-r6108-076e1129-ec52-4ee7-9219-dabb0541dd17?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Seattle, Washington | On-site |  | Nov 13 |
+| **[Shield](https://jobs.ashbyhq.com/shield)** | **[Engineer I, PCB - New Grad (R6065)](https://interviewchamp.ai/jobs/shield-engineer-i-pcb-new-grad-r6065-6ef12308-4d4e-4dc9-859b-0e1f0f2ba4a7?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Seattle, WA, US | On-site |  | Nov 13 |
+| **[Shield](https://jobs.ashbyhq.com/shield)** | **[RF Engineer I - New Grad (R6108)](https://interviewchamp.ai/jobs/shield-rf-engineer-i-new-grad-r6108-076e1129-ec52-4ee7-9219-dabb0541dd17?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Seattle, WA, US | On-site |  | Nov 13 |
 | **[Rbanw](https://jobs.lever.co/rbanw)** | **[Customer Care Associate](https://interviewchamp.ai/jobs/rbanw-customer-care-associate-e2411082-d9cc-4db8-86a1-a11a33f79641?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Orange, CA | On-site |  | Nov 13 |
 | **[Modern Animal](https://app.careerpuck.com)** | **[New Grad Associate Veterinarian- Austin](https://interviewchamp.ai/jobs/modernanimal-new-grad-associate-veterinarian-austin-6260920004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Austin, TX | On-site | $124k–$143k | Nov 13 |
 | **[Merge Labs](https://jobs.ashbyhq.com/Merge%20Labs)** | **[Facilities Operations Associate](https://interviewchamp.ai/jobs/merge-labs-facilities-operations-associate-1c68ae1f-6bf9-4721-8000-52d4106c3241?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Francisco Bay Area | On-site | $95k–$120k | Nov 13 |
@@ -185,4 +185,4 @@ Entry-level roles for new grads and early-career job seekers. **4,950 are live r
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-11-14 10:40 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-14 18:17 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
