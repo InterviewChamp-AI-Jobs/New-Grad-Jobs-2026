@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **4,948 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **4,950 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 4,948, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 4,950, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,10 @@ Entry-level roles for new grads and early-career job seekers. **4,948 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[LAKE Weekend Wear, LLC](https://job-boards.greenhouse.io/lakeweekendwearllc)** | **[Seasonal Sales Associate](https://interviewchamp.ai/jobs/lakeweekendwearllc-seasonal-sales-associate-4486263009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | 6401 Carnegie Blvd #16-a, Charlotte, NC 28211 | On-site |  | Nov 14 |
+| **[SMCP NORTH AMERICA (US, CANADA)](https://job-boards.greenhouse.io/smcp)** | **[Retail Sales Associate, Sandro, Century City](https://interviewchamp.ai/jobs/smcp-retail-sales-associate-sandro-century-city-8943493002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Los Angeles, CA, United States | On-site |  | Nov 14 |
+| **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Operations Associate](https://interviewchamp.ai/jobs/clera-operations-associate-d51bbf54-1f30-4d28-a5e7-98ff6c41faf1?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Salt Lake City (Remote) | Remote | $55k–$65k | Nov 14 |
+| **[Reformation](https://job-boards.greenhouse.io/reformation)** | **[Sales Associate, Part-Time -Westchester](https://interviewchamp.ai/jobs/reformation-sales-associate-part-time-westchester-8383051?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Westchester (NY) | On-site |  | Nov 14 |
 | **[1-800-GOT-JUNK?](https://job-boards.greenhouse.io/1800gotjunk)** | **[Junk and Route Sales Associate](https://interviewchamp.ai/jobs/1800gotjunk-junk-and-route-sales-associate-4507852009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Dallas, TX | On-site |  | Nov 14 |
 | **[Interstates](https://www.interstates.com)** | **[Assistant Project Manager (May 2027 Grad) - Fort Collins](https://interviewchamp.ai/jobs/interstates-assistant-project-manager-may-2027-grad-fort-collins-4507844009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Denver, CO | On-site | $75k–$85k | Nov 14 |
 | **[Foley Entertainment Group](https://recruiting.paylocity.com)** | **[Associate - Business Strategy &amp; Analytics](https://interviewchamp.ai/jobs/foley-entertainment-group-associate-business-strategy-analytics-4666784?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Las Vegas, NV | On-site |  | Nov 14 |
@@ -178,11 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **4,948 are live r
 | **[Modern Animal](https://app.careerpuck.com)** | **[New Grad Associate Veterinarian- Austin](https://interviewchamp.ai/jobs/modernanimal-new-grad-associate-veterinarian-austin-6260920004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Austin, TX | On-site | $124k–$143k | Nov 13 |
 | **[Merge Labs](https://jobs.ashbyhq.com/Merge%20Labs)** | **[Facilities Operations Associate](https://interviewchamp.ai/jobs/merge-labs-facilities-operations-associate-1c68ae1f-6bf9-4721-8000-52d4106c3241?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Francisco Bay Area | On-site | $95k–$120k | Nov 13 |
 | **[City of Bentonville](https://bentonvillear.bamboohr.com)** | **[Deputy Court Clerk I](https://interviewchamp.ai/jobs/bentonvillear-deputy-court-clerk-i-1321?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Bentonville, Arkansas, United States | On-site |  | Nov 13 |
-| **[FSS Technologies](https://fsstechnologies.bamboohr.com)** | **[Apprentice Inspector (Fire Alarm &amp; Sprinkler)](https://interviewchamp.ai/jobs/fsstechnologies-apprentice-inspector-fire-alarm-sprinkler-222?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Canton, Michigan, United States (Remote) | Remote |  | Nov 13 |
-| **[FSS Technologies](https://fsstechnologies.bamboohr.com)** | **[Apprentice Inspector (Fire Alarm &amp; Sprinkler)](https://interviewchamp.ai/jobs/fsstechnologies-apprentice-inspector-fire-alarm-sprinkler-223?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Detroit, Michigan, United States (Remote) | Remote |  | Nov 13 |
-| **[FSS Technologies](https://fsstechnologies.bamboohr.com)** | **[Apprentice Inspector (Fire Alarm &amp; Sprinkler)](https://interviewchamp.ai/jobs/fsstechnologies-apprentice-inspector-fire-alarm-sprinkler-224?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Waukegan, Illinois, United States (Remote) | Remote |  | Nov 13 |
-| **[Gold Coast Dental](https://goldcoastdental.bamboohr.com)** | **[Associate Dentist](https://interviewchamp.ai/jobs/goldcoastdental-associate-dentist-829?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Artesia, California, United States | On-site | From $300k | Nov 13 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-11-14 18:17 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-14 22:34 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
