@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **4,952 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **4,954 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 4,952, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 4,954, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,9 +32,12 @@ Entry-level roles for new grads and early-career job seekers. **4,952 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Physical AI Data Collection Associate](https://interviewchamp.ai/jobs/clera-physical-ai-data-collection-associate-19f1c181-17c0-45ce-981b-cf62240b95d9?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | remote | Remote | $41.6k–$83.2k | Nov 15 |
+| **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Expert Talent Pool, Annotation Associate](https://interviewchamp.ai/jobs/clera-expert-talent-pool-annotation-associate-246d9529-9da9-494b-ae13-e19191987c30?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | remote | Remote | $31.2k–$72.8k | Nov 15 |
+| **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Safety Testing Associate](https://interviewchamp.ai/jobs/clera-safety-testing-associate-36c18af3-d3fe-4748-b5b0-f35b7bb38d0a?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | remote | Remote | $62.4k–$124.8k | Nov 15 |
+| **[Unite Us](https://job-boards.greenhouse.io/uniteus)** | **[Solutions Delivery Analyst I](https://interviewchamp.ai/jobs/uniteus-solutions-delivery-analyst-i-8886324002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | United States | On-site | $90k–$970k | Nov 15 |
 | **[LAKE Weekend Wear, LLC](https://job-boards.greenhouse.io/lakeweekendwearllc)** | **[Seasonal Sales Associate](https://interviewchamp.ai/jobs/lakeweekendwearllc-seasonal-sales-associate-4486263009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | 6401 Carnegie Blvd #16-a, Charlotte, NC 28211 | On-site |  | Nov 14 |
 | **[SMCP NORTH AMERICA (US, CANADA)](https://job-boards.greenhouse.io/smcp)** | **[Retail Sales Associate, Sandro, Century City](https://interviewchamp.ai/jobs/smcp-retail-sales-associate-sandro-century-city-8943493002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Los Angeles, CA, United States | On-site |  | Nov 14 |
-| **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Operations Associate](https://interviewchamp.ai/jobs/clera-operations-associate-d51bbf54-1f30-4d28-a5e7-98ff6c41faf1?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Salt Lake City (Remote) | Remote | $55k–$65k | Nov 14 |
 | **[Reformation](https://job-boards.greenhouse.io/reformation)** | **[Sales Associate, Part-Time -Westchester](https://interviewchamp.ai/jobs/reformation-sales-associate-part-time-westchester-8383051?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Westchester (NY) | On-site |  | Nov 14 |
 | **[1-800-GOT-JUNK?](https://job-boards.greenhouse.io/1800gotjunk)** | **[Junk and Route Sales Associate](https://interviewchamp.ai/jobs/1800gotjunk-junk-and-route-sales-associate-4507852009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Dallas, TX | On-site |  | Nov 14 |
 | **[Interstates](https://www.interstates.com)** | **[Assistant Project Manager (May 2027 Grad) - Fort Collins](https://interviewchamp.ai/jobs/interstates-assistant-project-manager-may-2027-grad-fort-collins-4507844009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Denver, CO | On-site | $75k–$85k | Nov 14 |
@@ -134,7 +137,6 @@ Entry-level roles for new grads and early-career job seekers. **4,952 are live r
 | **[Pattern](https://jobs.lever.co/pattern)** | **[Area Manager - Graduate Program](https://interviewchamp.ai/jobs/pattern-area-manager-graduate-program-3c01e7d1-4c61-4439-a555-02e39ba23520?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | North Las Vegas, NV, US | On-site |  | Nov 13 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Collections Specialist I](https://interviewchamp.ai/jobs/equipmentsharecom-collections-specialist-i-8381491?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Columbia, MO (Headquarters) | On-site |  | Nov 13 |
 | **[Beacon Biosignals](https://job-boards.greenhouse.io/beaconbiosignals)** | **[Clinical Study Operations Associate](https://interviewchamp.ai/jobs/beaconbiosignals-clinical-study-operations-associate-4506754009?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Remote | Remote | $65k–$85k | Nov 13 |
-| **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Founder Associate](https://interviewchamp.ai/jobs/clera-founder-associate-e8a31950-4942-4fb7-aa49-f8e5a133812e?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Francisco | On-site | $90k–$120k | Nov 13 |
 | **[K Group](https://jobs.lever.co/kgroupcompanies)** | **[Field Service Technician – Entry Level](https://interviewchamp.ai/jobs/kgroupcompanies-field-service-technician-entry-level-dd4e08ae-6d4f-4815-9bc2-95329bd90996?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Grand Rapids, Michigan | On-site |  | Nov 13 |
 | **[Pattern](https://jobs.lever.co/pattern)** | **[Area Manager - Graduate Program](https://interviewchamp.ai/jobs/pattern-area-manager-graduate-program-f8d35f76-9f13-4196-8d39-c69ed8b67401?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Hebron, KY, US | On-site |  | Nov 13 |
 | **[Vast](https://vast.com)** | **[Compensation Analyst I](https://interviewchamp.ai/jobs/vast-compensation-analyst-i-4729327006?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Long Beach, California, United States | On-site | $82k–$116.4k | Nov 13 |
@@ -180,9 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **4,952 are live r
 | **[Shield](https://jobs.ashbyhq.com/shield)** | **[RF Engineer I - New Grad (R6108)](https://interviewchamp.ai/jobs/shield-rf-engineer-i-new-grad-r6108-076e1129-ec52-4ee7-9219-dabb0541dd17?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Seattle, WA, US | On-site |  | Nov 13 |
 | **[Rbanw](https://jobs.lever.co/rbanw)** | **[Customer Care Associate](https://interviewchamp.ai/jobs/rbanw-customer-care-associate-e2411082-d9cc-4db8-86a1-a11a33f79641?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Orange, CA | On-site |  | Nov 13 |
 | **[Modern Animal](https://app.careerpuck.com)** | **[New Grad Associate Veterinarian- Austin](https://interviewchamp.ai/jobs/modernanimal-new-grad-associate-veterinarian-austin-6260920004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Austin, TX | On-site | $124k–$143k | Nov 13 |
-| **[Merge Labs](https://jobs.ashbyhq.com/Merge%20Labs)** | **[Facilities Operations Associate](https://interviewchamp.ai/jobs/merge-labs-facilities-operations-associate-1c68ae1f-6bf9-4721-8000-52d4106c3241?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Francisco Bay Area | On-site | $95k–$120k | Nov 13 |
-| **[City of Bentonville](https://bentonvillear.bamboohr.com)** | **[Deputy Court Clerk I](https://interviewchamp.ai/jobs/bentonvillear-deputy-court-clerk-i-1321?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Bentonville, Arkansas, United States | On-site |  | Nov 13 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-11-15 06:48 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-15 16:27 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
