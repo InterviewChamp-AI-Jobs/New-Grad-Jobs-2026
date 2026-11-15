@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **4,954 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **4,959 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 4,954, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 4,959, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,9 @@ Entry-level roles for new grads and early-career job seekers. **4,954 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Farmersd40](https://jobs.ashbyhq.com/farmersd40)** | **[Insurance Sales Trainee - Myers Agency](https://interviewchamp.ai/jobs/farmersd40-insurance-sales-trainee-myers-agency-31c4214b-c5cd-4bf9-a1f9-31906c810dc2?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Portage, Michigan, United States | On-site | $55k–$85k | Nov 15 |
+| **[Farmersd40](https://jobs.ashbyhq.com/farmersd40)** | **[Manager Trainee - Morgan Raleigh](https://interviewchamp.ai/jobs/farmersd40-manager-trainee-morgan-raleigh-8b190d4f-9117-474a-85f9-b1083c13e344?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Battle Creek, Michigan, United States | On-site | $55k–$75k | Nov 15 |
+| **[Farmersd40](https://jobs.ashbyhq.com/farmersd40)** | **[Insurance Agent Trainee - Nikolai Jump Agency](https://interviewchamp.ai/jobs/farmersd40-insurance-agent-trainee-nikolai-jump-agency-bbb2353f-4624-4880-adc7-239c71b3ee19?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Okemos, Michigan, United States | On-site | $55k–$85k | Nov 15 |
 | **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Physical AI Data Collection Associate](https://interviewchamp.ai/jobs/clera-physical-ai-data-collection-associate-19f1c181-17c0-45ce-981b-cf62240b95d9?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | remote | Remote | $41.6k–$83.2k | Nov 15 |
 | **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Expert Talent Pool, Annotation Associate](https://interviewchamp.ai/jobs/clera-expert-talent-pool-annotation-associate-246d9529-9da9-494b-ae13-e19191987c30?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | remote | Remote | $31.2k–$72.8k | Nov 15 |
 | **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Safety Testing Associate](https://interviewchamp.ai/jobs/clera-safety-testing-associate-36c18af3-d3fe-4748-b5b0-f35b7bb38d0a?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | remote | Remote | $62.4k–$124.8k | Nov 15 |
@@ -179,10 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **4,954 are live r
 | **[Tecovas](https://tecovas.com)** | **[Seasonal Sales Associate](https://interviewchamp.ai/jobs/tecovas-seasonal-sales-associate-8940209002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Birmingham, AL | On-site |  | Nov 13 |
 | **[Shield](https://jobs.ashbyhq.com/shield)** | **[Engineer I, Software - New Grad - 6531](https://interviewchamp.ai/jobs/shield-engineer-i-software-new-grad-6531-7e0ae8a3-4872-431c-a04a-2f2b8988b527?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Arlington, VA, US | On-site |  | Nov 13 |
 | **[Shield](https://jobs.ashbyhq.com/shield)** | **[Engineer I, PCB - New Grad (R6065)](https://interviewchamp.ai/jobs/shield-engineer-i-pcb-new-grad-r6065-6ef12308-4d4e-4dc9-859b-0e1f0f2ba4a7?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Seattle, WA, US | On-site |  | Nov 13 |
-| **[Shield](https://jobs.ashbyhq.com/shield)** | **[RF Engineer I - New Grad (R6108)](https://interviewchamp.ai/jobs/shield-rf-engineer-i-new-grad-r6108-076e1129-ec52-4ee7-9219-dabb0541dd17?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Seattle, WA, US | On-site |  | Nov 13 |
-| **[Rbanw](https://jobs.lever.co/rbanw)** | **[Customer Care Associate](https://interviewchamp.ai/jobs/rbanw-customer-care-associate-e2411082-d9cc-4db8-86a1-a11a33f79641?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Orange, CA | On-site |  | Nov 13 |
-| **[Modern Animal](https://app.careerpuck.com)** | **[New Grad Associate Veterinarian- Austin](https://interviewchamp.ai/jobs/modernanimal-new-grad-associate-veterinarian-austin-6260920004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Austin, TX | On-site | $124k–$143k | Nov 13 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-11-15 16:27 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-15 22:58 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
