@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **5,116 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **5,119 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 5,116, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 5,119, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,10 @@ Entry-level roles for new grads and early-career job seekers. **5,116 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Shield](https://jobs.ashbyhq.com/shield)** | **[Associate Sourcing Specialist (6602)](https://interviewchamp.ai/jobs/shield-associate-sourcing-specialist-6602-26bad664-d6c5-4d15-91c5-903af0209dd4?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Dallas, TX, US | On-site | $69.6k–$125.3k | Nov 21 |
+| **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Operations Associate](https://interviewchamp.ai/jobs/clera-operations-associate-c0aacddf-56ba-4400-afcf-ff0021dc98ed?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Salt Lake City (Remote) | Remote | $55k–$65k | Nov 21 |
+| **[Hippocratic AI](https://jobs.ashbyhq.com/Hippocratic%20AI)** | **[Associate Deployment Strategist](https://interviewchamp.ai/jobs/hippocratic-ai-associate-deployment-strategist-b8e5655f-5b3b-45bf-ac99-fc8f0ec85a84?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Menlo Park, CA | On-site |  | Nov 21 |
+| **[Faherty Brand](https://fahertybrand.com)** | **[Seasonal Sales Associate, Part-Time - Walnut Street](https://interviewchamp.ai/jobs/fahertybrand-seasonal-sales-associate-part-time-walnut-street-5300939007?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Philadelphia, Pennsylvania, United States | On-site |  | Nov 21 |
 | **[Capable](https://jobs.ashbyhq.com/Capable)** | **[Research Associate](https://interviewchamp.ai/jobs/capable-research-associate-bb0ff322-25b7-4f79-86ae-b2f4861b6281?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Francisco | On-site |  | Nov 21 |
 | **[Rhoda AI](https://jobs.ashbyhq.com/rhoda-ai)** | **[Associate Electrical Hardware Engineer](https://interviewchamp.ai/jobs/rhoda-ai-associate-electrical-hardware-engineer-70677a34-7232-45c1-bdcc-e12801ccfef3?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Mountain View | On-site | $120k–$150k | Nov 21 |
 | **[Element Science](https://elementscience.com)** | **[Associate Territory Manager](https://interviewchamp.ai/jobs/elementscience-associate-territory-manager-5298286007?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Dallas, Texas | On-site |  | Nov 21 |
@@ -178,11 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **5,116 are live r
 | **[Farm Service Agency](https://www.usajobs.gov)** | **[County Program Analyst Trainee](https://interviewchamp.ai/jobs/farm-service-agency-usajobs-county-program-analyst-trainee-893475200?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Mena, Arkansas | On-site | $34,464–$80,243 | Nov 20 |
 | **[Goodwill Industries of Northern WI and Upper MI](https://goodwill.applytojob.com)** | **[Workforce Development Specialist 1](https://interviewchamp.ai/jobs/goodwill-workforce-development-specialist-1-iouqmjeqcp?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Houghton, MI | On-site |  | Nov 20 |
 | **[LMR Technical Group](https://lmrtechnicalgroup.bamboohr.com)** | **[Production Controller I](https://interviewchamp.ai/jobs/lmrtechnicalgroup-production-controller-i-1754?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Norfolk, Virginia, United States | On-site |  | Nov 20 |
-| **[Weezie](https://weezie.applytojob.com)** | **[Associate Merchant](https://interviewchamp.ai/jobs/weezie-associate-merchant-mge4bostr4?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Atlanta, GA | On-site |  | Nov 20 |
-| **[West Cancer Center](https://job-boards.greenhouse.io/westcancercenter)** | **[Regulatory Affairs Associate - Full Time - Germantown, TN](https://interviewchamp.ai/jobs/westcancercenter-regulatory-affairs-associate-full-time-germantown-tn-8955763002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Germantown, TN | On-site |  | Nov 19 |
-| **[Texas Original](https://jobs.lever.co/texas-original)** | **[Dispensary Associate](https://interviewchamp.ai/jobs/texas-original-dispensary-associate-60d803c9-b7d9-49ea-b52f-c262c929ea71?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Plano, Texas | On-site |  | Nov 19 |
-| **[Crestwood Behavioral Health](https://job-boards.greenhouse.io/crestwoodcareers)** | **[Recovery Coach \| Entry-Level Mental Health Aide](https://interviewchamp.ai/jobs/crestwoodcareers-recovery-coach-entry-level-mental-health-aide-8209781003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Fallbrook, California, United States | On-site |  | Nov 19 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-11-21 11:25 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-21 19:29 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
