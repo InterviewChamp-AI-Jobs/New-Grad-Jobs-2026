@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **5,120 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **5,115 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 5,120, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 5,115, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Entry-level roles for new grads and early-career job seekers. **5,120 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Reformation](https://job-boards.greenhouse.io/reformation)** | **[Sales Associate, Part-Time - Westchester](https://interviewchamp.ai/jobs/reformation-sales-associate-part-time-westchester-8408485?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Westchester (NY) | On-site |  | Nov 22 |
+| **[Numeric](https://jobs.ashbyhq.com/numeric)** | **[Field Marketing Associate](https://interviewchamp.ai/jobs/numeric-field-marketing-associate-d58c1011-f7c0-4a03-b8ef-b382f63aec18?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Francisco | On-site | $75k–$95k | Nov 22 |
 | **[Penumbra](https://jobs.lever.co/penumbrainc)** | **[Supplier Quality Engineer I](https://interviewchamp.ai/jobs/penumbrainc-supplier-quality-engineer-i-7560d0e1-166e-4bdd-ad8e-f0b871b3f83d?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Alameda, CA | On-site | From $76k | Nov 22 |
 | **[Ntt Data Aivista](https://jobs.ashbyhq.com/ntt-data-aivista)** | **[Member of Technical Staff - Machine Learning Research Engineer I](https://interviewchamp.ai/jobs/ntt-data-aivista-member-of-technical-staff-machine-learning-research-engineer-i-aff5d357-8a6b-4498-92d0-2c6fd7d2c3cb?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Francisco Bay Area (Remote) | Remote | $300k–$400k | Nov 22 |
 | **[Faherty Brand](https://fahertybrand.com)** | **[Sales Associate, Part-Time - RiNo](https://interviewchamp.ai/jobs/fahertybrand-sales-associate-part-time-rino-5292830007?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Denver, Colorado, United States | On-site |  | Nov 21 |
@@ -180,9 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **5,120 are live r
 | **[NeuroPace](https://www.neuropace.com)** | **[Associate Therapy Consultant - Birmingham](https://interviewchamp.ai/jobs/neuropace-associate-therapy-consultant-birmingham-6265995004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Birmingham, AL | On-site | From $156k | Nov 20 |
 | **[Datavant](https://www.datavant.com)** | **[Health Information Specialist I](https://interviewchamp.ai/jobs/datavant2-health-information-specialist-i-5480501008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Little Rock, AR | On-site |  | Nov 20 |
 | **[West Monroe](https://westmonroe.com)** | **[Market Research &amp; Insights Associate](https://interviewchamp.ai/jobs/westmonroe4-market-research-insights-associate-5801455004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Boston | On-site | $64.4k–$75.8k | Nov 20 |
-| **[United Talent Agency](https://jobs.ashbyhq.com/united-talent-agency)** | **[Associate, Growth](https://interviewchamp.ai/jobs/united-talent-agency-associate-growth-25e5ca95-d9ff-4e2a-960e-eb4dcf69030b?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York, NY | On-site | $70k–$75k | Nov 20 |
-| **[Real Chemistry](https://job-boards.greenhouse.io/realchemistry)** | **[21GRAMS- Associate Delivery Manager](https://interviewchamp.ai/jobs/realchemistry-21grams-associate-delivery-manager-5468235008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Boston - Massachusetts; Carmel - Indiana; Chicago - Illinois; Lambertville - New Jersey; Remote - USA | Remote | $10k–$110k | Nov 20 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-11-22 11:40 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-22 19:50 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
