@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **5,115 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **5,106 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 5,115, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 5,106, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Entry-level roles for new grads and early-career job seekers. **5,115 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Heavy Equipment Technician (Mechanic) Apprentice](https://interviewchamp.ai/jobs/equipmentsharecom-heavy-equipment-technician-mechanic-apprentice-8397114?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | St. Louis, MO | On-site |  | Nov 22 |
+| **[Antioch](https://jobs.ashbyhq.com/antioch)** | **[Operations Associate, Office &amp; Executive Support](https://interviewchamp.ai/jobs/antioch-operations-associate-office-executive-support-1c5e60d7-1c69-4357-93df-9443350d2329?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York City (in-person) | On-site |  | Nov 22 |
 | **[Reformation](https://job-boards.greenhouse.io/reformation)** | **[Sales Associate, Part-Time - Westchester](https://interviewchamp.ai/jobs/reformation-sales-associate-part-time-westchester-8408485?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Westchester (NY) | On-site |  | Nov 22 |
 | **[Numeric](https://jobs.ashbyhq.com/numeric)** | **[Field Marketing Associate](https://interviewchamp.ai/jobs/numeric-field-marketing-associate-d58c1011-f7c0-4a03-b8ef-b382f63aec18?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Francisco | On-site | $75k–$95k | Nov 22 |
 | **[Penumbra](https://jobs.lever.co/penumbrainc)** | **[Supplier Quality Engineer I](https://interviewchamp.ai/jobs/penumbrainc-supplier-quality-engineer-i-7560d0e1-166e-4bdd-ad8e-f0b871b3f83d?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Alameda, CA | On-site | From $76k | Nov 22 |
@@ -157,7 +159,6 @@ Entry-level roles for new grads and early-career job seekers. **5,115 are live r
 | **[Lyell Immunopharma](https://job-boards.greenhouse.io/lyellimmunopharma)** | **[Manufacturing Associate II](https://interviewchamp.ai/jobs/lyellimmunopharma-manufacturing-associate-ii-8207771003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Bothell, Washington, United States | On-site |  | Nov 20 |
 | **[F. Schumacher &amp; Co.](https://job-boards.greenhouse.io/fschumacherco)** | **[Talent Acquisition Associate](https://interviewchamp.ai/jobs/fschumacherco-talent-acquisition-associate-5490652008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York, New York | On-site | $65k–$75k | Nov 20 |
 | **[Plasmidsaurus](https://jobs.ashbyhq.com/plasmidsaurus)** | **[R&amp;D Research Associate](https://interviewchamp.ai/jobs/plasmidsaurus-r-d-research-associate-e09f7f31-8ddf-416b-9a3c-926259fc300e?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Francisco | On-site | $80k–$95k | Nov 20 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Office Administrator I](https://interviewchamp.ai/jobs/equipmentsharecom-office-administrator-i-8404096?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Ashland, MO (Materials) | On-site |  | Nov 20 |
 | **[Procare Solutions](https://job-boards.greenhouse.io/procaresolutions)** | **[Associate Customer Success Manager](https://interviewchamp.ai/jobs/procaresolutions-associate-customer-success-manager-5490623008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Denver, CO | On-site | $75k–$85k | Nov 20 |
 | **[Veterans Health Administration](https://www.usajobs.gov)** | **[Registered Nurse - Assistant Nurse Manager - Urgent Care (Jamaica Plain Campus)](https://interviewchamp.ai/jobs/veterans-health-administration-usajobs-registered-nurse-assistant-nurse-manager-urgent-care-jamaica-plain-campus-893843900?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Boston, Massachusetts | On-site | $117,356–$206,265 | Nov 20 |
 | **[STR](https://job-boards.greenhouse.io/systemstechnologyresearch)** | **[Associate Signal Processing Engineer](https://interviewchamp.ai/jobs/systemstechnologyresearch-associate-signal-processing-engineer-4703073006?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Woburn, MA | On-site | $110k–$115k | Nov 20 |
@@ -181,8 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **5,115 are live r
 | **[U.S. Marine Corps](https://www.usajobs.gov)** | **[Sales Associate NF2* (Part-Time)](https://interviewchamp.ai/jobs/u-s-marine-corps-usajobs-sales-associate-nf2-part-time-893736200?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Arlington, Virginia | On-site |  | Nov 20 |
 | **[NeuroPace](https://www.neuropace.com)** | **[Associate Therapy Consultant - Birmingham](https://interviewchamp.ai/jobs/neuropace-associate-therapy-consultant-birmingham-6265995004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Birmingham, AL | On-site | From $156k | Nov 20 |
 | **[Datavant](https://www.datavant.com)** | **[Health Information Specialist I](https://interviewchamp.ai/jobs/datavant2-health-information-specialist-i-5480501008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Little Rock, AR | On-site |  | Nov 20 |
-| **[West Monroe](https://westmonroe.com)** | **[Market Research &amp; Insights Associate](https://interviewchamp.ai/jobs/westmonroe4-market-research-insights-associate-5801455004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Boston | On-site | $64.4k–$75.8k | Nov 20 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-11-22 19:50 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-23 01:49 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
