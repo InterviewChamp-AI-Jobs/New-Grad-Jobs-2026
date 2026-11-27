@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **5,157 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **5,143 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 5,157, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 5,143, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,10 @@ Entry-level roles for new grads and early-career job seekers. **5,157 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Jerry](https://jobs.ashbyhq.com/Jerry.ai)** | **[Remote Inside Sales Associate (Insurance Tech Startup)](https://interviewchamp.ai/jobs/jerry-ai-remote-inside-sales-associate-insurance-tech-startup-8840066f-1f0c-49df-b181-87cefe2512a9?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Raleigh, North Carolina (Remote) | Remote | From $100k | Nov 26 |
+| **[Wilson Elser - Attorneys](https://job-boards.greenhouse.io/wilsonelserattorneys)** | **[Employment Practices Liability Insurance (EPLI) – Associate Attorney](https://interviewchamp.ai/jobs/wilsonelserattorneys-employment-practices-liability-insurance-epli-associate-attorney-5495314008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Orange County, California | On-site | $160k–$220k | Nov 26 |
+| **[Wilson Elser - Attorneys](https://job-boards.greenhouse.io/wilsonelserattorneys)** | **[Employment Practices Liability Insurance (EPLI) – Associate Attorney](https://interviewchamp.ai/jobs/wilsonelserattorneys-employment-practices-liability-insurance-epli-associate-attorney-5495311008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Los Angeles, California | On-site | $160k–$220k | Nov 26 |
+| **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Founder Associate](https://interviewchamp.ai/jobs/clera-founder-associate-c0d65271-409f-4551-b452-7023fb093015?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Francisco | On-site | $90k–$120k | Nov 26 |
 | **[BAYADA Home Health Care](https://jobs.bayada.com)** | **[LPN -Overnights 1\:1](https://interviewchamp.ai/jobs/bayada-lpn-overnights-1-1-8963467002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Hopatcong, NJ 07843 \| 40.938422988 \| -74.661507666 | On-site |  | Nov 26 |
 | **[BAYADA Home Health Care](https://jobs.bayada.com)** | **[LPN - 1\:1](https://interviewchamp.ai/jobs/bayada-lpn-1-1-8963452002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Parsippany, NJ 07054 \| 40.862618945 \| -74.410015205 | On-site |  | Nov 26 |
 | **[Honey Birdette](https://careers.honeybirdette.com)** | **[Sales Associate \| International Plaza](https://interviewchamp.ai/jobs/honeybirdette-sales-associate-international-plaza-8797320?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Tampa, United States | On-site |  | Nov 26 |
@@ -178,11 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **5,157 are live r
 | **[Heartworksvt](https://jobs.lever.co/heartworksvt)** | **[Childcare Teacher Associate](https://interviewchamp.ai/jobs/heartworksvt-childcare-teacher-associate-fa19cfa2-1b84-49f9-8866-22dae7f46f55?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | South Burlington, VT | On-site |  | Nov 24 |
 | **[Heartworksvt](https://jobs.lever.co/heartworksvt)** | **[Childcare Teacher Associate](https://interviewchamp.ai/jobs/heartworksvt-childcare-teacher-associate-e806e6bf-772d-4717-b863-4190cbe97c33?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Shelburne, VT | On-site |  | Nov 24 |
 | **[SmarterDx](https://job-boards.greenhouse.io/smarterdx)** | **[Associate Manager, Events Marketing](https://interviewchamp.ai/jobs/smarterdx-associate-manager-events-marketing-5308061007?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Remote (United States) | Remote |  | Nov 24 |
-| **[Natera](https://job-boards.greenhouse.io/natera)** | **[Clinical Lab Operator I](https://interviewchamp.ai/jobs/natera-clinical-lab-operator-i-6203762004?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Austin, TX | On-site |  | Nov 24 |
-| **[KHAITE](https://job-boards.greenhouse.io/khaite)** | **[Operations Associate, South Coast Plaza](https://interviewchamp.ai/jobs/khaite-operations-associate-south-coast-plaza-5493956008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Costa Mesa, CA | On-site |  | Nov 24 |
-| **[iCapital](https://job-boards.greenhouse.io/icapitalnetwork)** | **[Transactional Operations - Investor Onboarding - Analyst/Associate](https://interviewchamp.ai/jobs/icapitalnetwork-transactional-operations-investor-onboarding-analyst-associate-8947918002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Salt Lake City, Utah, United States | On-site | $60k–$70k | Nov 24 |
-| **[BYD North America](https://job-boards.greenhouse.io/byd)** | **[Associate Counsel](https://interviewchamp.ai/jobs/byd-associate-counsel-5493779008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Pasadena, CA | On-site | $130k–$150k | Nov 24 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-11-26 17:05 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-27 01:48 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
