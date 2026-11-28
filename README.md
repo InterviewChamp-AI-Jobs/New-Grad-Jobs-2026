@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Entry-level roles for new grads and early-career job seekers. **5,158 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Entry-level roles for new grads and early-career job seekers. **5,160 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 5,158, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
+👉 **See all 5,160, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,9 @@ Entry-level roles for new grads and early-career job seekers. **5,158 are live r
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[CSC Generation](https://jobs.lever.co/cscgeneration-2)** | **[Seasonal Sales Associate (Sur La Table)](https://interviewchamp.ai/jobs/cscgeneration-2-seasonal-sales-associate-sur-la-table-3742c0d4-633d-48ac-aa86-31d8e4b1e443?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | King of Prussia, PA | On-site |  | Nov 28 |
+| **[Berlin City Auto Group](https://job-boards.greenhouse.io/berlincity)** | **[Automotive Sales Associate](https://interviewchamp.ai/jobs/berlincity-automotive-sales-associate-8218853003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | 586 Marshall Ave., Williston, VT 05495 | On-site |  | Nov 28 |
+| **[CannonDesign](http://www.cannondesign.com)** | **[Interior Designer - Entry Level](https://interviewchamp.ai/jobs/cannondesign-interior-designer-entry-level-8962298002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Dallas, TX | On-site |  | Nov 28 |
 | **[Hammer Made](https://recruiting.paylocity.com)** | **[Retail Sales Associate- Part time](https://interviewchamp.ai/jobs/hammer-made-retail-sales-associate-part-time-4695845?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Las Vegas, NV | On-site |  | Nov 27 |
 | **[Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab)** | **[Radar Phase Array Engineer I](https://interviewchamp.ai/jobs/rocketlab-radar-phase-array-engineer-i-8203626003?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Long Beach, CA | On-site | $88k–$121k | Nov 27 |
 | **[Elise AI](https://jobs.ashbyhq.com/EliseAI)** | **[Workplace Operations Associate](https://interviewchamp.ai/jobs/eliseai-workplace-operations-associate-3afcb4d9-0adf-4b7f-973b-4c6f474f2bdf?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Francisco | On-site |  | Nov 27 |
@@ -179,10 +182,7 @@ Entry-level roles for new grads and early-career job seekers. **5,158 are live r
 | **[Faherty Brand](https://fahertybrand.com)** | **[Seasonal Sales Associate, Part-Time - Columbus Ave](https://interviewchamp.ai/jobs/fahertybrand-seasonal-sales-associate-part-time-columbus-ave-5307039007?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York, New York, United States | On-site |  | Nov 24 |
 | **[Vaxcyte](https://boards.greenhouse.io/vaxcyte)** | **[Associate Scientist II, Immunoassay Development](https://interviewchamp.ai/jobs/vaxcyte-associate-scientist-ii-immunoassay-development-5371067008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | San Carlos, California, United States | On-site | $105k–$123k | Nov 24 |
 | **[BlackSky](https://boards.greenhouse.io/blacksky)** | **[Associate Buyer](https://interviewchamp.ai/jobs/blacksky-associate-buyer-8949199002?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Tukwila, WA | On-site |  | Nov 24 |
-| **[Veeva](https://jobs.lever.co/veeva)** | **[Associate Software Engineer - 2027 Start Dates](https://interviewchamp.ai/jobs/veeva-associate-software-engineer-2027-start-dates-7272b636-1a5e-4e4b-a0af-763d2951429f?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | North Carolina - Raleigh | On-site | From $112.5k | Nov 24 |
-| **[Integrated Specialty Coverages](https://job-boards.greenhouse.io/isccareers)** | **[Account Associate (Wholesale Insurance)](https://interviewchamp.ai/jobs/isccareers-account-associate-wholesale-insurance-4755951005?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | Pomona, California | On-site |  | Nov 24 |
-| **[Praxis](https://job-boards.greenhouse.io/praxis)** | **[Associate, Redemptive Imagination Project](https://interviewchamp.ai/jobs/praxis-associate-redemptive-imagination-project-5494138008?utm_source=github&utm_medium=referral&utm_campaign=new_grad_jobs)** | New York, NY | On-site | $60k–$90k | Nov 24 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-11-28 08:04 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-28 17:39 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
